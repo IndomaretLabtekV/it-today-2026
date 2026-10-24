@@ -1,0 +1,4 @@
+file,role,eligible_to_submit,note
+submission_v30_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,True,Candidate if development + sealed gates pass; otherwise exact V25 anchor.
+submission_v30_DIAGNOSTIC_frozen.csv,DIAGNOSTIC_ONLY,False,Frozen development winner on test; never submit automatically if sealed gate fails.
+submission_v30_anchor_v25_65919.csv,ANCHOR_REFERENCE,False,Exact current public anchor.

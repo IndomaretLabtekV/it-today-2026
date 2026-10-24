@@ -1,0 +1,181 @@
+{
+  "version": "V31 Fold-Safe Intent-State Residual Learning-to-Rank",
+  "public_anchor_v30": 0.65963,
+  "leader_reference": 0.66141,
+  "leader_gap": 0.0017800000000000038,
+  "fixed_alpha": 0.16,
+  "intent_parent_strength": 40.0,
+  "intent_child_strength": 30.0,
+  "fresh_salts": {
+    "G": 1894923565,
+    "H": 2108132349,
+    "I": 1749168550
+  },
+  "development_gate_passed": false,
+  "development_winner": null,
+  "sealed_gate_passed": false,
+  "v30_reproduction_ok": true,
+  "final_gate_passed": false,
+  "three_salt": [
+    {
+      "salt": "G",
+      "alpha": 0.16,
+      "anchor_ndcg": 0.6622115942445044,
+      "v30_control_ndcg": 0.6620558961727283,
+      "v31_intentstate_ndcg": 0.6623113666118183,
+      "v30_delta_vs_anchor": -0.00015569807177606424,
+      "v31_delta_vs_anchor": 9.977236731396307e-05,
+      "increment_v31_vs_v30": 0.0002554704390900273,
+      "increment_positive_rate": 0.038,
+      "increment_harm_rate": 0.03225,
+      "increment_fold_wins": 4,
+      "increment_min_fold": -0.0005462042912386342,
+      "increment_max_fold": 0.0009894204708100652,
+      "increment_ci_low": -0.0002644843997992935,
+      "increment_ci_high": 0.0008016441874552127,
+      "v31_vs_v30_top5_membership_change": 0.03375,
+      "v31_vs_v30_top5_order_change": 0.10825,
+      "v31_vs_v30_top1_change": 0.00675
+    },
+    {
+      "salt": "H",
+      "alpha": 0.16,
+      "anchor_ndcg": 0.6619638040061528,
+      "v30_control_ndcg": 0.6622078232578421,
+      "v31_intentstate_ndcg": 0.6622389516100294,
+      "v30_delta_vs_anchor": 0.0002440192516893655,
+      "v31_delta_vs_anchor": 0.00027514760387658,
+      "increment_v31_vs_v30": 3.1128352187214475e-05,
+      "increment_positive_rate": 0.03575,
+      "increment_harm_rate": 0.03375,
+      "increment_fold_wins": 3,
+      "increment_min_fold": -0.0005356158627791777,
+      "increment_max_fold": 0.0006610490519452877,
+      "increment_ci_low": -0.0005409952030454386,
+      "increment_ci_high": 0.0006047338616695548,
+      "v31_vs_v30_top5_membership_change": 0.0325,
+      "v31_vs_v30_top5_order_change": 0.10675,
+      "v31_vs_v30_top1_change": 0.00675
+    },
+    {
+      "salt": "I",
+      "alpha": 0.16,
+      "anchor_ndcg": 0.6639478213321408,
+      "v30_control_ndcg": 0.6643351653274,
+      "v31_intentstate_ndcg": 0.6645064271145997,
+      "v30_delta_vs_anchor": 0.0003873439952591512,
+      "v31_delta_vs_anchor": 0.0005586057824590558,
+      "increment_v31_vs_v30": 0.0001712617871999045,
+      "increment_positive_rate": 0.03525,
+      "increment_harm_rate": 0.0315,
+      "increment_fold_wins": 4,
+      "increment_min_fold": -0.0014856749317925587,
+      "increment_max_fold": 0.0013086235402999889,
+      "increment_ci_low": -0.000369885978965931,
+      "increment_ci_high": 0.0007349413760878409,
+      "v31_vs_v30_top5_membership_change": 0.03225,
+      "v31_vs_v30_top5_order_change": 0.1025,
+      "v31_vs_v30_top1_change": 0.0085
+    }
+  ],
+  "pooled_incremental": [
+    {
+      "candidate": "v31_intentstate",
+      "salt_G_increment": 0.0002554704390900273,
+      "salt_H_increment": 3.1128352187214475e-05,
+      "salt_I_increment": 0.0001712617871999045,
+      "positive_salts": 3,
+      "worst_salt_increment": 3.1128352187214475e-05,
+      "mean_salt_increment": 0.0001526201928257154,
+      "fold_wins_total": 11,
+      "pooled_user_increment": 0.00015262019282571542,
+      "pooled_ci_low": -0.00014406808348748802,
+      "pooled_ci_high": 0.00045980267231337987
+    }
+  ],
+  "sealed_validation": [
+    {
+      "world": "skipped_development_gate_failed",
+      "n": 0,
+      "alpha": 0.16,
+      "v30_control_ndcg": NaN,
+      "v31_intentstate_ndcg": NaN,
+      "increment_v31_vs_v30": NaN,
+      "positive_rate": NaN,
+      "harm_rate": NaN,
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "top5_membership_change": NaN,
+      "top5_order_change": NaN,
+      "top1_change": NaN
+    }
+  ],
+  "intentstate_support_audit": [
+    {
+      "level": "child",
+      "threshold": 1,
+      "coverage": 0.9982352941176471,
+      "median_support": NaN,
+      "p10_support": NaN,
+      "p25_support": NaN
+    },
+    {
+      "level": "child",
+      "threshold": 5,
+      "coverage": 0.9859411764705882,
+      "median_support": NaN,
+      "p10_support": NaN,
+      "p25_support": NaN
+    },
+    {
+      "level": "child",
+      "threshold": 10,
+      "coverage": 0.9692941176470589,
+      "median_support": NaN,
+      "p10_support": NaN,
+      "p25_support": NaN
+    },
+    {
+      "level": "child",
+      "threshold": 20,
+      "coverage": 0.8925294117647059,
+      "median_support": NaN,
+      "p10_support": NaN,
+      "p25_support": NaN
+    },
+    {
+      "level": "child",
+      "threshold": 30,
+      "coverage": 0.7723529411764706,
+      "median_support": NaN,
+      "p10_support": NaN,
+      "p25_support": NaN
+    },
+    {
+      "level": "child",
+      "threshold": 50,
+      "coverage": 0.6862941176470588,
+      "median_support": NaN,
+      "p10_support": NaN,
+      "p25_support": NaN
+    },
+    {
+      "level": "child",
+      "threshold": -1,
+      "coverage": 1.0,
+      "median_support": 102.0,
+      "p10_support": 18.0,
+      "p25_support": 32.0
+    },
+    {
+      "level": "parent",
+      "threshold": 1,
+      "coverage": 1.0,
+      "median_support": 277.0,
+      "p10_support": NaN,
+      "p25_support": NaN
+    }
+  ],
+  "diagnostic_test_changed_users_vs_v30": 60,
+  "submission_instruction": "NO NEW V31 SUBMISSION: primary is the reconstructed V30 fail-close anchor."
+}

@@ -1,0 +1,7 @@
+world,scope,n_val,meta_proposals,reference_hybrid_ndcg,candidate_ndcg,increment_vs_hybrid34,ci_low,ci_high,actions,beneficial_actions,harmful_actions,tie_actions,precision,top1_changes,membership_changes,policy_threshold,policy_train_increment,policy_train_precision,policy_train_harm
+A,CORRIDOR,400,537,0.6746607124400984,0.6746607124400984,0.0,0.0,0.0,0,0,0,0,0.0,0,0,inf,0.0,0.0,1.0
+A,ATTACK,400,537,0.6746607124400984,0.6746607124400984,0.0,0.0,0.0,0,0,0,0,0.0,0,0,inf,0.0,0.0,1.0
+B,CORRIDOR,400,433,0.6557621715040682,0.6557621715040682,0.0,0.0,0.0,0,0,0,0,0.0,0,0,inf,0.0,0.0,1.0
+B,ATTACK,400,433,0.6557621715040682,0.6557621715040682,0.0,0.0,0.0,0,0,0,0,0.0,0,0,inf,0.0,0.0,1.0
+C,CORRIDOR,400,533,0.6664682026542575,0.6664682026542575,0.0,0.0,0.0,0,0,0,0,0.0,0,0,inf,0.0,0.0,1.0
+C,ATTACK,400,533,0.6664682026542575,0.6664682026542575,0.0,0.0,0.0,0,0,0,0,0.0,0,0,inf,0.0,0.0,1.0

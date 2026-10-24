@@ -1,0 +1,3 @@
+scope,pooled_increment,worst_world,all_worlds_positive,ci_low,ci_high,oracle_worst,total_actions,passed
+CORRIDOR,0.0,0.0,False,0.0,0.0,0.0,0,False
+ATTACK,0.0,0.0,False,0.0,0.0,0.0,0,False

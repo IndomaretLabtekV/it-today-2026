@@ -1,0 +1,39 @@
+{
+  "exact_v30_v31_current_reproduction": true,
+  "anchor_public_score": 0.66028,
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "expected_anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "expected_state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "boundary_counts": {
+    "B23": 9,
+    "B34": 10,
+    "B45": 8
+  },
+  "expected_boundary_counts": {
+    "B23": 9,
+    "B34": 10,
+    "B45": 8
+  },
+  "anchor_family": "current066020 + B34 + B45, algorithmic ranking-geometry rule",
+  "no_historical_submission_csv_predictive_input": true,
+  "organizer_data_only": true,
+  "external_labeled_data": false,
+  "no_user_id_predictive_feature": true,
+  "no_post_lock_retraining": true,
+  "s1_s2_s3_test_locked": true,
+  "top5_membership_frozen": true,
+  "rank5_frozen": true,
+  "fixed_alpha": 0.16,
+  "control_vs_gencat_same_hyperparameters": true
+}

@@ -1,0 +1,66 @@
+{
+  "public_consensus3_lb": 0.65856,
+  "public_v18_attack1_lb": 0.65829,
+  "public_leader_lb": 0.66082,
+  "required_public_delta": 0.0022599999999999287,
+  "model": "Qwen/Qwen3-Embedding-8B",
+  "revision": "1d8ad4c",
+  "representation": "message-level Qwen8B + fold-safe prototypes/memory + two-stage realized-contribution stability selection",
+  "selection_policy": "ordinary-first; audit confirmation; chronology veto; public V18 score not used for fitting",
+  "diagnostics": [
+    {
+      "candidate": "stable50",
+      "ordinary_delta": 0.0008836261634149895,
+      "ordinary_fold_wins": 5,
+      "ordinary_folds": "[0.00026582265241298364, 0.0004616390205325767, 6.077318368766682e-05, 0.0016425699790230627, 0.0019873259814186584]",
+      "audit_delta": 0.0009393378934627696,
+      "audit_fold_wins": 3,
+      "audit_folds": "[0.0011440398560330282, 0.0006961435011593732, 0.0009776767583327642]",
+      "audit_ci_low": -0.00023679416781882483,
+      "audit_ci_high": 0.0020620406417743782,
+      "chrono_delta": 0.0004790397241979405,
+      "test_top5_set_change": 0.096,
+      "test_top5_order_change": 0.26,
+      "test_top1_change": 0.018,
+      "stage1_modules": "M_001,M_006,M_007,M_008,M_010,M_014",
+      "stable_modules": "M_001,M_006,M_007,M_008,M_014",
+      "decision_score": 0.0007718810385076186,
+      "promotion_gate": false
+    },
+    {
+      "candidate": "stable62",
+      "ordinary_delta": 0.0008156769887028846,
+      "ordinary_fold_wins": 3,
+      "ordinary_folds": "[0.0010767577733887057, -1.94710372882774e-05, -0.000791804954206827, 0.0006467506295627825, 0.0031661525320580398]",
+      "audit_delta": 0.000830741948597941,
+      "audit_fold_wins": 3,
+      "audit_folds": "[0.0017709396980380527, 3.1793453088095355e-06, 0.0007174014778037195]",
+      "audit_ci_low": -0.0004372351204854875,
+      "audit_ci_high": 0.0020966952482206684,
+      "chrono_delta": 0.000632133924852428,
+      "test_top5_set_change": 0.127,
+      "test_top5_order_change": 0.319,
+      "test_top1_change": 0.025,
+      "stage1_modules": "M_001,M_006,M_007,M_008,M_010,M_014",
+      "stable_modules": "M_001,M_006,M_007,M_008,M_014",
+      "decision_score": 0.0006201421702863558,
+      "promotion_gate": false
+    }
+  ],
+  "attack1": "stable50",
+  "attack2": "stable62",
+  "primary": "consensus3_fallback",
+  "files": {
+    "consensus3": "submission_v19_consensus3_reference.csv",
+    "attack1": "submission_v19_attack1.csv",
+    "attack2": "submission_v19_attack2.csv",
+    "primary": "submission_v19_primary.csv"
+  },
+  "compliance": {
+    "task_specific_data": "organizer files only",
+    "external task dataset": false,
+    "pretrained_usage": "frozen open-source embedding feature extractor only",
+    "generation_used": false,
+    "direct_test_label_request": false
+  }
+}

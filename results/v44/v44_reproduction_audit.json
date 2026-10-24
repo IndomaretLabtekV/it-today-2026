@@ -1,0 +1,32 @@
+{
+  "version": "V44 Frozen-Lineage Causal Pruning of V30-S2",
+  "organizer_data_only": true,
+  "external_labeled_data": false,
+  "no_historical_submission_csv_predictive_input": true,
+  "no_user_id_predictive_feature": true,
+  "no_user_whitelist": true,
+  "no_module_whitelist": true,
+  "no_learned_test_selector": true,
+  "no_combinatorial_class_subset_search": true,
+  "v30_alpha_fixed": 0.16,
+  "state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "expected_state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "expected_anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "s3_b34_b45_protected": true,
+  "selected_classes": [],
+  "design_gate": false,
+  "lock_evaluated": false,
+  "lock_gate": false,
+  "final_gate": false
+}

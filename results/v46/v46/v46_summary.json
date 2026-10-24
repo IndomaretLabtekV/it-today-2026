@@ -1,0 +1,22 @@
+{
+  "version": "V46 Frozen-Champion Dual-Contrastive Head Challenge with Selective Consensus",
+  "public_anchor": 0.66028,
+  "public_top5_cutoff": 0.66076,
+  "public_leader": 0.66142,
+  "oracle_delta": 0.02761696250453649,
+  "oracle_gate": true,
+  "embeddings_ready": false,
+  "embedding_error": "ValueError: Couldn't instantiate the backend tokenizer from one of: \n(1) a `tokenizers` library serialization file, \n(2) a slow tokenizer instance to convert or \n(3) an equivalent slow tokenizer class to instantiate and convert. \nYou need to have sentencepiece or tiktoken installed to convert a slow tokenizer to a fast one.",
+  "design_delta": 0.0,
+  "design_gate": false,
+  "lock_evaluated": false,
+  "lock_delta": null,
+  "lock_gate": false,
+  "test_actions": 0,
+  "test_geometry_gate": false,
+  "final_gate": false,
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "candidate_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "primary_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "submission_instruction": "DO NOT spend a leaderboard slot on V46: submission_v46_primary.csv fail-closed exactly to the 0.66028 champion. Inspect v46_design_metrics.csv / v46_lock_metrics.csv."
+}

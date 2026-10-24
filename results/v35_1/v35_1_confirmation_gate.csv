@@ -1,0 +1,2 @@
+fresh_X_delta,sealed_T_delta,chronology_delta,combined_actions,combined_beneficial,combined_harmful,combined_precision,combined_ci_low,combined_ci_high,world_benefit_not_below_harm,confirmation_gate
+0.0002698402751013677,-0.0004758304231486015,0.0,12,5,6,0.45454545454545453,-0.00031060538734733627,0.00016773915224640526,False,False

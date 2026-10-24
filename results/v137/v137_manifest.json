@@ -1,0 +1,81 @@
+{
+  "config": {
+    "seed": 20260907,
+    "second_seed": 20260917,
+    "state_seed": 20260909,
+    "fold_seed": 20260907,
+    "alpha_grid": [
+      0.0,
+      0.01,
+      0.02,
+      0.05
+    ],
+    "state_ridge_alpha": 1000.0,
+    "q12_ridge_alpha": 100.0,
+    "kmeans_clusters": 6,
+    "kmeans_n_init": 20,
+    "authority": "Top1 fixed; only anchor ranks 2-8 may reorder"
+  },
+  "python": "3.12.13",
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "data_dir": "/kaggle/input/datasets/riantamaputra/mine-today-data-mining-competition-it-today-2026",
+  "inputs": {
+    "chat_history.csv": {
+      "bytes": 2112516,
+      "sha256": "c87e93e43eb96870cc0d6b38dc7b865fbfef80de5a648890a8b5807846b9637f"
+    },
+    "modules_catalog.csv": {
+      "bytes": 2969,
+      "sha256": "b1e5320f227647e2e5745294fa6a8ba8e631a1ef436387a07518c02fc29972e5"
+    },
+    "sample_submission.csv": {
+      "bytes": 75110,
+      "sha256": "e2c99b721522ce334ccc4304be86795a1969d6fbc852f79501dbf689d8d7d277"
+    },
+    "user_assessments.csv": {
+      "bytes": 5434187,
+      "sha256": "458097315e216eed1696e1bac4c7bf6c6d9aabc836b3c829a823daa6ff587321"
+    },
+    "test.csv": {
+      "bytes": 7008,
+      "sha256": "2ac4f8427194442afe0cc8da31cb70a26c2908b44e86452a91de73ab97028b4c"
+    },
+    "train_relevance.csv": {
+      "bytes": 314509,
+      "sha256": "bf66eed0ad7a6d356d528dad317a32e9a46172e46995a16316c23023790ccc90"
+    }
+  },
+  "outputs": {
+    "v137_gate_report.json": {
+      "bytes": 1718,
+      "sha256": "bdc613b1d060a01c78f5e9646f521886bc2a42599d79f71e25dddff408034c9e"
+    },
+    "v137_inner_selection.csv": {
+      "bytes": 587,
+      "sha256": "2e81a3a8e30c4b6c8ec48c744e0b93a33ef2bc37de9c98df9483fcae4cfef644"
+    },
+    "v137_oof_scores.npz": {
+      "bytes": 657326,
+      "sha256": "778b5f768e9bd287ec04c228e62290d3585876c89d5f7bc1c21c14354774bfac"
+    },
+    "v137_primary_fold_metrics.csv": {
+      "bytes": 804,
+      "sha256": "d35c01d2db456901f90b2eae4864b3033ea1e2504eee489bf38a936cf81205f3"
+    },
+    "v137_primary_summary.json": {
+      "bytes": 575,
+      "sha256": "333ff560cd7c86f403a24f06127459ddaf39c3cea45a6b3f9f591633cdec910f"
+    },
+    "v137_rank_change_ledger.csv": {
+      "bytes": 139668,
+      "sha256": "66f12fbbeddc717da4a7caf5e254c40fc508d2f22f5a25c0e4c3c75c8d37a463"
+    }
+  },
+  "packages": {
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.16.3",
+    "lightgbm": "4.6.0"
+  }
+}

@@ -1,0 +1,14 @@
+left,right,rank_correlation,top1_agreement,top5_jaccard,exact_score_pair,exact_rank_pair,near_duplicate,duplicate_kind
+v12_1_micro4,v12_2_consensus3,0.9996527417551386,0.9964726631393298,0.9984714873603763,False,False,True,near_rank
+v12_1_micro4,v12_2_m15_only,0.9994005832785791,0.9958847736625515,0.9978248089359201,False,False,True,near_rank
+v12_1_micro4,v12_2_stable3,0.99931917211329,0.9950029394473839,0.9972957084068196,False,False,True,near_rank
+v12_1_micro4,v12_leader6,0.9994791126327076,0.996766607877719,0.9981187536743092,False,False,True,near_rank
+v12_2_consensus3,v12_2_m15_only,0.9996448167744465,0.9976484420928865,0.998177542621987,False,False,True,near_rank
+v12_2_consensus3,v12_2_stable3,0.9996541826607189,0.9985302763080541,0.9987066431510876,False,False,True,near_rank
+v12_2_consensus3,v12_leader6,0.9995720510426395,0.9973544973544973,0.9978835978835978,False,False,True,near_rank
+v12_2_m15_only,v12_2_stable3,0.9998883298175241,0.9985302763080541,0.9991181657848325,False,False,True,near_rank
+v12_2_m15_only,v12_leader6,0.9999171479291306,0.9991181657848325,0.9995884773662551,False,False,True,near_rank
+v12_2_stable3,v12_leader6,0.9998198868024578,0.9982363315696648,0.998941798941799,False,False,True,near_rank
+v4_lambdarank,v4_primary,1.0,1.0,1.0,True,True,True,exact_score
+v5_primary,v5_yetirank,1.0,1.0,1.0,True,True,True,exact_score
+v6_lambdarank,v6_primary,0.9966376468282787,0.9982363315696648,0.9965314520870076,False,False,True,near_rank

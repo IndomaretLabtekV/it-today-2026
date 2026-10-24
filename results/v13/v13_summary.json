@@ -1,0 +1,70 @@
+{
+  "public_champion_lb": 0.65856,
+  "historical_v91_public_lb": 0.65432,
+  "router_config": {
+    "route_fraction": 0.125,
+    "transition_min_support": 8,
+    "transition_min_positive_folds": 2,
+    "gate_estimators": 180,
+    "gate_leaves": 7
+  },
+  "strict_consensus3": 0.6649659659794943,
+  "strict_v91": 0.6647906850041183,
+  "strict_router": 0.665281619750119,
+  "router_increment": 0.000315653770624702,
+  "bootstrap_ci": [
+    -4.049539234658566e-05,
+    0.0006801220382264814
+  ],
+  "fold_deltas": [
+    0.0002059320011401207,
+    0.0005736203284807062,
+    0.0005520599567559187,
+    0.00012123163180654414,
+    0.0001254249349405738
+  ],
+  "fold_wins": 5,
+  "worst_fold": 0.00012123163180654414,
+  "quarter_deltas": [
+    0.0007135837934191695,
+    0.00016970666028999116,
+    0.00018560296972291695,
+    0.00019372165906701323
+  ],
+  "quarter_wins": 4,
+  "tail_increment": 0.00019372165906701323,
+  "oof_route_rate": 0.02775,
+  "oof_routed_users": 111,
+  "routed_beneficial_rate": 0.44144144144144143,
+  "routed_harmful_rate": 0.35135135135135137,
+  "routed_neutral_rate": 0.20720720720720726,
+  "test_route_rate": 0.035,
+  "test_routed_users": 35,
+  "test_top5_change": 0.018,
+  "test_top5_order_change": 0.035,
+  "test_top1_change": 0.002,
+  "v91_final_scale": 1.5499999523162842,
+  "v91_final_support": {
+    "M_001": 1.0,
+    "M_002": 1.0,
+    "M_003": 1.0,
+    "M_004": 1.0,
+    "M_005": 1.0,
+    "M_006": 1.0,
+    "M_007": 0.0,
+    "M_008": 1.0,
+    "M_009": 1.0,
+    "M_010": 1.0,
+    "M_011": 1.0,
+    "M_012": 1.0,
+    "M_013": 1.0,
+    "M_014": 1.0,
+    "M_015": 1.0,
+    "M_016": 1.0,
+    "M_017": 1.0
+  },
+  "promotion_gate": false,
+  "primary_label": "consensus3_fallback",
+  "primary_file": "submission_v13_primary.csv",
+  "router_file": "submission_v13_router.csv"
+}

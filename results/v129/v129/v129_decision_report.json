@@ -1,0 +1,31 @@
+{
+  "version": "V129",
+  "status": "GREEN",
+  "recommend_submit": true,
+  "correctness_ok": true,
+  "fixed_coverage": 0.05,
+  "primary_gain": 0.0011301930556073786,
+  "benchmark_mix_gain": 0.0011703919159089214,
+  "seen_gain": 0.0011925042934738958,
+  "unseen_gain": 0.0010723283284468615,
+  "positive_random_folds": 5,
+  "primary_ci_user": [
+    0.00036428423765464687,
+    0.0018839645147905682
+  ],
+  "primary_ci_cluster": [
+    0.0003157520465789268,
+    0.0019904358119389163
+  ],
+  "severe_stress": false,
+  "test_actions": 50,
+  "test_action_rate": 0.05,
+  "protected_exact": true,
+  "top5_membership_unchanged": true,
+  "rank5_unchanged": true,
+  "score_multiset_preserved": true,
+  "champion_sha256": "443785fb534df9820ce57bfe450a2768881625bf7ae37aa849dd0d9f2afc957d",
+  "candidate_sha256": "34f334429c2113ba5b96283a7974fad472068ea08047ba3275fc44057e3a95df",
+  "primary_sha256": "34f334429c2113ba5b96283a7974fad472068ea08047ba3275fc44057e3a95df",
+  "submission_instruction": "FIRST-SLOT CANDIDATE: submit submission_v129_primary.csv after artifact audit."
+}

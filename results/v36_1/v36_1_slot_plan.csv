@@ -1,0 +1,5 @@
+file,role,eligible_to_submit,note
+submission_v36_1_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,None continuous-pressure candidate if every gate passes; otherwise exact Hybrid34 0.66006.
+submission_v36_1_DIAGNOSTIC_attack_pressure.csv,DIAGNOSTIC_ONLY,False,S0+S2 3/4 continuous-pressure policy. Never bypass the gate.
+submission_v36_1_DIAGNOSTIC_corridor_pressure.csv,DIAGNOSTIC_ONLY,False,S2-only 3/4 continuous-pressure policy.
+submission_v36_1_anchor_hybrid34_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Exact deterministic 0.66006 Hybrid34.

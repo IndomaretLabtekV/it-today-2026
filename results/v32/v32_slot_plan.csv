@@ -1,0 +1,7 @@
+file,role,eligible_to_submit,note
+submission_v32_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,Selected None only if K/L/M + sealed J + chronology + V30 reconstruction all pass; otherwise exact V30 fail-close.
+submission_v32_DIAGNOSTIC_yeti_residual.csv,DIAGNOSTIC_ONLY,False,Frozen CatBoost YetiRank-NDCG residual expert. Do not bypass the gate.
+submission_v32_DIAGNOSTIC_xe_residual.csv,DIAGNOSTIC_ONLY,False,Frozen LightGBM rank_xendcg residual expert. Do not bypass the gate.
+submission_v32_DIAGNOSTIC_objective_median.csv,DIAGNOSTIC_ONLY,False,Broad cross-objective median candidate. Submission eligibility is represented only by primary.
+submission_v32_DIAGNOSTIC_unanimous_top6.csv,DIAGNOSTIC_ONLY,False,Deterministic abstaining consensus candidate. Submission eligibility is represented only by primary.
+submission_v32_anchor_v30_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Reconstructed V30 public anchor; current public reference 0.65963.

@@ -1,0 +1,4 @@
+file,role,eligible_to_submit,note
+submission_v31_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,V31 Intent-State only if G/H/I + sealed J + chronology + V30 reconstruction all pass; otherwise exact V30 fail-close.
+submission_v31_DIAGNOSTIC_intentstate.csv,DIAGNOSTIC_ONLY,False,Frozen Intent-State candidate regardless of sealed outcome. Never submit automatically.
+submission_v31_anchor_v30_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Reconstructed V30 rank geometry; current public score reference 0.65963.

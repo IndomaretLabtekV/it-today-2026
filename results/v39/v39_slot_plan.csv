@@ -1,0 +1,5 @@
+file,role,eligible_to_submit,note
+submission_v39_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,Exact reconstructed 0.66020 fail-close anchor; do not waste a Kaggle slot on this duplicate.
+submission_v39_DIAGNOSTIC_top1_12.csv,DIAGNOSTIC_ONLY,False,All precommitted S0 consensus pure 1<->2 trajectory actions; use validation table before any public probe.
+submission_v39_DIAGNOSTIC_membership_56.csv,DIAGNOSTIC_ONLY,False,All precommitted S0 consensus pure 5<->6 trajectory actions; use validation table before any public probe.
+submission_v39_anchor_current_066020.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Algorithmically reconstructed current 0.66020 Top-5 signature.

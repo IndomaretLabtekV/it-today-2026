@@ -1,0 +1,29 @@
+family,row,user_id,margin,action_delta,prune_delta,kernel_weight,local,template_group,intent
+PB_HEAD,228,U_0229,0.027493774890899658,0.0850563269614989,-0.0850563269614989,3.6603965890646757e-05,False,habis itu aku mikir lagi kelas yg cover <topic> buat laporan ke atasan ada silabus lengkapnya ga,intent:dashboard
+PB_HEAD,279,U_0280,0.2822958827018738,-0.10567497424323946,0.10567497424323946,1.9946577197195967e-49,False,btw sekalian mau tanya juga aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,intent:ml
+PB_HEAD,378,U_0379,0.2559758424758911,-0.17274110314578,0.17274110314578,7.449509452907032e-45,False,nah kalo udah itu aku jadi penasaran juga kalau mau learning <topic> aku harus mulai dari kelas apa ya,intent:ml
+PB_HEAD,487,U_0488,0.0633167028427124,-0.14465663966175268,0.14465663966175268,2.190020438536935e-11,False,oiya lanjut buat <topic> itu susah ga sih buat pemula kayak aku,intent:ml
+PB_HEAD,696,U_0697,0.01668405532836914,-0.17287872639972757,0.17287872639972757,0.0027629228920836918,False,sori nanya mulu ya min tapi kalo belajar <topic> prospek kerjanya gimana kak,intent:eda
+PB_HEAD,989,U_0990,0.606116533279419,-0.10985577724119244,0.10985577724119244,1.1129091505357535e-105,False,min nanya dong kelas <topic> kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,intent:ml
+PB_HEAD,1125,U_1126,0.41777369379997253,-0.16613031517247923,0.16613031517247923,5.820523808633686e-73,False,selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas <topic> apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,intent:ml
+PB_HEAD,1137,U_1138,0.2797936201095581,-0.12374693532068948,0.12374693532068948,5.426951202829598e-49,False,sori nanya mulu ya min tapi kelas <topic> ada diskon ga kak budget lagi cekak nih,intent:ml
+PB_HEAD,1179,U_1180,0.1922345757484436,0.02732471169652173,-0.02732471169652173,8.812920233044665e-34,False,btw sekalian mau tanya juga apakah ada kelas yang membahas <topic> secara mendalam,intent:mlops
+PB_HEAD,1281,U_1282,0.3883320689201355,0.0,-0.0,7.576980324013278e-68,False,kak spill dong kelas <topic> yang paling worth it budget terbatas nih hehe,intent:ml
+PB_HEAD,1311,U_1312,0.06544053554534912,-0.13628374588415892,0.13628374588415892,9.364845970367713e-12,False,eh satu lagi deh min gmn caranya biar cepet paham <topic>,intent:ml_eval
+PB_HEAD,1606,U_1607,0.10767960548400879,-0.06585354066479121,0.06585354066479121,4.3035082574627886e-19,False,terus min buat <topic> itu susah ga sih buat pemula kayak aku,intent:eda
+PB_HEAD,1692,U_1693,0.039551496505737305,0.0,-0.0,2.9436580401035e-07,False,oh gitu ya paham kalo boleh nanya lagi apakah kelas <topic> tersedia dalam format online,intent:eda
+PB_HEAD,1736,U_1737,0.049220502376556396,0.05337113810168903,-0.05337113810168903,6.154729907834005e-09,False,oiya lanjut apakah ada kelas yang membahas <topic> secara mendalam,intent:ml
+PB_HEAD,2040,U_2041,0.03178811073303223,-0.08227406929748537,0.08227406929748537,6.569398365708704e-06,False,nah kalo udah itu aku jadi penasaran juga gimana caranya biar cepet paham <topic>,intent:eda
+PB_HEAD,2194,U_2195,0.2617810368537903,-0.1418099136546056,0.1418099136546056,7.305704832146914e-46,False,btw sekalian mau tanya juga ada kelas <topic> yang bisa dipelajarin cepet ga,intent:ml
+PB_HEAD,2256,U_2257,0.1184917688369751,-0.01923771017079623,0.01923771017079623,5.695836154500491e-21,False,oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas <topic> secara mendalam,intent:ml
+PB_HEAD,2451,U_2452,0.0862656831741333,-0.05812844932681982,0.05812844932681982,2.2584056864343447e-15,False,sori nanya mulu ya min tapi apakah kelas <topic> tersedia dalam format online,intent:ml_eval
+PB_HEAD,2573,U_2574,0.06447958946228027,0.0,-0.0,1.3754159969844638e-11,False,oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas <topic> secara mendalam,intent:ml
+PB_HEAD,2860,U_2861,0.4440121054649353,-0.09727211589619561,0.09727211589619561,1.6102121897178217e-77,False,oiya lanjut kalau mau blajar <topic> aku harus mulai dari kelas apa ya,intent:ml
+PB_HEAD,2937,U_2938,0.25358152389526367,-0.13488826169398951,0.13488826169398951,1.9411693014929138e-44,False,eh iya lanjut nanya lagi ya min apakah ada kelas yang membahas <topic> secara mendalam,intent:ml
+PB_HEAD,3171,U_3172,0.1503314971923828,-0.055663324385630375,0.055663324385630375,1.6766026796633483e-26,False,ok makasih infonya min ngomong-ngomong kelas <topic> kapan buka lagi,intent:ml_eval
+PB_HEAD,3195,U_3196,0.27529460191726685,-0.1614144563891814,0.1614144563891814,3.2818250567998816e-48,False,ok makasih infonya min ngomong-ngomong apakah kelas <topic> tersedia dalam format online,intent:eda
+PB_HEAD,3231,U_3232,0.16504895687103271,0.0,-0.0,4.6531338508318915e-29,False,eh satu lagi deh min kelas <topic> itu berapa lama durasinya,intent:ml
+PB_HEAD,3293,U_3294,0.1841314435005188,0.022293503663092018,-0.022293503663092018,2.253087654112274e-32,False,terus min kalau mau blajar <topic> aku harus mulai dari kelas apa ya,intent:eda
+PB_HEAD,3513,U_3514,0.2928012013435364,0.10791421116751476,-0.10791421116751476,2.9847476260472124e-51,False,btw sekalian mau tanya juga apa saja prasyarat untuk mengikuti kelas <topic>,intent:ml_eval
+PB_HEAD,3663,U_3664,0.12739181518554688,-0.17738466188623586,0.17738466188623586,1.6197988295622425e-22,False,sori nanya mulu ya min tapi kalau mau belajar <topic> aku harus mulai dari kelas apa ya,intent:cv
+PB_HEAD,3861,U_3862,0.33260804414749146,-0.17492719811517515,0.17492719811517515,3.628697343235009e-58,False,habis itu aku mikir lagi kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,intent:ml_eval

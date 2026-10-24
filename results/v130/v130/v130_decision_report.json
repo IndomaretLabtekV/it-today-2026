@@ -1,0 +1,43 @@
+{
+  "version": "V130",
+  "status": "BORDERLINE",
+  "recommend_submit": false,
+  "correctness_ok": true,
+  "base_public_lb": 0.66075,
+  "incremental_coverage": 0.02,
+  "primary_incremental_gain": 0.00039429261535406113,
+  "positive_random_folds": 4,
+  "fold_gains": [
+    0.00024851542664691803,
+    0.0007552278297953308,
+    0.0005742977908812463,
+    -3.65084083750844e-05,
+    0.00042993043782189487
+  ],
+  "primary_ci_user": [
+    -4.447170021012424e-06,
+    0.0008654502301244064
+  ],
+  "primary_ci_cluster": [
+    -1.825775414347891e-05,
+    0.0008443052865080791
+  ],
+  "replacement_diagnostic_gain": 0.0003287782412953675,
+  "severe_stress": false,
+  "test_new_actions": 20,
+  "test_total_v129_plus_v130_actions": 70,
+  "pair_tv_oof_test_selected": 0.8250000000000001,
+  "utility_smd_oof_to_test_selected": -0.42517682127899203,
+  "unseen_pair_rate_test": 0.75,
+  "shift_alert": false,
+  "immutable_v129_actions": true,
+  "locked_noneligible_exact": true,
+  "top5_membership_unchanged": true,
+  "rank5_unchanged": true,
+  "tail_unchanged": true,
+  "score_multiset_preserved": true,
+  "v129_base_sha256": "34f334429c2113ba5b96283a7974fad472068ea08047ba3275fc44057e3a95df",
+  "candidate_sha256": "28dd2121c72e910be8a01b31cd43d022c7fdf080d8e628bd8f30abc3a24bc93e",
+  "primary_sha256": "34f334429c2113ba5b96283a7974fad472068ea08047ba3275fc44057e3a95df",
+  "submission_instruction": "BORDERLINE: primary remains exact V129; candidate_v130_DIAGNOSTIC.csv is preserved for manual slot decision."
+}

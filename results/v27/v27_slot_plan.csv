@@ -1,0 +1,3 @@
+slot,candidate,rule,purpose
+1,submission_v27_primary.csv,Submit only when primary_policy is not anchor_fail_closed.,Safest strict upper-rank population correction; Head-12 preferred.
+2,submission_v27_upper123_balanced.csv,Consider only if first strict candidate improves public LB and balanced has nonzero additional actions.,Medium-width expansion across independently validated upper-rank heads.

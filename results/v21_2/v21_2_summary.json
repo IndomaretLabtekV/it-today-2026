@@ -1,0 +1,58 @@
+{
+  "architecture": "anchor-initialized bagged LambdaRank + discrete trust-region projection",
+  "public_consensus3_lb": 0.65856,
+  "public_top2_lb": 0.65966,
+  "public_leader_lb": 0.66082,
+  "selected": "rank_boundary",
+  "selected_cal": {
+    "candidate": "rank_boundary",
+    "cal_delta": 0.0003605915538643645,
+    "fold_wins": 2,
+    "fold_std": 0.0016705863174760554,
+    "stability_score": -0.0004747016048736632,
+    "fold_deltas": [
+      0.0011397237521527659,
+      -0.0007196263776678702,
+      -0.0016503685872790719,
+      0.002672637428251745
+    ],
+    "seen_delta": 0.0006692721751098141,
+    "novel_delta": 0.00026603909613087673,
+    "set_change": 0.095,
+    "order_change": 0.18125,
+    "top1_change": 0.015
+  },
+  "cal_gate": false,
+  "lock_opened": false,
+  "lock_delta": null,
+  "lock_ci": null,
+  "lock_gate": false,
+  "perturb_gate": true,
+  "promote": false,
+  "primary_label": "consensus3_fallback",
+  "test_set_change": 0.052,
+  "test_order_change": 0.175,
+  "test_top1_change": 0.019,
+  "split_sizes": {
+    "adapt": 2600,
+    "cal": 800,
+    "lock": 600
+  },
+  "dims": [
+    512,
+    1024,
+    4096
+  ],
+  "rank_bag_seeds": [
+    0,
+    17,
+    43,
+    89,
+    137
+  ],
+  "rank_num_boost": 120,
+  "rank_truncation": 8,
+  "order_gap_threshold": 0.1368897669017315,
+  "top1_gap_threshold": 0.13808879852294925,
+  "boundary_gap_threshold": 0.1835021674633026
+}

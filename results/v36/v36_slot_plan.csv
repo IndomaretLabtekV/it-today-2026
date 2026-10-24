@@ -1,0 +1,5 @@
+file,role,eligible_to_submit,note
+submission_v36_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,None only if fresh A/B/C + sealed D + chronology + exact Hybrid34 reconstruction pass; otherwise exact Hybrid34 0.66006 fail-close.
+submission_v36_DIAGNOSTIC_corridor.csv,DIAGNOSTIC_ONLY,False,S2 unresolved-instability XE competence candidate. Never submit by bypassing the gate.
+submission_v36_DIAGNOSTIC_attack.csv,DIAGNOSTIC_ONLY,False,S2+S0 XE competence candidate. S1 excluded and S3 public-proven Hybrid34 rows immutable.
+submission_v36_anchor_hybrid34_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Deterministic reconstruction of current public 0.66006 Hybrid34.

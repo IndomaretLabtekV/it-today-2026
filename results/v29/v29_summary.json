@@ -1,0 +1,61 @@
+{
+  "version": "V29 Curriculum-Aware Residual Learning-to-Rank",
+  "public_anchor": 0.65919,
+  "leader_reference": 0.66112,
+  "selected_ablation": "ltr_gap_cooc_resid",
+  "selected_alpha": 0.16,
+  "selection_feasible": true,
+  "oracle_headroom": {
+    "worst_users": 100,
+    "missed_relevance_mass": 267.19000244140625,
+    "cooc_captured_mass": 1.1399999856948853,
+    "prereq_captured_mass": 95.71000671386719,
+    "union_captured_mass": 96.10000610351562,
+    "cooc_ratio": 0.004266626652488178,
+    "prereq_ratio": 0.35820953568371644,
+    "union_ratio": 0.35966916885144307,
+    "strength": "moderate"
+  },
+  "validation": {
+    "strict_template_group": 0.0011162002388902142,
+    "ordinary_reference": 2.615684857389694e-06,
+    "fresh_lock": 0.000806126571588273,
+    "chronological": 0.00012189908398531385
+  },
+  "strict_fold_means": [
+    0.00016623378190337812,
+    0.0011751284096517512,
+    0.0022657509022196223,
+    0.0013386612218171349,
+    0.0009493848434102623
+  ],
+  "strict_ci": [
+    0.0004210034418911119,
+    0.0018267965651632776
+  ],
+  "predeploy_gate": false,
+  "geometry_gate": true,
+  "strict_gate": false,
+  "primary_policy": "anchor_fail_closed",
+  "test_geometry": {
+    "changed_users": 78,
+    "top5_membership_change": 0.01,
+    "top1_change": 0.009,
+    "order_change": 0.078
+  },
+  "protected_test_users": [
+    "U_4047",
+    "U_4074",
+    "U_4176",
+    "U_4491",
+    "U_4567",
+    "U_4836",
+    "U_4929",
+    "U_4953"
+  ],
+  "outputs": {
+    "anchor": "/kaggle/working/submission_v29_anchor_v25_65919.csv",
+    "diagnostic": "/kaggle/working/submission_v29_DIAGNOSTIC_selected.csv",
+    "primary": "/kaggle/working/submission_v29_primary.csv"
+  }
+}

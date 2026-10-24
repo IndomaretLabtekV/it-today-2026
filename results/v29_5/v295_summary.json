@@ -1,0 +1,201 @@
+{
+  "version": "V29.5 Reliability & Curriculum Kill-Test Diagnostics",
+  "diagnostics_only": true,
+  "public_anchor": 0.65919,
+  "leader_reference": 0.66112,
+  "replica_count": 5,
+  "uncertainty_summary": [
+    {
+      "candidate": "ltr_base",
+      "spearman_stability_delta": 0.0027288681709328254,
+      "bottom_quintile_delta": 0.0001419163563814952,
+      "top_quintile_delta": -6.865814186624297e-05,
+      "top_minus_bottom": -0.0002105744982477382,
+      "monotonic_delta_steps": 2,
+      "uncertainty_signal_ok": false
+    },
+    {
+      "candidate": "ltr_gap_cooc",
+      "spearman_stability_delta": 0.015022674509087256,
+      "bottom_quintile_delta": -0.00037287879836146574,
+      "top_quintile_delta": 0.0005864882395303592,
+      "top_minus_bottom": 0.0009593670378918249,
+      "monotonic_delta_steps": 2,
+      "uncertainty_signal_ok": false
+    }
+  ],
+  "uncertainty_signal_ok": false,
+  "curriculum_headroom": {
+    "global_positive_rate": 0.29398529411764707,
+    "missed_relevance_mass": 5248.31982421875,
+    "transitive_union_captured_mass": 1645.8199975043535,
+    "transitive_union_ratio": 0.31358988259625464
+  },
+  "curriculum_signal_ok": true,
+  "cooccurrence_fresh_transfer_ok": true,
+  "fresh_ablation": [
+    {
+      "world": "fresh_lock_v295",
+      "ablation": "ltr_base",
+      "alpha": 0.1,
+      "n": 883,
+      "anchor_ndcg": 0.6515376706035536,
+      "candidate_ndcg": 0.6497540165848432,
+      "mean_delta": -0.0017836540187101983,
+      "positive_rate": 0.03284258210645526,
+      "harm_rate": 0.045300113250283124,
+      "top5_membership_change": 0.03737259343148358,
+      "top1_change": 0.0056625141562853904
+    },
+    {
+      "world": "fresh_lock_v295",
+      "ablation": "ltr_base",
+      "alpha": 0.16,
+      "n": 883,
+      "anchor_ndcg": 0.6515376706035536,
+      "candidate_ndcg": 0.6500473327209967,
+      "mean_delta": -0.0014903378825568722,
+      "positive_rate": 0.045300113250283124,
+      "harm_rate": 0.061155152887882216,
+      "top5_membership_change": 0.05889014722536806,
+      "top1_change": 0.007927519818799546
+    },
+    {
+      "world": "fresh_lock_v295",
+      "ablation": "ltr_gap",
+      "alpha": 0.1,
+      "n": 883,
+      "anchor_ndcg": 0.6515376706035536,
+      "candidate_ndcg": 0.6503384483930328,
+      "mean_delta": -0.0011992222105206662,
+      "positive_rate": 0.039637599093997736,
+      "harm_rate": 0.044167610419026046,
+      "top5_membership_change": 0.0464326160815402,
+      "top1_change": 0.006795016987542469
+    },
+    {
+      "world": "fresh_lock_v295",
+      "ablation": "ltr_gap",
+      "alpha": 0.16,
+      "n": 883,
+      "anchor_ndcg": 0.6515376706035536,
+      "candidate_ndcg": 0.650467368804748,
+      "mean_delta": -0.0010703017988055966,
+      "positive_rate": 0.057757644394110984,
+      "harm_rate": 0.06342015855039637,
+      "top5_membership_change": 0.06795016987542468,
+      "top1_change": 0.007927519818799546
+    },
+    {
+      "world": "fresh_lock_v295",
+      "ablation": "ltr_gap_cooc",
+      "alpha": 0.1,
+      "n": 883,
+      "anchor_ndcg": 0.6515376706035536,
+      "candidate_ndcg": 0.6502287532564628,
+      "mean_delta": -0.0013089173470906689,
+      "positive_rate": 0.03850509626274066,
+      "harm_rate": 0.045300113250283124,
+      "top5_membership_change": 0.04077010192525481,
+      "top1_change": 0.0056625141562853904
+    },
+    {
+      "world": "fresh_lock_v295",
+      "ablation": "ltr_gap_cooc",
+      "alpha": 0.16,
+      "n": 883,
+      "anchor_ndcg": 0.6515376706035536,
+      "candidate_ndcg": 0.6509092755524166,
+      "mean_delta": -0.000628395051137084,
+      "positive_rate": 0.06002265005662514,
+      "harm_rate": 0.0622876557191393,
+      "top5_membership_change": 0.06795016987542468,
+      "top1_change": 0.0056625141562853904
+    },
+    {
+      "world": "chronological",
+      "ablation": "ltr_base",
+      "alpha": 0.1,
+      "n": 1000,
+      "anchor_ndcg": 0.6628379133201323,
+      "candidate_ndcg": 0.6629688112319925,
+      "mean_delta": 0.00013089791186022266,
+      "positive_rate": 0.034,
+      "harm_rate": 0.031,
+      "top5_membership_change": 0.034,
+      "top1_change": 0.007
+    },
+    {
+      "world": "chronological",
+      "ablation": "ltr_base",
+      "alpha": 0.16,
+      "n": 1000,
+      "anchor_ndcg": 0.6628379133201323,
+      "candidate_ndcg": 0.6638332671844527,
+      "mean_delta": 0.0009953538643203757,
+      "positive_rate": 0.058,
+      "harm_rate": 0.045,
+      "top5_membership_change": 0.064,
+      "top1_change": 0.014
+    },
+    {
+      "world": "chronological",
+      "ablation": "ltr_gap",
+      "alpha": 0.1,
+      "n": 1000,
+      "anchor_ndcg": 0.6628379133201323,
+      "candidate_ndcg": 0.6636877513072162,
+      "mean_delta": 0.0008498379870838804,
+      "positive_rate": 0.036,
+      "harm_rate": 0.029,
+      "top5_membership_change": 0.044,
+      "top1_change": 0.005
+    },
+    {
+      "world": "chronological",
+      "ablation": "ltr_gap",
+      "alpha": 0.16,
+      "n": 1000,
+      "anchor_ndcg": 0.6628379133201323,
+      "candidate_ndcg": 0.6639470978901577,
+      "mean_delta": 0.0011091845700253432,
+      "positive_rate": 0.059,
+      "harm_rate": 0.046,
+      "top5_membership_change": 0.069,
+      "top1_change": 0.012
+    },
+    {
+      "world": "chronological",
+      "ablation": "ltr_gap_cooc",
+      "alpha": 0.1,
+      "n": 1000,
+      "anchor_ndcg": 0.6628379133201323,
+      "candidate_ndcg": 0.6637240307093305,
+      "mean_delta": 0.0008861173891981545,
+      "positive_rate": 0.039,
+      "harm_rate": 0.03,
+      "top5_membership_change": 0.05,
+      "top1_change": 0.004
+    },
+    {
+      "world": "chronological",
+      "ablation": "ltr_gap_cooc",
+      "alpha": 0.16,
+      "n": 1000,
+      "anchor_ndcg": 0.6628379133201323,
+      "candidate_ndcg": 0.6636149600749726,
+      "mean_delta": 0.0007770467548402353,
+      "positive_rate": 0.062,
+      "harm_rate": 0.048,
+      "top5_membership_change": 0.068,
+      "top1_change": 0.008
+    }
+  ],
+  "research_decision": {
+    "variance_control_worth_v30": false,
+    "transitive_curriculum_worth_v30": true,
+    "cooccurrence_worth_v30": true,
+    "residual_covariance_graph_primary": false
+  },
+  "submission_instruction": "NO SUBMISSION: V29.5 is diagnostics-only."
+}

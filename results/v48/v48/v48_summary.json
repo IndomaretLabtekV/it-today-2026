@@ -1,0 +1,28 @@
+{
+  "version": "V48 Protected Cross-Fitted Multi-View Ensemble Selection",
+  "public_anchor": 0.66028,
+  "public_top5_cutoff": 0.66076,
+  "public_leader": 0.66142,
+  "semantic_ready": false,
+  "dev_evaluated": false,
+  "dev_delta": null,
+  "dev_gate": false,
+  "lock_evaluated": false,
+  "lock_delta": null,
+  "pooled_dev_lock_delta": null,
+  "lock_gate": false,
+  "final_weights": {
+    "consensus3": 0.0,
+    "v30": 0.0,
+    "v31": 0.0,
+    "qwen": 0.0
+  },
+  "final_coverage": 0.0,
+  "test_actions": 0,
+  "test_geometry_gate": false,
+  "final_gate": false,
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "candidate_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "primary_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "submission_instruction": "DO NOT spend a leaderboard slot on V48. submission_v48_primary.csv failed closed exactly to the 0.66028 champion; inspect v48_summary.json and the first failed gate."
+}

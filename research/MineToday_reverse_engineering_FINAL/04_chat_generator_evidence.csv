@@ -1,0 +1,17 @@
+evidence,n,candidate_mechanism,gof_pvalue,confidence
+valid_users,5000,,,EXACT
+chat_id_span_max_user,5090,,,EXACT
+valid_no_chat_users,150,expected exact 3% of 5000,,VERY_HIGH
+chat_count_model_full_5090,5090,3% zero; else 60/30/10 tiers; uniform counts within 1-2/3-5/6-10,0.3956235987892162,VERY_HIGH
+LOW_regular_timestamp_window,4303,"sorted Uniform(0,5 days)",0.17395490865684304,VERY_HIGH
+MEDIUM_regular_timestamp_window,4839,"sorted Uniform(0,45 days)",0.322207381805668,VERY_HIGH
+HIGH_regular_timestamp_window,4307,"sorted Uniform(0,90 days)",0.012339339805602423,HIGH
+pivot_users,240,all pivot at chat position 2,,EXACT
+pivot_type_AI,129,Data Analyst -> GenAI pivot,,EXACT
+pivot_type_dashboard,111,ML -> Dashboard pivot,,EXACT
+pivot_first_timestamp,240,"Uniform(0,21 days)",0.4496125908018328,VERY_HIGH
+pivot_gap,240,"integer Uniform{25,...,60} days",0.6521829977684332,VERY_HIGH
+pivot_post_timestamp,455,"sorted Uniform(pivot+3,pivot+48 days)",0.7291680848291039,VERY_HIGH
+orphan_users_5001_5090,90,"all have chat records, absent from assessment/test IDs",,EXACT
+orphan_chat_count,90,"Uniform{1,2,3}",0.4965853037914095,VERY_HIGH
+orphan_timestamp,189,"Uniform(0,60 days)",0.930017973091355,VERY_HIGH

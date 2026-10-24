@@ -1,0 +1,21 @@
+{
+  "python": "3.12.13",
+  "numpy": "2.0.2",
+  "pandas": "2.3.3",
+  "scipy": "1.16.3",
+  "sklearn": "1.6.1",
+  "lightgbm": "4.6.0",
+  "e5_id": "intfloat/multilingual-e5-base",
+  "e5_revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+  "nomic_id": "nomic-ai/nomic-embed-text-v2-moe",
+  "nomic_revision": "1066b6599d099fbb93dfcb64f9c37a7c9e503e85",
+  "nomic_code_revision": "7710840340a098cfb869c4f65e87cf2b1b70caca",
+  "bm25_k1": 1.2,
+  "bm25_b": 0.75,
+  "bm25_views": [
+    "unigram_full",
+    "unigram_bigram_full"
+  ],
+  "action_alpha": 10.0,
+  "pair_rank_shrink": 20.0
+}

@@ -1,0 +1,6 @@
+file,role,eligible_to_submit,note
+submission_v38_1_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,None if AA/AB/AC + sealed + chronology + geometry all pass; otherwise exact Hybrid34 0.66006.
+submission_v38_1_DIAGNOSTIC_combined_attack.csv,DIAGNOSTIC_ONLY,False,Never bypass preregistered gates.
+submission_v38_1_DIAGNOSTIC_membership_attack.csv,DIAGNOSTIC_ONLY,False,Membership specialist audit only.
+submission_v38_1_DIAGNOSTIC_order_safe.csv,DIAGNOSTIC_ONLY,False,Order specialist audit only.
+submission_v38_1_anchor_hybrid34_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Exact deterministic public 0.66006 Hybrid34.

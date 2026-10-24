@@ -1,0 +1,31 @@
+{
+  "version": "V41.1 B34-Anchored Hierarchical Ordinal Qwen Residual Stack",
+  "public_anchor": 0.66026,
+  "rank5_reference": 0.66066,
+  "leader_reference": 0.66142,
+  "split_sizes": {
+    "ADAPT": 2400,
+    "CAL": 1000,
+    "LOCK": 600
+  },
+  "semantic_expert": "Qwen3-Embedding-8B QLoRA only",
+  "stack": "hierarchical partially-pooled 6-head cumulative ordinal logistic",
+  "deployment": "fixed alpha 0.16 on S0+S2 only; S1/S3 locked",
+  "cal_gate": false,
+  "lock_gate": false,
+  "test_geometry_gate": false,
+  "final_gate": false,
+  "status": "FAIL_CLOSE",
+  "submission_scale": false,
+  "primary_top5_sha256": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "candidate_top5_sha256": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "b34_top5_sha256": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "submission_instruction": "NO NEW V41.1 SUBMISSION: primary is the exact B34 fail-close anchor.",
+  "tm_compliance": {
+    "organizer_data_only": true,
+    "open_source_pretrained_model": true,
+    "no_direct_genai_test_relevance": true,
+    "fixed_seeds": true,
+    "no_post_lock_retraining": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "expected_changed_users": 77,
+  "actual_changed_users": 77,
+  "expected_top1_changes": 8,
+  "actual_top1_changes": 8,
+  "expected_membership_changes": 7,
+  "actual_membership_changes": 7,
+  "exact_changed_user_set_match": true,
+  "reproduction_ok": true
+}

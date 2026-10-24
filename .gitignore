@@ -1,0 +1,25 @@
+# Competition data (download from the organizer)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Experiment caches and model artifacts
+results/**/hf_cache/
+results/**/*cache*/
+results/**/*_adapter/
+results/**/*.npy
+results/**/*.safetensors
+results/**/*.npz
+results/**/*.pkl
+results/**/*.pt
+results/**/*.log
+results/**/__huggingface_repos__.json
+
+# Keep only primary submissions
+results/**/submission_*.csv
+!results/**/submission_*primary*.csv
+!results/v1/submission_ultimate_baseline.csv
+!results/v2/submission_v2_supervised.csv

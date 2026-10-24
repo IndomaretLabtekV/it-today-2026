@@ -1,0 +1,16 @@
+{
+  "base_sha256": "d89714241c85dbaf93a5574550a5d9272c37b9b432c69fd5c5a2ff07fe690d84",
+  "candidate_sha256": "f1be4188a50151f47e22450371163ac317423dd5611cfe9a4ce0151995e655fe",
+  "new_actions": 3,
+  "changed_top1": 3,
+  "all_changes_selected": true,
+  "immutable_unedited_rows_exact": true,
+  "protected_v132_rows_exact": true,
+  "locked_noneligible_exact": true,
+  "top5_membership_unchanged": true,
+  "rank5_unchanged": true,
+  "tail_rank5_to17_order_unchanged": true,
+  "score_multiset_preserved": true,
+  "finite": true,
+  "row_order_unchanged": true
+}

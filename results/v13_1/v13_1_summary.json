@@ -1,0 +1,78 @@
+{
+  "public_champion_lb": 0.65856,
+  "config": {
+    "v91_route_fraction": 0.125,
+    "v10c_route_fraction": 0.05,
+    "transition_min_support": 8,
+    "transition_min_positive_folds": 2,
+    "gate_min_child": 150,
+    "gate_leaves": 7
+  },
+  "strict_consensus3": 0.6649659659794943,
+  "strict_v91": 0.6647906850041183,
+  "strict_v10c": 0.664300909483124,
+  "strict_dual_router": 0.6656057560092062,
+  "router_increment": 0.0006397900297120858,
+  "bootstrap_ci": [
+    0.00025384311186115957,
+    0.0010493386286692275
+  ],
+  "fold_deltas": [
+    0.0004909576030508506,
+    0.0006503823972627154,
+    0.0008335968917200612,
+    0.0006683733979519152,
+    0.000555639858574886
+  ],
+  "fold_wins": 5,
+  "worst_fold": 0.0004909576030508506,
+  "quarter_deltas": [
+    0.0009031217002520421,
+    0.0007160003482216842,
+    0.00043180585217453206,
+    0.0005082322182000845
+  ],
+  "quarter_wins": 4,
+  "tail_increment": 0.0005082322182000845,
+  "oof_route_rate": 0.03475,
+  "oof_v91_users": 99,
+  "oof_v10c_users": 40,
+  "second_order_mean": 0.0006129839043755146,
+  "second_order_ci": [
+    0.0002189801316993361,
+    0.001022228567755128
+  ],
+  "second_order_wins": 5,
+  "second_order_selected": [
+    [
+      0.125,
+      0.05
+    ],
+    [
+      0.125,
+      0.05
+    ],
+    [
+      0.15,
+      0.05
+    ],
+    [
+      0.125,
+      0.05
+    ],
+    [
+      0.125,
+      0.05
+    ]
+  ],
+  "test_route_rate": 0.042,
+  "test_v91_users": 26,
+  "test_v10c_users": 16,
+  "test_top5_change": 0.024,
+  "test_top5_order_change": 0.042,
+  "test_top1_change": 0.003,
+  "promotion_gate": true,
+  "primary_label": "dual_router",
+  "primary_file": "submission_v13_1_primary.csv",
+  "router_file": "submission_v13_1_dual_router.csv"
+}

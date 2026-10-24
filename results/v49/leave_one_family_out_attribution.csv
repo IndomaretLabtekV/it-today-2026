@@ -1,0 +1,5 @@
+removed_expert,removed_family,frozen_full_fit_ndcg,ndcg_without,loss_from_removal,diagnostic_only
+v1_final_blend,early_hybrid,0.6635425043000841,0.6633891612088586,0.0001533430912254996,True
+v5_primary,generator_yetirank,0.6635425043000841,0.6635114956236023,3.1008676481758535e-05,True
+v2_supervised_multimodal,supervised_multimodal,0.6635425043000841,0.6634665605148007,7.594378528341661e-05,True
+v4_lambdarank,structured_lambdarank,0.6635425043000841,0.6635191731937831,2.333110630103885e-05,True

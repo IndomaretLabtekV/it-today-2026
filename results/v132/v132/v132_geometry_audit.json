@@ -1,0 +1,21 @@
+{
+  "correctness_ok": true,
+  "immutable_v130_actions": true,
+  "locked_noneligible_exact": true,
+  "top5_membership_unchanged": true,
+  "rank5_unchanged": true,
+  "tail_unchanged": true,
+  "score_multiset_preserved": true,
+  "schema_ok": true,
+  "finite_ok": true,
+  "new_actions": 5,
+  "rank_family_ok": true,
+  "selected_ranks": {
+    "2": 5
+  },
+  "selected_pairs": {
+    "M_017>M_009": 3,
+    "M_006>M_009": 1,
+    "M_014>M_015": 1
+  }
+}

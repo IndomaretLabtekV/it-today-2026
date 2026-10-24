@@ -1,0 +1,31 @@
+{
+  "version": "V40 B34-Locked S3 Prerequisite-Aligned Membership Refinement",
+  "public_b34_anchor": 0.66026,
+  "rank5_reference": 0.66066,
+  "leader_reference": 0.66142,
+  "reproduction_ok": true,
+  "state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "b34_rows": 10,
+  "s3_membership_rows": 4,
+  "test_rule_selected_membership": 2,
+  "test_rule_rejected_membership": 2,
+  "development_gate": false,
+  "fresh_selected_actions": 17,
+  "fresh_mean_delta": -0.030662908458589794,
+  "fresh_harmful_actions": 6,
+  "sealed_gate": false,
+  "sealed_selected_actions": 0,
+  "sealed_mean_delta": NaN,
+  "sealed_harmful_actions": 0,
+  "final_gate": false,
+  "b34_anchor_top5_sha256": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "safe_candidate_top5_sha256": "e300a2f1880f4680ca884c734bb584d359b358f0974a2596182af6ee84be346c",
+  "primary_top5_sha256": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "primary_is_new_vs_b34": false,
+  "submission_instruction": "HOLD: no validated new V40 submission. submission_v40_primary.csv is the already-measured B34 0.66026 fail-close anchor."
+}

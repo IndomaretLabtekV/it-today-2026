@@ -1,0 +1,4 @@
+slot,file,hypothesis,measurement,next_if_up,next_if_down
+1,submission_v26_probe_remove_u4567.csv,The U4567 M012>M014 core action is net harmful despite positive V25 package evidence.,LB - 0.65919,Keep U4567 reverted and continue to slot 2.,Restore U4567; slot 2 still tests an independent U4929 hypothesis.
+2,submission_v26_probe_remove_u4929.csv,The U4929 M002>M003 core action is net harmful.,LB - 0.65919,"If slot 1 also improved, use combined removal for slot 3.",Do not generalize the M002>M003 prune from this user.
+3,CONDITIONAL: submission_v26_probe_remove_u4567_u4929.csv OR submission_v26_probe_remove_u4491.csv,Combine independently positive removals; otherwise test the next M002>M003 attribution question.,candidate LB versus the best observed anchor of the day,Promote as new canonical anchor.,Keep the best earlier public candidate.

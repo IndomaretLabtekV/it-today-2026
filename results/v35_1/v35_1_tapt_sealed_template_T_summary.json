@@ -1,0 +1,14 @@
+{
+  "tag": "sealed_template_T",
+  "model": "indobenchmark/indobert-base-p2",
+  "train_users": 3182,
+  "texts": 4714,
+  "steps": 148,
+  "mean_loss": 5.105717689604373,
+  "final50_loss": 3.5167733097076415,
+  "uses_relevance_labels": false,
+  "uses_validation_chat": false,
+  "uses_test_chat": false,
+  "fold_pure": true,
+  "seed": 416495930
+}

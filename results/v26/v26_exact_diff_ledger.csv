@@ -1,0 +1,9 @@
+candidate,user_id,changed_modules,before_top5,after_top5,top5_membership_changed,top1_changed,changed_cells
+primary,U_4491,M_002 M_003,M_007 M_001 M_015 M_002 M_003,M_007 M_001 M_015 M_003 M_002,False,False,2
+remove_u4567,U_4567,M_012 M_014,M_006 M_016 M_012 M_014 M_017,M_006 M_016 M_014 M_012 M_017,False,False,2
+remove_u4929,U_4929,M_002 M_003,M_009 M_001 M_015 M_002 M_003,M_009 M_001 M_015 M_003 M_002,False,False,2
+remove_u4491,U_4491,M_002 M_003,M_007 M_001 M_015 M_002 M_003,M_007 M_001 M_015 M_003 M_002,False,False,2
+remove_u4567_u4929,U_4567,M_012 M_014,M_006 M_016 M_012 M_014 M_017,M_006 M_016 M_014 M_012 M_017,False,False,2
+remove_u4567_u4929,U_4929,M_002 M_003,M_009 M_001 M_015 M_002 M_003,M_009 M_001 M_015 M_003 M_002,False,False,2
+diversified_u4030_u4731,U_4030,M_003 M_007,M_002 M_009 M_007 M_003 M_015,M_002 M_009 M_003 M_007 M_015,False,False,2
+diversified_u4030_u4731,U_4731,M_006 M_014,M_003 M_016 M_017 M_014 M_006,M_003 M_016 M_017 M_006 M_014,False,False,2

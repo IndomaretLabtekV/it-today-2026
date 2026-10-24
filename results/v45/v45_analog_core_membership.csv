@@ -1,0 +1,43 @@
+family,row,user_id,margin,action_delta,prune_delta,kernel_weight,local,template_group,intent
+CORE_MEMBERSHIP,26,U_0027,0.04281535744667053,0.0,-0.0,4.7947190648219564e-08,False,min tim saya butuh solusi yang praktis buat <topic> tanpa perlu learning coding ada rekomendasi,intent:ml_eval
+CORE_MEMBERSHIP,433,U_0434,0.012850284576416016,0.1345298110495241,-0.1345298110495241,0.007695369624868349,False,terus min butuh kuasain <topic> secepatnya ada kelas intensif ga,intent:mlops
+CORE_MEMBERSHIP,462,U_0463,0.02722620964050293,-0.12482060052360755,0.12482060052360755,2.4483613423134204e-05,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:nocode+statistics
+CORE_MEMBERSHIP,471,U_0472,0.048872143030166626,0.15200935465825605,-0.15200935465825605,4.251985188364054e-09,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:genai+nocode
+CORE_MEMBERSHIP,837,U_0838,0.003647834062576294,-0.06674798805009408,0.06674798805009408,0.30539285778821396,False,kak mau nanya kalo blajar <topic> / <topic> langsung dari nol worth it ga buat <topic> kedepannya,intent:career+genai
+CORE_MEMBERSHIP,1201,U_1202,0.04251152276992798,0.12030094910226552,-0.12030094910226552,5.414329164592589e-08,False,selamat siang admin mohon informasinya mengenai jadwal kelas <topic> / <topic> beserta persyaratan pesertanya terima kasih,intent:genai
+CORE_MEMBERSHIP,1202,U_1203,0.015952900052070618,0.06678173788569844,-0.06678173788569844,0.0022245899584461765,False,eh satu lagi deh min apakah ada kelas yang membahas <topic> secara mendalam,intent:eda
+CORE_MEMBERSHIP,1359,U_1360,0.0117684006690979,0.0,-0.0,0.011862383742722839,False,sori nanya mulu ya min tapi min ada kelas <topic> yang mulai minggu ini ga,intent:statistics
+CORE_MEMBERSHIP,1518,U_1519,0.005597591400146484,-0.06161382775366886,0.06161382775366886,0.1400075109853948,False,eh satu lagi deh min kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,intent:statistics
+CORE_MEMBERSHIP,1577,U_1578,0.017994940280914307,0.09197262027544595,-0.09197262027544595,0.000982904336729791,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:nocode+statistics
+CORE_MEMBERSHIP,1642,U_1643,0.08332732319831848,0.15859349081950702,-0.15859349081950702,4.396569016309404e-15,False,ok makasih infonya min ngomong-ngomong ada kelas ai yang gampang buat belajar <topic> dari nol <topic>,intent:nocode+python
+CORE_MEMBERSHIP,2054,U_2055,0.02536064386367798,0.0,-0.0,5.163658147580288e-05,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:genai+nocode
+CORE_MEMBERSHIP,2083,U_2084,0.062160640954971313,-0.0454013277108295,0.0454013277108295,2.0899852177155028e-11,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:nocode+statistics
+CORE_MEMBERSHIP,2105,U_2106,0.05294547975063324,0.0,-0.0,8.336440959541457e-10,False,eh satu lagi deh min kelas yg cover <topic> ada silabus lengkapnya ga,intent:mlops
+CORE_MEMBERSHIP,2108,U_2109,0.0488373339176178,-0.12743489007569297,0.12743489007569297,4.311602402063264e-09,False,nah kalo udah itu aku jadi penasaran juga apa saja prasyarat untuk mengikuti kelas <topic> dasar,intent:python
+CORE_MEMBERSHIP,2123,U_2124,0.001703798770904541,0.0,-0.0,0.6646184540995048,True,kak jujurly aku lagi fomo banget nih liat temen pada blajar <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,intent:career+ml_eval
+CORE_MEMBERSHIP,2177,U_2178,0.002346545457839966,0.0,-0.0,0.5139440708652149,False,terus min gimana caranya biar cepet paham <topic>,intent:python
+CORE_MEMBERSHIP,2303,U_2304,0.033056989312171936,-0.17928890556331378,0.17928890556331378,2.3766505992178248e-06,False,terus min mohon informasinya mengenai jadwal kelas <topic>,intent:python
+CORE_MEMBERSHIP,2334,U_2335,0.0077672600746154785,0.0,-0.0,0.05878158357143058,False,nah kalo udah itu aku jadi penasaran juga butuh kuasain <topic> secepatnya ada kelas intensif ga,intent:genai
+CORE_MEMBERSHIP,2380,U_2381,0.0005920678377151489,0.0,-0.0,0.9644953989409606,True,btw sekalian mau tanya juga kalo blajar <topic> prospek kerjanya gmn kak,intent:python
+CORE_MEMBERSHIP,2456,U_2457,0.016296595335006714,0.12679227498911294,-0.12679227498911294,0.0019388489982300242,False,terus min kalau mau belajar <topic> aku harus mulai dari kelas apa ya,intent:mlops
+CORE_MEMBERSHIP,2527,U_2528,0.01919415593147278,-0.09883923414569251,0.09883923414569251,0.0006083957273023305,False,habis itu aku mikir lagi aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,intent:mlops
+CORE_MEMBERSHIP,2570,U_2571,0.03779345750808716,0.13156577900893118,-0.13156577900893118,3.574016380138989e-07,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:nocode+statistics
+CORE_MEMBERSHIP,2593,U_2594,0.055926352739334106,0.044879757340821835,-0.044879757340821835,2.5301717513620754e-10,False,min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,intent:genai+nocode
+CORE_MEMBERSHIP,2634,U_2635,0.00474904477596283,0.12211829229699511,-0.12211829229699511,0.19658889497461288,False,selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas <topic> apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,intent:ml
+CORE_MEMBERSHIP,2709,U_2710,0.0012420713901519775,0.0,-0.0,0.7994340781782442,True,habis itu aku mikir lagi ada kelas <topic> yang bisa dipelajarin cepet ga,intent:statistics
+CORE_MEMBERSHIP,2806,U_2807,0.007856875658035278,0.0,-0.0,0.05671180374039026,False,no_chat,intent:no_chat
+CORE_MEMBERSHIP,2816,U_2817,0.0683227926492691,0.0,-0.0,1.7769197865923833e-12,False,eh satu lagi deh min ada kelas bikin <topic> kayak <topic> yang bisa dipelajarin cepet ga,intent:genai
+CORE_MEMBERSHIP,2877,U_2878,0.005710482597351074,0.0,-0.0,0.1338258853763614,False,eh iya lanjut nanya lagi ya min aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,intent:statistics
+CORE_MEMBERSHIP,2898,U_2899,0.016154393553733826,0.0,-0.0,0.0020523289256853833,False,nah kalo udah itu aku jadi penasaran juga butuh kuasain <topic> secepatnya ada kelas intensif ga,intent:python
+CORE_MEMBERSHIP,2946,U_2947,0.00581592321395874,0.0,-0.0,0.12829898308788706,False,eh satu lagi deh min apakah kelas <topic> tersedia dalam format online,intent:genai
+CORE_MEMBERSHIP,2966,U_2967,0.017952874302864075,0.0,-0.0,0.0009995829969487921,False,selamat siang admin mohon informasinya mengenai jadwal kelas <topic> beserta persyaratan pesertanya terima kasih,intent:ml_eval
+CORE_MEMBERSHIP,3002,U_3003,0.0024421215057373047,-0.1194506829166449,0.1194506829166449,0.49466661411839424,False,min urgent butuh kuasain <topic> secepatnya buat kerjaan ada kelas intensif ga,intent:genai
+CORE_MEMBERSHIP,3098,U_3099,0.006090447306632996,0.0,-0.0,0.1149564899454769,False,nah kalo udah itu aku jadi penasaran juga gmn caranya biar cepet paham <topic>,intent:eda
+CORE_MEMBERSHIP,3134,U_3135,0.011811554431915283,0.0,-0.0,0.011659378275480014,False,selamat siang admin mohon informasinya mengenai jadwal kelas <topic> beserta persyaratan pesertanya terima kasih,intent:ml
+CORE_MEMBERSHIP,3214,U_3215,0.003269672393798828,0.18143748630952783,-0.18143748630952783,0.35526488764144426,False,sori nanya mulu ya min tapi buat <topic> itu susah ga sih buat pemula kayak aku,intent:ml
+CORE_MEMBERSHIP,3267,U_3268,0.009406134486198425,0.0,-0.0,0.030516845317636546,False,min kelas <topic> / <topic> ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,intent:genai
+CORE_MEMBERSHIP,3351,U_3352,0.014752388000488281,0.0,-0.0,0.0035958393138841565,False,oh gitu ya paham kalo boleh nanya lagi gimana caranya biar cepet paham <topic> / <topic>,intent:genai
+CORE_MEMBERSHIP,3632,U_3633,0.03745308518409729,-0.0493450964879007,0.0493450964879007,4.0952957194588484e-07,False,selamat siang admin mohon informasinya mengenai jadwal kelas <topic> beserta persyaratan pesertanya terima kasih,intent:ml
+CORE_MEMBERSHIP,3822,U_3823,0.009211212396621704,0.09335619673303797,-0.09335619673303797,0.03299142477765841,False,halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar <topic>,intent:mlops
+CORE_MEMBERSHIP,3926,U_3927,0.016321837902069092,0.0,-0.0,0.0019193708888641588,False,terus min ada kelas ai yang gampang buat bikin <topic> kayak <topic> <topic>,intent:genai+nocode
+CORE_MEMBERSHIP,3968,U_3969,0.026994168758392334,-0.12562303218620274,0.12562303218620274,2.686489475841936e-05,False,eh satu lagi deh min apakah kelas <topic> tersedia dalam format online,intent:ml_eval

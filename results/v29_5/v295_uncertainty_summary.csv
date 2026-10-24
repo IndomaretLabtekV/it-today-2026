@@ -1,0 +1,3 @@
+candidate,spearman_stability_delta,bottom_quintile_delta,top_quintile_delta,top_minus_bottom,monotonic_delta_steps,uncertainty_signal_ok
+ltr_base,0.0027288681709328254,0.0001419163563814952,-6.865814186624297e-05,-0.0002105744982477382,2,False
+ltr_gap_cooc,0.015022674509087256,-0.00037287879836146574,0.0005864882395303592,0.0009593670378918249,2,False

@@ -1,0 +1,9 @@
+family,row,user_id,margin,action_delta,prune_delta,kernel_weight,local,template_group,intent
+CORE_B34,998,U_0999,0.2823575735092163,-0.002713090069325186,0.002713090069325186,9.09917360854222e-50,False,terus min kalo buat <topic> dasar timnya orang non-teknis semua tetep bisa ga,intent:python
+CORE_B34,1411,U_1412,0.06028720736503601,0.0,-0.0,3.440137453691033e-11,False,min kelas <topic> ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,intent:statistics
+CORE_B34,1589,U_1590,0.02447044849395752,-0.013819235094098326,0.013819235094098326,5.7356691296746725e-05,False,eh iya lanjut nanya lagi ya min solusi <topic> buat <topic> pake ai ada ga ya,intent:automation+genai
+CORE_B34,2041,U_2042,0.23278480768203735,0.022760150931663392,-0.022760150931663392,3.7211177406719845e-41,False,nah kalo udah itu aku jadi penasaran juga solusi <topic> buat <topic> pake ai ada ga ya,intent:automation+sql
+CORE_B34,2457,U_2458,0.016410022974014282,0.020360839409868547,-0.020360839409868547,0.001441529122075906,False,min kelas <topic> buat laporan ke atasan ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,intent:dashboard
+CORE_B34,2712,U_2713,0.05457425117492676,0.010822056568183691,-0.010822056568183691,3.380787975277656e-10,False,btw sekalian mau tanya juga solusi <topic> buat <topic> pake ai ada ga ya,intent:automation+mlops
+CORE_B34,2903,U_2904,0.04940485954284668,0.02294850941812132,-0.02294850941812132,2.673210998337882e-09,False,min nanya dong kelas <topic> kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,intent:sql
+CORE_B34,3210,U_3211,0.08923864364624023,0.0,-0.0,3.2151126004483845e-16,False,habis itu aku mikir lagi ada kelas ai yang gampang buat <topic> <topic>,intent:nocode+python

@@ -1,0 +1,144 @@
+{
+  "public_cal045_lb": 0.65639,
+  "public_v12_leader6_lb": 0.65792,
+  "leader_lb": 0.65805,
+  "required_public_increment": 0.0001300000000000745,
+  "profiles": {
+    "leader6": {
+      "M_006": 0.55,
+      "M_007": 0.6,
+      "M_010": 0.4,
+      "M_011": 0.55,
+      "M_012": 0.55,
+      "M_017": 0.5
+    },
+    "micro4": {
+      "M_006": 0.56,
+      "M_007": 0.59,
+      "M_010": 0.4,
+      "M_011": 0.54,
+      "M_012": 0.55,
+      "M_017": 0.53
+    }
+  },
+  "micro_changed_from_leader6": [
+    "M_006",
+    "M_007",
+    "M_011",
+    "M_017"
+  ],
+  "diagnostics": {
+    "cal045_oof": 0.6626458741363345,
+    "leader6_oof": 0.6640580453558732,
+    "micro4_oof": 0.6643074878400032,
+    "leader6_delta_vs_cal045": 0.0014121712195387381,
+    "total_delta": 0.001661613703668685,
+    "incremental_delta": 0.00024944248412994696,
+    "leader6_bootstrap_ci_vs_cal045": [
+      0.0005709733737244856,
+      0.002251334256480234
+    ],
+    "total_bootstrap_ci_vs_cal045": [
+      0.0008189588663128539,
+      0.0025177086445251746
+    ],
+    "incremental_bootstrap_ci_vs_leader6": [
+      -5.419091404490095e-05,
+      0.0005719196210437082
+    ],
+    "leader6_fold_deltas": [
+      0.001414687886840447,
+      0.0013252577442375284,
+      0.0019155938661252392,
+      0.002019082687414614,
+      0.00038623391307602244
+    ],
+    "total_fold_deltas": [
+      0.0020211865313851936,
+      0.0017424718863862643,
+      0.0021484082369754047,
+      0.0023157574267860556,
+      8.024443681084541e-05
+    ],
+    "incremental_fold_deltas": [
+      0.0006064986445447468,
+      0.00041721414214873555,
+      0.00023281437085016524,
+      0.000296674739371441,
+      -0.0003059894762651771
+    ],
+    "total_fold_wins": 5,
+    "incremental_fold_wins": 4,
+    "leader6_quarter_deltas": [
+      0.0011265751680110503,
+      0.002683046696640546,
+      0.0006945033867252438,
+      0.001144559626778241
+    ],
+    "total_quarter_deltas": [
+      0.0012792683491401268,
+      0.0027288639376001848,
+      0.0008910965871992698,
+      0.0017472259407354295
+    ],
+    "incremental_quarter_deltas": [
+      0.0001526931811290762,
+      4.581724095963846e-05,
+      0.00019659320047402595,
+      0.0006026663139571887
+    ],
+    "total_quarter_wins": 4,
+    "incremental_quarter_wins": 4,
+    "leader6_tail_delta": 0.001144559626778241,
+    "total_tail_delta": 0.0017472259407354295,
+    "incremental_tail_delta": 0.0006026663139571887,
+    "rank_contributions_vs_cal045": [
+      0.0007411684434789583,
+      -0.0005092025222980062,
+      0.0007813067820653405,
+      -0.0007336712643155601,
+      0.0013820122696451035
+    ],
+    "rank_contributions_vs_leader6": [
+      0.0003243253798327329,
+      -9.167190530877529e-06,
+      -0.00012770619113808835,
+      -5.057051683539568e-05,
+      0.0001125610034141762
+    ],
+    "revert_one": {
+      "M_006": {
+        "total_delta_vs_cal045": 0.001586758750597994,
+        "incremental_delta_vs_leader6": 0.00017458753105925595
+      },
+      "M_007": {
+        "total_delta_vs_cal045": 0.0016084034806471692,
+        "incremental_delta_vs_leader6": 0.00019623226110843106
+      },
+      "M_011": {
+        "total_delta_vs_cal045": 0.001619228204616241,
+        "incremental_delta_vs_leader6": 0.0002070569850775028
+      },
+      "M_017": {
+        "total_delta_vs_cal045": 0.0016375787878419867,
+        "incremental_delta_vs_leader6": 0.0002254075683032486
+      }
+    },
+    "min_revert_total_delta": 0.001586758750597994,
+    "test_top5_change_vs_leader6": 0.013,
+    "test_top5_order_change_vs_leader6": 0.031,
+    "test_top1_change_vs_leader6": 0.004,
+    "test_top5_change_vs_cal045": 0.064,
+    "test_top5_order_change_vs_cal045": 0.204,
+    "test_top1_change_vs_cal045": 0.016,
+    "observed_v12_transfer_ratio": 1.0834380270826287,
+    "projected_public_1to1_incremental": 0.6581694424841299,
+    "projected_public_observed_transfer": 0.6581902554728762,
+    "gate": true
+  },
+  "primary_label": "micro4",
+  "primary_file": "submission_v12_1_primary.csv",
+  "candidate_file": "submission_v12_1_micro4.csv",
+  "leader6_reference_file": "submission_v12_1_leader6_reference.csv",
+  "cal045_reference_file": "submission_v12_1_cal045_reference.csv"
+}

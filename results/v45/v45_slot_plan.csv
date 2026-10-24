@@ -1,0 +1,2 @@
+slot,submit_file,gate,candidate_if_pass,instruction
+1,submission_v45_primary.csv,False,submission_v45_probe_repeat_m002_m003_b45.csv,DO NOT spend a leaderboard slot on V45: primary fail-closed exactly to the 0.66028 champion. Inspect audits before choosing the next experiment.

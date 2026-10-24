@@ -1,0 +1,115 @@
+{
+  "version": "V38 Hybrid34-Locked XLM-R Pairwise Residual Judge",
+  "model": "FacebookAI/xlm-roberta-base",
+  "public_anchor": 0.66006,
+  "leader": 0.66142,
+  "leader_gap": 0.0013600000000000279,
+  "contract": {
+    "state": "S0 only",
+    "positions": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "rank1_locked": true,
+    "max_actions_per_user": 1,
+    "tapt": false,
+    "xe_used": false,
+    "full_finetune": true,
+    "final_seeds": [
+      271,
+      829
+    ]
+  },
+  "development_winner": null,
+  "development_gate": false,
+  "sealed_gate": false,
+  "test_geometry_auc": NaN,
+  "geometry_gate": false,
+  "final_gate": false,
+  "development": [
+    {
+      "world": "K",
+      "policy": "SAFE",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0,
+      "eligible_pairs": 1372
+    },
+    {
+      "world": "K",
+      "policy": "ATTACK",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0,
+      "eligible_pairs": 1372
+    },
+    {
+      "world": "L",
+      "policy": "SAFE",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0,
+      "eligible_pairs": 1304
+    },
+    {
+      "world": "L",
+      "policy": "ATTACK",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0,
+      "eligible_pairs": 1304
+    },
+    {
+      "world": "M",
+      "policy": "SAFE",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0,
+      "eligible_pairs": 1332
+    },
+    {
+      "world": "M",
+      "policy": "ATTACK",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0,
+      "eligible_pairs": 1332
+    }
+  ],
+  "sealed": [],
+  "primary_sha256": "c240d036ad4042cb1cee95bdc42a908f4e1a6046f3d00a2a1ac24cc3c7cf1273",
+  "anchor_sha256": "c240d036ad4042cb1cee95bdc42a908f4e1a6046f3d00a2a1ac24cc3c7cf1273",
+  "submission_instruction": "NO NEW SUBMISSION. Primary is exact Hybrid34 0.66006; preserve the slot."
+}

@@ -1,0 +1,44 @@
+{
+  "fresh_X": {
+    "tag": "fresh_X",
+    "model": "indobenchmark/indobert-base-p2",
+    "train_users": 3200,
+    "texts": 4822,
+    "steps": 151,
+    "mean_loss": 4.969567144153923,
+    "final50_loss": 3.269654974937439,
+    "uses_relevance_labels": false,
+    "uses_validation_chat": false,
+    "uses_test_chat": false,
+    "fold_pure": true,
+    "seed": 443964131
+  },
+  "sealed_template_T": {
+    "tag": "sealed_template_T",
+    "model": "indobenchmark/indobert-base-p2",
+    "train_users": 3182,
+    "texts": 4714,
+    "steps": 148,
+    "mean_loss": 5.105717689604373,
+    "final50_loss": 3.5167733097076415,
+    "uses_relevance_labels": false,
+    "uses_validation_chat": false,
+    "uses_test_chat": false,
+    "fold_pure": true,
+    "seed": 416495930
+  },
+  "chronology_U3001_U4000": {
+    "tag": "chronology_U3001_U4000",
+    "model": "indobenchmark/indobert-base-p2",
+    "train_users": 3000,
+    "texts": 4601,
+    "steps": 144,
+    "mean_loss": 4.960901709066497,
+    "final50_loss": 3.28056254863739,
+    "uses_relevance_labels": false,
+    "uses_validation_chat": false,
+    "uses_test_chat": false,
+    "fold_pure": true,
+    "seed": 844252701
+  }
+}

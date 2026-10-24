@@ -1,0 +1,80 @@
+{
+  "public_consensus3_lb": 0.65856,
+  "public_leader_lb": 0.66082,
+  "required_public_delta": 0.0022599999999999287,
+  "model": "Qwen/Qwen3-Embedding-8B",
+  "revision": "1d8ad4c",
+  "representation": "message-level multi-intent + in-domain fold-safe prototypes + diagonal metric adapter",
+  "diagnostics": [
+    {
+      "candidate": "dual50",
+      "ordinary_delta": -6.384937918663159e-05,
+      "ordinary_fold_wins": 3,
+      "ordinary_folds": "[-0.00016698968250153032, 6.066141538018467e-05, -0.0008716012976686033, 0.0004160931183556815, 0.00024258955050110955]",
+      "audit_delta": 0.000938585489522767,
+      "audit_fold_wins": 3,
+      "audit_folds": "[0.0011364035240743011, 0.000638001140955177, 0.0010412034029127527]",
+      "audit_ci_low": -0.00033414665676656703,
+      "audit_ci_high": 0.0022648936491176932,
+      "chrono_delta": 0.0011636259665738535,
+      "test_top5_set_change": 0.108,
+      "test_top5_order_change": 0.257,
+      "test_top1_change": 0.017,
+      "selected_modules": "M_006,M_007,M_009,M_010,M_011,M_014",
+      "robust_score": 0.0007442368916081889,
+      "promotion_gate": false
+    },
+    {
+      "candidate": "bin35",
+      "ordinary_delta": -0.0004028717047712791,
+      "ordinary_fold_wins": 1,
+      "ordinary_folds": "[-0.0008506082294604621, -6.621161874511478e-05, -0.0009699444467089957, 0.001234834498537317, -0.0013624287274791396]",
+      "audit_delta": 0.0013318515933477743,
+      "audit_fold_wins": 3,
+      "audit_folds": "[0.0020693719165649506, 0.0004548020095345423, 0.001470827575381776]",
+      "audit_ci_low": 0.0002048752434049719,
+      "audit_ci_high": 0.0024233844029455066,
+      "chrono_delta": 0.00044904558317293276,
+      "test_top5_set_change": 0.053,
+      "test_top5_order_change": 0.133,
+      "test_top1_change": 0.007,
+      "selected_modules": "M_007,M_009,M_010,M_014",
+      "robust_score": 0.0006774692662743006,
+      "promotion_gate": false
+    },
+    {
+      "candidate": "dual35",
+      "ordinary_delta": -0.0006566652713675245,
+      "ordinary_fold_wins": 0,
+      "ordinary_folds": "[-0.001025069041745454, -0.0006917081621736744, -0.00038597026570396606, -0.00033354867101350623, -0.0008470302162010215]",
+      "audit_delta": 0.0009938865506448089,
+      "audit_fold_wins": 3,
+      "audit_folds": "[0.001885569237153612, 0.0008359324754052249, 0.00025948901012839715]",
+      "audit_ci_low": -8.649520294095802e-05,
+      "audit_ci_high": 0.0020810432899443306,
+      "chrono_delta": 0.0007479205751219557,
+      "test_top5_set_change": 0.02,
+      "test_top5_order_change": 0.039,
+      "test_top1_change": 0.002,
+      "selected_modules": "M_014",
+      "robust_score": 0.0005197571012610122,
+      "promotion_gate": false
+    }
+  ],
+  "attack1": "dual50",
+  "attack2": "bin35",
+  "primary": "consensus3_fallback",
+  "files": {
+    "consensus3": "submission_v18_consensus3_reference.csv",
+    "attack1": "submission_v18_attack1.csv",
+    "attack2": "submission_v18_attack2.csv",
+    "primary": "submission_v18_primary.csv"
+  },
+  "compliance": {
+    "task_specific_data": "organizer files only",
+    "external task dataset": false,
+    "pretrained_usage": "frozen open-source embedding feature extractor only",
+    "generation_used": false,
+    "direct_test_label_request": false
+  }
+}

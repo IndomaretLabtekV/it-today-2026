@@ -1,0 +1,48 @@
+{
+  "public_champion_lb": 0.65856,
+  "pairwise_topk": 6,
+  "pairwise_blend": 0.65,
+  "strict_consensus3": 0.6649659659794943,
+  "strict_pairwise": 0.6645677502542902,
+  "strict_increment": -0.0003982157252042017,
+  "bootstrap_ci": [
+    -0.0011476227938389027,
+    0.00035970437630543996
+  ],
+  "fold_deltas": [
+    0.0009033588061224673,
+    -0.0014953285150662854,
+    -0.0017113940908515257,
+    0.00012587461109647702,
+    0.00018641056267776346
+  ],
+  "fold_wins": 3,
+  "worst_fold": -0.0017113940908515257,
+  "quarter_deltas": [
+    -0.0010322954810704145,
+    0.00045055582336199425,
+    0.0002590734716458131,
+    -0.0012701967147541995
+  ],
+  "quarter_wins": 2,
+  "tail_increment": -0.0012701967147541995,
+  "future_block_delta": 0.0003344516799327346,
+  "future_block_ci": [
+    -0.0007673388374632997,
+    0.0014434861511353262
+  ],
+  "test_top5_set_change": 0.0,
+  "test_top5_order_change": 0.004,
+  "test_top1_change": 0.0,
+  "test_top6_order_change": 0.004,
+  "final_pairwise_best_iteration": 155,
+  "final_pairwise_info": {
+    "rows": 47756,
+    "positive_rate": 0.81624601459627,
+    "weight_mean": 0.11557494103908539
+  },
+  "promotion_gate": false,
+  "primary_label": "consensus3_fallback",
+  "primary_file": "submission_v14_primary.csv",
+  "candidate_file": "submission_v14_top6_pairwise.csv"
+}

@@ -1,0 +1,2 @@
+development_gate_passed,development_winner,development_mode,broad_min_positive_salts,broad_min_fold_wins,broad_min_pooled_increment,broad_min_worst_salt,broad_ci_floor,cons_min_positive_salts,cons_min_fold_wins,cons_min_pooled_increment,cons_min_worst_salt,cons_ci_floor
+False,,,3,12,0.00065,0.0003,0.0001,3,11,0.0002,0.0,-5e-05

@@ -1,0 +1,71 @@
+{
+  "version": "pseudo-GT-v4",
+  "public_evidence": {
+    "V130_score": 0.66173,
+    "V132_score_user_reported": 0.66219,
+    "observed_delta": 0.00046,
+    "number_of_new_V132_actions": 5,
+    "average_observed_package_delta_per_action_naive": 9.2e-05,
+    "note": "Per-action average is descriptive only; leaderboard feedback does not identify which individual actions are correct."
+  },
+  "v132_offline": {
+    "primary_incremental_gain": 0.00019313989905640484,
+    "positive_random_folds": 4,
+    "benefit": 15,
+    "harm": 5,
+    "coverage": 0.005,
+    "primary_ci_user": [
+      -2.5063574919477104e-05,
+      0.00042409026985988006
+    ],
+    "primary_ci_cluster": [
+      -5.711790702701534e-05,
+      0.0004496900070416608
+    ]
+  },
+  "action_structure": {
+    "all_actions_are_rank2_to_rank1": true,
+    "selected_pairs": {
+      "M_017>M_009": 3,
+      "M_006>M_009": 1,
+      "M_014>M_015": 1
+    },
+    "selected_users": [
+      "U_4197",
+      "U_4200",
+      "U_4598",
+      "U_4644",
+      "U_4659"
+    ]
+  },
+  "v3_to_v4": {
+    "top1_changes": 5,
+    "method": "Replace exact V130 ordering with exact submitted V132 diagnostic ordering for the five selected rank2->rank1 swaps."
+  },
+  "target_geometry": {
+    "rank_means": {
+      "1": 1.0,
+      "2": 0.8491974999999999,
+      "3": 0.700015,
+      "4": 0.5490725,
+      "5": 0.39990523123578464,
+      "6": 0.25039911308203994
+    },
+    "p_k_ge_5": 0.6595,
+    "p_k_ge_6": 0.33825,
+    "posterior_rank_values": [
+      1.0,
+      0.8491974999999999,
+      0.700015,
+      0.5490725,
+      0.26373749999999996,
+      0.08469750000000001
+    ]
+  },
+  "limits": [
+    "The +0.00046 public uplift supports the 5-action package in aggregate, not every action individually.",
+    "K remains weakly identifiable and is unchanged.",
+    "Two-decimal relevance jitter remains weakly identifiable and is unchanged.",
+    "This is a research pseudo-ground-truth, not recovered hidden ground truth."
+  ]
+}

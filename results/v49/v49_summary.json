@@ -1,0 +1,39 @@
+{
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "authority_mode": "head4",
+  "core_errors": [],
+  "coverage": 0.03,
+  "development_error": "",
+  "development_gate": false,
+  "development_gate_reasons": [
+    "nested_delta_floor"
+  ],
+  "final_gate": false,
+  "final_gate_reasons": [
+    "lock_gate_failed"
+  ],
+  "interpretation": "Exact champion fail-close; this is not evidence of a V49 improvement.",
+  "lock_error": "",
+  "lock_gate": false,
+  "lock_gate_reasons": [
+    "development_gate_failed"
+  ],
+  "lock_opened": false,
+  "primary_kind": "exact_anchor_fail_close",
+  "primary_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "selected_experts": [
+    "v1_final_blend",
+    "v5_primary",
+    "v2_supervised_multimodal",
+    "v4_lambdarank"
+  ],
+  "selected_families": [
+    "early_hybrid",
+    "generator_yetirank",
+    "supervised_multimodal",
+    "structured_lambdarank"
+  ],
+  "test_changed_users": 0,
+  "test_error": "",
+  "version": "v49"
+}

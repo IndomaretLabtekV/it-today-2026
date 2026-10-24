@@ -1,0 +1,2 @@
+model_id,revision,error
+Qwen/Qwen3-Embedding-0.6B,d43997c8a1046d1734f8d519effbb424a832a0a2,ValueError: Backend should be defined in the BACKENDS_MAPPING. Offending backend: keras_nlp

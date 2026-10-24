@@ -1,0 +1,9 @@
+{
+  "model": "indobenchmark/indobert-base-p2",
+  "texts": 5533,
+  "steps": 173,
+  "mean_loss": 4.526418998751337,
+  "final50_loss": 2.7679712438583373,
+  "uses_relevance_labels": false,
+  "uses_test_chat": false
+}

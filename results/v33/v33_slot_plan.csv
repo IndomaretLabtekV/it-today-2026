@@ -1,0 +1,5 @@
+file,role,eligible_to_submit,note
+submission_v33_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,Selected mode=None; otherwise exact V30 fail-close.
+submission_v33_DIAGNOSTIC_broad_residual.csv,DIAGNOSTIC_ONLY,False,Leader-scale V30-locked residual-memory attack; never bypass the gate.
+submission_v33_DIAGNOSTIC_protected_residual.csv,DIAGNOSTIC_ONLY,False,Conservative residual-memory surface; locks all 77 public V30 intervention rows.
+submission_v33_anchor_v30_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,"Exact V30 reference, public 0.65963."

@@ -1,0 +1,102 @@
+{
+  "seed": 20260909,
+  "fold_seed": 20260907,
+  "config": {
+    "seed": 20260909,
+    "fold_seed": 20260907,
+    "n_outer": 5,
+    "n_inner": 3,
+    "word_max": 60000,
+    "char_max": 80000,
+    "ridge_alpha": 3.0,
+    "kmeans_k": 6,
+    "near_threshold": 0.9,
+    "lambda_grid": [
+      0.0,
+      0.1,
+      0.2,
+      0.35,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "label_gain": [
+      0.0,
+      0.25,
+      0.4,
+      0.55,
+      0.7,
+      0.85,
+      1.0
+    ],
+    "rank_estimators": 300,
+    "rank_lr": 0.025,
+    "rank_leaves": 15,
+    "rank_depth": 4,
+    "rank_min_child": 80,
+    "rank_subsample": 0.85,
+    "rank_colsample": 0.75,
+    "rank_l1": 0.5,
+    "rank_l2": 10.0,
+    "rank_max_bin": 127,
+    "truncation_level": 8
+  },
+  "python": "3.12.13",
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "files": {
+    "modules_e5.npy": {
+      "bytes": 52352,
+      "sha256": "bac1185682b58e2fa92a217ff3da2b4d1a59febc7f191ace94445678bfc9b04d"
+    },
+    "modules_nomic.npy": {
+      "bytes": 52352,
+      "sha256": "e8ad4dd3b5634b92986398711740a4f0bea8243021b3f93829c171826baf3c69"
+    },
+    "users_e5.npy": {
+      "bytes": 15360128,
+      "sha256": "66072e6eaab3a7992345a31385a9f16ed8bbbfb81c7621dc751bd2e9493929d8"
+    },
+    "users_nomic.npy": {
+      "bytes": 15360128,
+      "sha256": "30c0b87d56f2a11b126fa5a2bc1440e952eeb0c38039efe9bf2f1cb13908088d"
+    },
+    "v136_dense_meta.json": {
+      "bytes": 461,
+      "sha256": "101016fa89d3922a6a95fe9b42e0d612c23e9d8f9b5762e9158e251bd2708dd5"
+    },
+    "v136_gate_report.json": {
+      "bytes": 4306,
+      "sha256": "4a81dc920d8a0bc8f43264083e9133467baef8f1d8145003c5dc6a294719310f"
+    },
+    "v136_oof_scores.npz": {
+      "bytes": 748280,
+      "sha256": "0f2361fe2a60d73ca1e2fcc18b46761ca90ec31f9dc022a9c159ad97bd129c91"
+    },
+    "v136_primary_fold_metrics.csv": {
+      "bytes": 1035,
+      "sha256": "99c5c4a644e0e06282696e818f52316907db31c7da55650f4aad9f36b01c7bfc"
+    },
+    "v136_slice_metrics.csv": {
+      "bytes": 376,
+      "sha256": "335453f70044d9f258bc5be7c8a676ba195d50d4992d142b7d462db721434518"
+    },
+    "v136_stress_metrics.csv": {
+      "bytes": 1578,
+      "sha256": "c7f55af264bcc49db01a70a46563bffa3bda1ce20846c0894959f7b2973a33f6"
+    },
+    "v136_validation_summary.json": {
+      "bytes": 649,
+      "sha256": "eadb2f23a72635be646d37428ca67c645c63ccabe211298e2261bd148b198780"
+    }
+  },
+  "packages": {
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.16.3",
+    "lightgbm": "4.6.0",
+    "torch": "2.10.0+cu128",
+    "transformers": "4.57.1",
+    "sentence-transformers": "5.1.1"
+  }
+}

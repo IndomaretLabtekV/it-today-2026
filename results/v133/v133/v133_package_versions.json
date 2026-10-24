@@ -1,0 +1,15 @@
+{
+  "python": "3.12.13",
+  "numpy": "2.0.2",
+  "pandas": "2.3.3",
+  "scipy": "1.16.3",
+  "sklearn": "1.6.1",
+  "lightgbm": "4.6.0",
+  "seed": 20260907,
+  "v132_base_sha256": "d89714241c85dbaf93a5574550a5d9272c37b9b432c69fd5c5a2ff07fe690d84",
+  "e5_model": "intfloat/multilingual-e5-base",
+  "e5_revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+  "nomic_model": "nomic-ai/nomic-embed-text-v2-moe",
+  "nomic_revision": "1066b6599d099fbb93dfcb64f9c37a7c9e503e85",
+  "nomic_code_revision": "7710840340a098cfb869c4f65e87cf2b1b70caca"
+}

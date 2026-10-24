@@ -1,0 +1,45 @@
+{
+  "version": "pseudo-GT-v2",
+  "basis": [
+    "organizer train/test target geometry",
+    "pseudo-GT v1 / V49 diagnostic ordering evidence",
+    "V129 selected Top1 actions and offline validation evidence"
+  ],
+  "v129_reported_public_score_from_user": 0.66075,
+  "v129_selected_test_actions": 50,
+  "new_top1_changes_vs_pseudo_v1": 45,
+  "already_agreed_top1_actions": 5,
+  "already_agreed_ids": [
+    "U_4412",
+    "U_4549",
+    "U_4703",
+    "U_4713",
+    "U_4807"
+  ],
+  "target_geometry": {
+    "rank_means": {
+      "1": 1.0,
+      "2": 0.8491974999999999,
+      "3": 0.700015,
+      "4": 0.5490725,
+      "5": 0.39990523123578464,
+      "6": 0.25039911308203994
+    },
+    "p_k_ge_5": 0.6595,
+    "p_k_ge_6": 0.33825,
+    "posterior_rank_values": [
+      1.0,
+      0.8491974999999999,
+      0.700015,
+      0.5490725,
+      0.26373749999999996,
+      0.08469750000000001
+    ]
+  },
+  "method": "Promote V129-selected candidate to rank1 while preserving pseudo-GT-v1 relative order for every other module.",
+  "limitations": [
+    "The 0.66075 public score is aggregate evidence and does not identify which individual V129 actions are correct.",
+    "K and two-decimal score jitter remain weakly identifiable; they are not changed in v2.",
+    "This is a research pseudo-GT, not recovered hidden labels."
+  ]
+}

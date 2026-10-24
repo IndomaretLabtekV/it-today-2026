@@ -1,0 +1,2 @@
+model,sample_texts,mean_tokens,median_tokens,p95_tokens,max_tokens,total_unk,mean_unk_per_text
+indobenchmark/indobert-base-p2,5000,22.2156,20.0,36.0,70,101,0.0202

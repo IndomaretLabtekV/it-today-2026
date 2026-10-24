@@ -1,0 +1,20 @@
+family,template_or_prefix,count
+support_first,"Halo admin, saya mau reset password akun tapi email verifikasi ga masuk-masuk.",47
+support_first,"Min mau tanya, pembayaran cicilan kelas saya kok belum keupdate di sistem ya?",35
+support_first,"Min, kok sertifikat kelulusan saya bulan lalu belum masuk ke email ya?",47
+support_first,Website LMS-nya lagi down kah? Saya ga bisa login dari tadi.,42
+support_first,Min invoice buat reimbursement kantor saya bisa diterbitkan ga ya?,51
+support_followup,"Oiya btw min, sertifikat kelulusan saya bulan lalu kok belum masuk email ya?",122
+support_followup,"Btw min, pembayaran cicilan kelas saya kok belum keupdate di sistem ya?",121
+support_followup,"Oiya satu lagi, email verifikasi reset password saya kok ga masuk-masuk ya min?",112
+support_followup,"Eh ngomong-ngomong, website LMS-nya lagi down kah? Saya ga bisa login dari tadi.",105
+normal_followup_prefix,Sori nanya mulu,941
+normal_followup_prefix,Btw sekalian,870
+normal_followup_prefix,Ok makasih,930
+normal_followup_prefix,Oh gitu,905
+normal_followup_prefix,Terus min,808
+normal_followup_prefix,Habis itu,926
+normal_followup_prefix,Nah kalo udah itu,883
+normal_followup_prefix,Oiya lanjut,853
+normal_followup_prefix,Eh satu lagi,910
+normal_followup_prefix,Eh iya,907

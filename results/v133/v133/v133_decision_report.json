@@ -1,0 +1,89 @@
+{
+  "version": "V133",
+  "status": "BORDERLINE",
+  "recommend_submit": false,
+  "protected_public_lb": 0.66219,
+  "protected_base_sha256": "d89714241c85dbaf93a5574550a5d9272c37b9b432c69fd5c5a2ff07fe690d84",
+  "primary_incremental_gain": 0.00010068836947903037,
+  "positive_random_folds": 4,
+  "fold_gains": [
+    0.000120464488863945,
+    0.00020117569947615267,
+    0.00022508100606501104,
+    1.2104790657758713e-05,
+    -5.538413766771555e-05
+  ],
+  "ci_user": [
+    4.499486449640244e-06,
+    0.00022014888036064794
+  ],
+  "ci_cluster": [
+    -2.0218665145835913e-05,
+    0.0002466342172659617
+  ],
+  "primary_actions": 12,
+  "benefit": 10,
+  "harm": 2,
+  "tie": 0,
+  "prefix20_gain": 8.994328835979104e-05,
+  "prefix40_gain": 0.00011826139595359563,
+  "test_new_actions": 3,
+  "test_max_pair_count": 3,
+  "test_unseen_pair_rate": 0.0,
+  "utility_smd_oof_to_test_selected": 2.3017953011810537,
+  "core_smd": {
+    "policy_anchor_margin": -0.9551808300245214,
+    "tfidf_word_full_diff": -0.7484562383011862,
+    "tfidf_char_full_diff": -0.6053957941619051,
+    "bm25_uni_full_diff": -0.9516160471795487,
+    "bm25_bi_full_diff": -0.8924078882412829,
+    "ready_diff": -0.5998368628077243,
+    "log_chat_count": -2.304062816421344,
+    "no_chat": 3.16227766016838,
+    "negation": -3.16227766016838,
+    "latest_full_contradiction": -0.9999999999999999,
+    "candidate_explicit": -1.673320053068151
+  },
+  "max_abs_smd": 3.16227766016838,
+  "v131_overlap": 2,
+  "hard_checks": {
+    "base_sha_ok": true,
+    "oof_complete": true,
+    "finite_oof": true,
+    "geometry_ok": true,
+    "test_action_count_le_3": true,
+    "test_action_gates": true,
+    "pseudo_gt_used": false
+  },
+  "promotion_gates": {
+    "gain_ge_0_00015": false,
+    "positive_folds_ge_4": true,
+    "benefit_ge_8": true,
+    "harm_le_4": true,
+    "prefix20_positive": true,
+    "test_actions_1_to_3": true,
+    "selected_test_support_and_votes": true,
+    "max_abs_smd_le_1_5": false,
+    "not_complete_v131_overlap": true,
+    "no_material_slice_contradiction": true
+  },
+  "geometry_audit": {
+    "base_sha256": "d89714241c85dbaf93a5574550a5d9272c37b9b432c69fd5c5a2ff07fe690d84",
+    "candidate_sha256": "f1be4188a50151f47e22450371163ac317423dd5611cfe9a4ce0151995e655fe",
+    "new_actions": 3,
+    "changed_top1": 3,
+    "all_changes_selected": true,
+    "immutable_unedited_rows_exact": true,
+    "protected_v132_rows_exact": true,
+    "locked_noneligible_exact": true,
+    "top5_membership_unchanged": true,
+    "rank5_unchanged": true,
+    "tail_rank5_to17_order_unchanged": true,
+    "score_multiset_preserved": true,
+    "finite": true,
+    "row_order_unchanged": true
+  },
+  "candidate_sha256": "f1be4188a50151f47e22450371163ac317423dd5611cfe9a4ce0151995e655fe",
+  "primary_sha256": "d89714241c85dbaf93a5574550a5d9272c37b9b432c69fd5c5a2ff07fe690d84",
+  "submission_instruction": "HOLD exact V132; candidate_v133_DIAGNOSTIC.csv is diagnostic only."
+}

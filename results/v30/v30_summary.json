@@ -1,0 +1,126 @@
+{
+  "version": "V30 3-Fresh-Salt Split-Robust Pair-Conditional Curriculum Residual LTR",
+  "public_anchor": 0.65919,
+  "leader_reference": 0.66112,
+  "fixed_alpha": 0.16,
+  "fresh_salts": {
+    "C": 81917476,
+    "D": 1816709832,
+    "E": 35235913
+  },
+  "candidates": [
+    "ltr_base",
+    "ltr_direct",
+    "ltr_direct_cooc"
+  ],
+  "development_winner": "ltr_base",
+  "development_gate_passed": true,
+  "sealed_gate_passed": true,
+  "final_gate_passed": true,
+  "candidate_gate": [
+    {
+      "candidate": "ltr_base",
+      "salt_C_delta": 0.0008901997282701599,
+      "salt_D_delta": 0.0004493147504717234,
+      "salt_E_delta": 0.0008551180225278254,
+      "salt_positive_count": 3,
+      "worst_salt_delta": 0.0004493147504717234,
+      "mean_salt_delta": 0.0007315441670899029,
+      "fold_wins_total": 13,
+      "pooled_user_delta": 0.000731544167089903,
+      "pooled_ci_low": 0.0003368521577525925,
+      "pooled_ci_high": 0.0011447419236485657,
+      "absolute_gate": true,
+      "incremental_gate": true,
+      "eligible": true
+    },
+    {
+      "candidate": "ltr_direct",
+      "salt_C_delta": 0.0011271623060725153,
+      "salt_D_delta": 0.0003737776399108367,
+      "salt_E_delta": 0.000944325409177234,
+      "salt_positive_count": 3,
+      "worst_salt_delta": 0.0003737776399108367,
+      "mean_salt_delta": 0.0008150884517201954,
+      "fold_wins_total": 14,
+      "pooled_user_delta": 0.0008150884517201954,
+      "pooled_ci_low": 0.00037453554946887036,
+      "pooled_ci_high": 0.0012091446343200126,
+      "absolute_gate": true,
+      "incremental_gate": true,
+      "eligible": true
+    },
+    {
+      "candidate": "ltr_direct_cooc",
+      "salt_C_delta": 0.0006303922270987328,
+      "salt_D_delta": 0.00035745268741756825,
+      "salt_E_delta": 0.0007480739431094276,
+      "salt_positive_count": 3,
+      "worst_salt_delta": 0.00035745268741756825,
+      "mean_salt_delta": 0.0005786396192085762,
+      "fold_wins_total": 11,
+      "pooled_user_delta": 0.0005786396192085763,
+      "pooled_ci_low": 0.00017388177873711055,
+      "pooled_ci_high": 0.0009905989238372967,
+      "absolute_gate": true,
+      "incremental_gate": false,
+      "eligible": false
+    }
+  ],
+  "incremental_blocks": [
+    {
+      "block": "DirectCurr_vs_Base",
+      "salt_C_increment": 0.0002369625778023554,
+      "salt_D_increment": -7.55371105608867e-05,
+      "salt_E_increment": 8.920738664940856e-05,
+      "positive_salts": 2,
+      "mean_increment": 8.354428463029242e-05,
+      "increment_gate": true
+    },
+    {
+      "block": "Cooc_vs_DirectCurr",
+      "salt_C_increment": -0.0004967700789737825,
+      "salt_D_increment": -1.6324952493268464e-05,
+      "salt_E_increment": -0.00019625146606780635,
+      "positive_salts": 0,
+      "mean_increment": -0.0002364488325116191,
+      "increment_gate": false
+    }
+  ],
+  "sealed_validation": [
+    {
+      "world": "sealed_template_lock_F",
+      "candidate": "ltr_base",
+      "alpha": 0.16,
+      "n": 743,
+      "anchor_ndcg": 0.656337222268176,
+      "candidate_ndcg": 0.6573067149701923,
+      "mean_delta": 0.0009694927020162868,
+      "positive_rate": 0.052489905787348586,
+      "harm_rate": 0.040376850605652756,
+      "ci_low": -0.0005670528095057005,
+      "ci_high": 0.0026089259225261664,
+      "top5_membership_change": 0.05518169582772544,
+      "top5_order_change": 0.1386271870794078,
+      "top1_change": 0.006729475100942127
+    },
+    {
+      "world": "chronological_U3001_U4000",
+      "candidate": "ltr_base",
+      "alpha": 0.16,
+      "n": 1000,
+      "anchor_ndcg": 0.6638550137770219,
+      "candidate_ndcg": 0.6638974733315621,
+      "mean_delta": 4.2459554540309866e-05,
+      "positive_rate": 0.049,
+      "harm_rate": 0.032,
+      "ci_low": -0.0010812260045752686,
+      "ci_high": 0.0011063669414049845,
+      "top5_membership_change": 0.042,
+      "top5_order_change": 0.123,
+      "top1_change": 0.009
+    }
+  ],
+  "diagnostic_test_changed_users": 77,
+  "submission_instruction": "PRIMARY IS SUBMISSION-ELIGIBLE: still audit the run before Kaggle submission."
+}

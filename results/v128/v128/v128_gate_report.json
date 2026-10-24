@@ -1,0 +1,26 @@
+{
+  "version": "V128",
+  "selected_variant": "no_bm25",
+  "coverage": 0.005,
+  "design_gain": 0.0002162589577779692,
+  "design_ci_user": [
+    -0.00016106259619267345,
+    0.0005937795986032422
+  ],
+  "design_ci_cluster": [
+    -0.00013062709245715892,
+    0.000608293193775632
+  ],
+  "bm25_stable": false,
+  "design_control_gate": false,
+  "world_gate": false,
+  "lock_gate": false,
+  "g_safe": -0.0017187173951248762,
+  "test_geometry_gate": false,
+  "final_gate": false,
+  "test_actions": 0,
+  "test_action_rate": 0.0,
+  "champion_sha256": "443785fb534df9820ce57bfe450a2768881625bf7ae37aa849dd0d9f2afc957d",
+  "primary_sha256": "443785fb534df9820ce57bfe450a2768881625bf7ae37aa849dd0d9f2afc957d",
+  "submission_instruction": "NO V128 SUBMISSION: primary is byte-identical 0.66028 champion."
+}

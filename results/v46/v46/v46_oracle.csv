@@ -1,0 +1,2 @@
+design_anchor_ndcg,eligible_users,eligible_wrong_top1,recoverable_top1_errors,true_top1_in_top4_given_wrong,top1_within_top4_oracle_delta
+0.648493856607402,726,397,246,0.6196473551637279,0.02761696250453649

@@ -1,0 +1,4 @@
+observable_key,repeated_groups,users_in_repeated_groups,conflicting_top1_groups,conflicting_positive_set_groups,conflicting_full_rank_groups,best_mode_top1_accuracy_within_duplicates,best_mode_set_accuracy_within_duplicates,best_mode_rank_accuracy_within_duplicates
+assessment_only,316,1408,289,316,316,0.3821022727272727,0.2265625,0.22443181818181818
+chat_sequence_only,232,884,179,232,232,0.5192307692307693,0.2658371040723982,0.26244343891402716
+assessment_plus_chat,11,23,9,11,11,0.6086956521739131,0.4782608695652174,0.4782608695652174

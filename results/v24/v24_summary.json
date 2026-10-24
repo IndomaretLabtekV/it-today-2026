@@ -1,0 +1,85 @@
+{
+  "version": "V24",
+  "strategy": "causal public-LB micro-probes with selective abstention from new embeddings",
+  "recorded_scores": {
+    "consensus3": 0.65856,
+    "current_pb": 0.65912,
+    "v22_four_change": 0.65878,
+    "leader": 0.66083
+  },
+  "known_pb_swaps": [
+    [
+      "U_4047",
+      "M_009",
+      "M_007"
+    ],
+    [
+      "U_4953",
+      "M_016",
+      "M_005"
+    ]
+  ],
+  "probe_specs": {
+    "u4047_only": {
+      "base": "consensus3",
+      "swaps": [
+        [
+          "U_4047",
+          "M_009",
+          "M_007"
+        ]
+      ]
+    },
+    "u4953_only": {
+      "base": "consensus3",
+      "swaps": [
+        [
+          "U_4953",
+          "M_016",
+          "M_005"
+        ]
+      ]
+    },
+    "pb_plus_u4498": {
+      "base": "pb",
+      "swaps": [
+        [
+          "U_4498",
+          "M_009",
+          "M_001"
+        ]
+      ]
+    },
+    "pb_plus_u4876": {
+      "base": "pb",
+      "swaps": [
+        [
+          "U_4876",
+          "M_014",
+          "M_009"
+        ]
+      ]
+    }
+  },
+  "recommended_slots": [
+    {
+      "slot": 1,
+      "file": "submission_v24_probe3_pb_plus_u4498.csv",
+      "measurement": "c = LB - 0.65912",
+      "decision": "Keep U4498 only if its isolated LB exceeds 0.65912."
+    },
+    {
+      "slot": 2,
+      "file": "submission_v24_probe4_pb_plus_u4876.csv",
+      "measurement": "d = LB - 0.65912",
+      "decision": "Keep U4876 only if its isolated LB exceeds 0.65912."
+    },
+    {
+      "slot": 3,
+      "file": "submission_v24_probe1_u4047_only.csv",
+      "measurement": "a = LB - 0.65856; b = 0.65912 - LB",
+      "decision": "Tests whether removing U4953 beats the combined current PB."
+    }
+  ],
+  "primary": "exact 0.65912 PB anchor"
+}

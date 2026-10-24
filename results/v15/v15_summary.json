@@ -1,0 +1,67 @@
+{
+  "public_champion_lb": 0.65856,
+  "public_v13_1_lb": 0.65754,
+  "strict_consensus3": 0.6642754427594848,
+  "strict_surgical": 0.6642754427594848,
+  "strict_increment": 0.0,
+  "bootstrap_ci": [
+    0.0,
+    0.0
+  ],
+  "fold_deltas": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "fold_wins": 0,
+  "worst_fold": 0.0,
+  "quarter_deltas": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "quarter_wins": 0,
+  "tail_increment": 0.0,
+  "oof_route_rate": 0.0,
+  "oof_routes": 0,
+  "future_increment": 0.0,
+  "future_ci": [
+    0.0,
+    0.0
+  ],
+  "vote3_actions": 0,
+  "vote4_actions": 0,
+  "vote3_geometry": {
+    "route_rate": 0.0,
+    "top5_order": 0.0,
+    "top1": 0.0
+  },
+  "vote4_geometry": {
+    "route_rate": 0.0,
+    "top5_order": 0.0,
+    "top1": 0.0
+  },
+  "promotion_gate": false,
+  "primary_label": "consensus3_fallback",
+  "primary_file": "submission_v15_primary.csv",
+  "policy": {
+    "min_drop_rank": 3,
+    "max_add_rank": 9,
+    "min_action_support": 8,
+    "utility_thresholds": [
+      0.003000000026077032,
+      0.004999999888241291,
+      0.007499999832361937,
+      0.009999999776482582,
+      0.014999999664723873,
+      0.019999999552965164,
+      0.029999999329447746
+    ],
+    "max_inner_route_rate": 0.035,
+    "vote_primary": 4,
+    "vote_alt": 3
+  }
+}

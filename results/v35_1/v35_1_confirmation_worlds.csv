@@ -1,0 +1,4 @@
+world,policy,increment_vs_v30,interventions,beneficial_actions,harmful_actions,ties,action_precision,locked_v30_rows,train_users,val_users,tapt_texts,tapt_steps,tapt_fold_pure
+fresh_X,ATTACK,0.0002698402751013677,5,4,1,0,0.8,100,3200,800,4822,151,True
+sealed_template_T,ATTACK,-0.0004758304231486015,7,1,5,1,0.16666666666666666,99,3182,818,4714,148,True
+chronology_U3001_U4000,ATTACK,0.0,0,0,0,0,0.0,129,3000,1000,4601,144,True

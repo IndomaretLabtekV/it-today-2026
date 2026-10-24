@@ -1,0 +1,4 @@
+slot,candidate,file,changed_users,role,submit_now,interpretation
+1,B23,submission_v39_5_probe_B23_9.csv,9.0,DIRECT_CAUSAL_PROBE,True,C23 = displayed_LB - 0.66020
+2,B34,submission_v39_5_probe_B34_10.csv,10.0,DIRECT_CAUSAL_PROBE,True,C34 = displayed_LB - 0.66020
+3,ADAPTIVE,choose after Slot 1 + Slot 2,,ADAPTIVE_POSITIVE_GROUP_UNION_OR_B45_VERIFY,False,Infer C45 = (0.66006-0.66020)-C23-C34; direct B45 if ambiguous.

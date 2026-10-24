@@ -1,0 +1,178 @@
+{
+  "version": "V32 Cross-Objective Residual Consensus LTR",
+  "public_anchor_v30": 0.65963,
+  "rank4_reference": 0.65974,
+  "rank4_gap": 0.00010999999999994348,
+  "leader_reference": 0.66141,
+  "leader_gap": 0.0017800000000000038,
+  "fixed_alpha": 0.16,
+  "frozen_intent_parent_strength": 40.0,
+  "frozen_intent_child_strength": 30.0,
+  "fresh_salts": {
+    "K": 910128828,
+    "L": 1553684324,
+    "M": 744811797
+  },
+  "sealed_j_salt": "MINETODAY-V31-SEALED-J-20260828-INTENTSTATE-REJECTION-ONLY",
+  "development_gate_passed": false,
+  "development_winner": null,
+  "development_mode": null,
+  "sealed_gate_passed": false,
+  "v30_reproduction_ok": true,
+  "final_gate_passed": false,
+  "pooled_incremental": [
+    {
+      "candidate": "yeti_residual",
+      "salt_K_increment": -0.0005007757020388708,
+      "salt_L_increment": -0.00012954749265530984,
+      "salt_M_increment": -0.00020241980922648794,
+      "positive_salts": 0,
+      "worst_salt_increment": -0.0005007757020388708,
+      "mean_salt_increment": -0.0002775810013068895,
+      "fold_wins_total": 5,
+      "pooled_user_increment": -0.0002775810013068895,
+      "pooled_ci_low": -0.0006052910876249764,
+      "pooled_ci_high": 5.345550813119595e-05,
+      "broad_gate_passed": false,
+      "conservative_gate_passed": false
+    },
+    {
+      "candidate": "xe_residual",
+      "salt_K_increment": -0.0007190681490671609,
+      "salt_L_increment": 0.0006739648798589162,
+      "salt_M_increment": 4.2237451198924416e-05,
+      "positive_salts": 2,
+      "worst_salt_increment": -0.0007190681490671609,
+      "mean_salt_increment": -9.552726697734203e-07,
+      "fold_wins_total": 9,
+      "pooled_user_increment": -9.552726697733756e-07,
+      "pooled_ci_low": -0.0004297255970938649,
+      "pooled_ci_high": 0.00040558357552008504,
+      "broad_gate_passed": false,
+      "conservative_gate_passed": false
+    },
+    {
+      "candidate": "objective_median",
+      "salt_K_increment": -0.00024649436999430656,
+      "salt_L_increment": 0.00011467406690270768,
+      "salt_M_increment": -0.000351959556094112,
+      "positive_salts": 1,
+      "worst_salt_increment": -0.000351959556094112,
+      "mean_salt_increment": -0.00016125995306190364,
+      "fold_wins_total": 6,
+      "pooled_user_increment": -0.00016125995306190362,
+      "pooled_ci_low": -0.0004143757947798636,
+      "pooled_ci_high": 0.00010459001748582723,
+      "broad_gate_passed": false,
+      "conservative_gate_passed": false
+    },
+    {
+      "candidate": "unanimous_top6",
+      "salt_K_increment": -0.0005265101403711163,
+      "salt_L_increment": -7.344451968170068e-05,
+      "salt_M_increment": -0.0003187253518225435,
+      "positive_salts": 0,
+      "worst_salt_increment": -0.0005265101403711163,
+      "mean_salt_increment": -0.00030622667062512015,
+      "fold_wins_total": 3,
+      "pooled_user_increment": -0.0003062266706251202,
+      "pooled_ci_low": -0.0005481740113111091,
+      "pooled_ci_high": -6.643412882933625e-05,
+      "broad_gate_passed": false,
+      "conservative_gate_passed": false
+    }
+  ],
+  "sealed_validation": [
+    {
+      "world": "skipped_development_gate_failed",
+      "candidate": null,
+      "n": 0,
+      "alpha": 0.16,
+      "v30_control_ndcg": NaN,
+      "candidate_ndcg": NaN,
+      "increment_vs_v30": NaN,
+      "positive_rate": NaN,
+      "harm_rate": NaN,
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "top5_membership_change": NaN,
+      "top5_order_change": NaN,
+      "top1_change": NaN
+    }
+  ],
+  "objective_diversity": [
+    {
+      "salt": "K",
+      "yeti_xe_pearson_delta": 0.5091133248223295,
+      "yeti_xe_spearman_delta": 0.4383100888974809,
+      "yeti_v31_pearson_delta": 0.518020807632566,
+      "xe_v31_pearson_delta": 0.5950626938108707,
+      "yeti_xe_both_positive": 0.01725,
+      "yeti_xe_both_harm": 0.02125,
+      "yeti_xe_opposite_sign": 0.00175,
+      "unanimous_top6_intervention_rate": 0.05225
+    },
+    {
+      "salt": "L",
+      "yeti_xe_pearson_delta": 0.48368235987665714,
+      "yeti_xe_spearman_delta": 0.4517499723833974,
+      "yeti_v31_pearson_delta": 0.44635505207034804,
+      "xe_v31_pearson_delta": 0.4814840090947769,
+      "yeti_xe_both_positive": 0.0205,
+      "yeti_xe_both_harm": 0.02,
+      "yeti_xe_opposite_sign": 0.003,
+      "unanimous_top6_intervention_rate": 0.054
+    },
+    {
+      "salt": "M",
+      "yeti_xe_pearson_delta": 0.508011354022642,
+      "yeti_xe_spearman_delta": 0.5161335503625093,
+      "yeti_v31_pearson_delta": 0.507790587442086,
+      "xe_v31_pearson_delta": 0.5786727318690481,
+      "yeti_xe_both_positive": 0.025,
+      "yeti_xe_both_harm": 0.02575,
+      "yeti_xe_opposite_sign": 0.002,
+      "unanimous_top6_intervention_rate": 0.06775
+    }
+  ],
+  "test_geometry": [
+    {
+      "candidate": "v31_intentstate",
+      "top5_order_changed_users": 60,
+      "top5_order_change_rate": 0.06,
+      "top5_membership_change_rate": 0.012,
+      "top1_change_rate": 0.005
+    },
+    {
+      "candidate": "yeti_residual",
+      "top5_order_changed_users": 80,
+      "top5_order_change_rate": 0.08,
+      "top5_membership_change_rate": 0.013,
+      "top1_change_rate": 0.009
+    },
+    {
+      "candidate": "xe_residual",
+      "top5_order_changed_users": 84,
+      "top5_order_change_rate": 0.084,
+      "top5_membership_change_rate": 0.017,
+      "top1_change_rate": 0.007
+    },
+    {
+      "candidate": "objective_median",
+      "top5_order_changed_users": 49,
+      "top5_order_change_rate": 0.049,
+      "top5_membership_change_rate": 0.008,
+      "top1_change_rate": 0.005
+    },
+    {
+      "candidate": "unanimous_top6",
+      "top5_order_changed_users": 41,
+      "top5_order_change_rate": 0.041,
+      "top5_membership_change_rate": 0.007,
+      "top1_change_rate": 0.004
+    }
+  ],
+  "selected_test_changed_users_vs_v30": 0,
+  "unanimous_test_interventions": 41,
+  "submission_instruction": "NO NEW V32 SUBMISSION: primary is the reconstructed V30 fail-close anchor."
+}

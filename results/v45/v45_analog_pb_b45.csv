@@ -1,0 +1,17 @@
+family,row,user_id,margin,action_delta,prune_delta,kernel_weight,local,template_group,intent
+PB_B45,62,U_0063,0.034921497106552124,-0.004367548065916771,0.004367548065916771,3.6482354805144857e-06,False,oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas <topic> secara mendalam,intent:ml_eval
+PB_B45,145,U_0146,0.2162696123123169,-0.008080875871206372,0.008080875871206372,1.1446917894118589e-37,False,terus min kelas <topic> ada diskon ga kak budget lagi cekak nih,intent:ml
+PB_B45,387,U_0388,0.09744569659233093,0.0,-0.0,5.017841440665926e-17,False,oiya lanjut buat <topic> itu susah ga sih buat pemula kayak aku,intent:ml
+PB_B45,924,U_0925,0.07129567861557007,0.010792183790537924,-0.010792183790537924,1.750815317345077e-12,False,oh gitu ya paham kalo boleh nanya lagi mohon informasinya mengenai jadwal kelas <topic> dasar,intent:python
+PB_B45,1023,U_1024,0.13188663125038147,-0.01805054956012775,0.01805054956012775,5.218116662013384e-23,False,ok makasih infonya min ngomong-ngomong kelas <topic> itu berapa lama durasinya,intent:ml
+PB_B45,1337,U_1338,0.03965631127357483,0.0,-0.0,5.48986160637631e-07,False,oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas <topic> secara mendalam,intent:mlops
+PB_B45,1405,U_1406,0.045571982860565186,0.008323241484188948,-0.008323241484188948,5.151147498461612e-08,False,oh gitu ya paham kalo boleh nanya lagi min ada kelas <topic> yang mulai minggu ini ga,intent:eda
+PB_B45,2002,U_2003,0.08110487461090088,0.0,-0.0,3.4610546782377036e-14,False,eh iya lanjut nanya lagi ya min butuh kuasain <topic> secepatnya ada kelas intensif ga,intent:mlops
+PB_B45,2173,U_2174,0.05597740411758423,-0.020679677012551356,0.020679677012551356,8.022268107131651e-10,False,eh satu lagi deh min kelas <topic> kapan buka lagi,intent:cv
+PB_B45,2247,U_2248,0.13784345984458923,0.0,-0.0,4.8162239076903184e-24,False,eh satu lagi deh min aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,intent:eda
+PB_B45,2479,U_2480,0.011479943990707397,0.0,-0.0,0.0430821857526767,False,eh iya lanjut nanya lagi ya min mohon informasinya mengenai jadwal kelas <topic>,intent:ml_eval
+PB_B45,2583,U_2584,0.016268759965896606,-0.01640963687112662,0.01640963687112662,0.0063444676566694,False,btw sekalian mau tanya juga aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,intent:sql
+PB_B45,3236,U_3237,0.11846855282783508,0.0,-0.0,1.118079670824294e-20,False,oh gitu ya paham kalo boleh nanya lagi kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,intent:eda
+PB_B45,3689,U_3690,0.10198503732681274,-0.013947999732883076,0.013947999732883076,8.164934044296881e-18,False,sori nanya mulu ya min tapi kelas <topic> kapan buka lagi,intent:cv
+PB_B45,3763,U_3764,0.08773419260978699,0.0,-0.0,2.4410572786151077e-15,False,sori nanya mulu ya min tapi worth it ga sih ambil kelas <topic> buat <topic>,intent:career+mlops
+PB_B45,3997,U_3998,0.05305132269859314,0.0,-0.0,2.585887207668181e-09,False,terus min ada req apa buat masuk kelas <topic>,intent:statistics

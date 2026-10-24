@@ -1,0 +1,2 @@
+base_ndcg,candidate_ndcg,delta,actions,action_precision,fold_wins,block_wins,complementarity_ok,template_stress_ok,design_gate
+0.648493856607402,0.648493856607402,0.0,0,0.0,0,0,False,False,False

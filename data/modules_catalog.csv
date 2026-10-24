@@ -1,0 +1,18 @@
+module_id,module_name,description_and_syllabus,prerequisite_level
+M_001,Pengolahan data dengan Ms.Excel,"Fundamental pengolahan data tabular, pivot table, vlookup, hlookup, dan pembuatan chart dasar untuk pelaporan.",Pemula (Semua Skor 0-1)
+M_002,Python programming,"Sintaks dasar Python, struktur data (list, dictionary), perulangan, fungsi, hingga pengenalan library Pandas dan NumPy.",Pemula
+M_003,SQL,"Pengambilan data (SELECT), filtering, agregasi, JOIN antar tabel, hingga window function untuk manipulasi database relasional.",Pemula
+M_004,Web Scrapping,Teknik ekstraksi data otomatis dari website menggunakan library seperti BeautifulSoup dan Selenium untuk pengumpulan dataset eksternal.,Menengah (Butuh Python)
+M_005,Version Control,Pengelolaan kode kolaboratif menggunakan Git dan platform repository (seperti GitLab/GitHub). Esensial untuk bekerja dalam tim.,Menengah
+M_006,Statistik,"Pemahaman probabilitas, distribusi data, uji hipotesis, dan A/B testing sebagai landasan matematis untuk pengolahan data.",Menengah
+M_007,EDA (Exploratory Data Analysis),"Teknik data cleaning, penanganan missing values, dan visualisasi data menggunakan Matplotlib/Seaborn untuk menemukan insight.",Menengah (Butuh Python & Stat)
+M_008,Dashboard,Pembuatan visualisasi interaktif dan storytelling data menggunakan Business Intelligence tools (seperti Looker Studio atau Tableau).,Menengah (Butuh SQL/Excel)
+M_009,ML (Machine Learning),"Algoritma Supervised dan Unsupervised Learning (Regresi, Klasifikasi, Clustering), hyperparameter tuning, dan evaluasi metrik model.",Lanjutan (Butuh EDA & Stat)
+M_010,Computer Vision,"Pengolahan data citra digital, deteksi objek, dan klasifikasi gambar menggunakan Convolutional Neural Networks (CNN).",Lanjutan (Butuh ML/Deep Learning)
+M_011,Natural Language Processing,"Analisis sentimen, ekstraksi teks, dan pemrosesan bahasa alami menggunakan TF-IDF, Word2Vec, hingga arsitektur Transformer.",Lanjutan (Butuh ML)
+M_012,Generative AI,"Implementasi Large Language Models (LLM), arsitektur RAG (Retrieval-Augmented Generation), dan fine-tuning model bahasa.",Lanjutan (Butuh NLP)
+M_013,Prompt Engineering,"Teknik merancang, mengoptimalkan, dan menstrukturkan prompt agar LLM memberikan output yang akurat, aman, dan sesuai konteks bisnis.",Menengah
+M_014,AI Automation,"Integrasi alur kerja (workflow) otomatis menggunakan tools seperti n8n untuk menghubungkan platform data, AI, dan aplikasi pesan.",Menengah
+M_015,Pemanfaatan AI (No Code),Penggunaan tools AI generatif plug-and-play untuk meningkatkan produktivitas harian tanpa perlu menulis kode (zero coding).,Pemula
+M_016,MLOps,"Siklus hidup deployment model, monitoring, CI/CD, dan serving model menggunakan FastAPI agar siap digunakan di real case industri.","Ahli (Butuh ML, Python, Version Control)"
+M_017,Pengembangan karir & portofolio,"Strategi menyusun CV, membangun portofolio proyek data di GitHub/Vercel, simulasi interview, dan negosiasi penawaran kerja.",Semua Level

@@ -1,0 +1,5 @@
+row_local,user_id,promoted_module,demoted_module,latest_intent_signature,intent_destinations,promoted_is_catalog_prerequisite,promoted_readiness,promoted_readiness_band,v40_keep_membership
+268,U_4269,M_002,M_009,intent:mlops,M_016,True,1.0,0,True
+429,U_4430,M_007,M_006,intent:dashboard,M_008,False,3.3333332538604736,1,False
+437,U_4438,M_010,M_012,intent:business,,False,3.5,2,False
+664,U_4665,M_001,M_010,intent:dashboard,M_008,True,0.20000000298023224,0,True

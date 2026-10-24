@@ -1,0 +1,3 @@
+policy,gate,mean,worst,precision_worst,positive_worlds,actions_total
+SAFE,False,0.00016625065085773094,0.0,0.0,2,17
+ATTACK,False,5.291003575137018e-05,-9.193781015064233e-05,0.0,1,24

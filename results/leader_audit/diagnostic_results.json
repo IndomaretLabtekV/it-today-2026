@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-05",
+  "purpose": "Audit of historical conclusions; no new submission or champion promotion",
+  "runtime": {
+    "python": "/home/athilla/anaconda3/bin/python",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "sklearn": "1.7.2",
+    "threads": 2
+  },
+  "profile": {
+    "train_users": 4000,
+    "test_users": 1000,
+    "modules": 17,
+    "nonzero_label_fraction": 0.29398529411764707,
+    "no_chat_train": 117,
+    "no_chat_test": 33,
+    "out_of_scope_chat_users": 90,
+    "invalid_assessment_cells": 251,
+    "invalid_assessment_users": 73,
+    "invalid_nochat_train_users": 0,
+    "invalid_nochat_test_users": 2,
+    "prefix_group_count": 290,
+    "champion_file_sha256": "443785fb534df9820ce57bfe450a2768881625bf7ae37aa849dd0d9f2afc957d",
+    "champion_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+    "input_sha256": {
+      "chat_history.csv": "c87e93e43eb96870cc0d6b38dc7b865fbfef80de5a648890a8b5807846b9637f",
+      "modules_catalog.csv": "b1e5320f227647e2e5745294fa6a8ba8e631a1ef436387a07518c02fc29972e5",
+      "sample_submission.csv": "e2c99b721522ce334ccc4304be86795a1969d6fbc852f79501dbf689d8d7d277",
+      "test.csv": "2ac4f8427194442afe0cc8da31cb70a26c2908b44e86452a91de73ab97028b4c",
+      "train_relevance.csv": "bf66eed0ad7a6d356d528dad317a32e9a46172e46995a16316c23023790ccc90",
+      "user_assessments.csv": "458097315e216eed1696e1bac4c7bf6c6d9aabc836b3c829a823daa6ff587321"
+    }
+  },
+  "bagging": {
+    "original_v98_seed2424": {
+      "baseline_ndcg": 0.6251698211258734,
+      "candidate_ndcg": 0.641935643796417,
+      "delta": 0.016765822670543707,
+      "oob_evaluations_with_seen_prefix_group_fraction": 0.9734403953057443,
+      "zero_oob_users": 45,
+      "mean_oob_models_per_user": 3.64275,
+      "interpretation": "Reproduced; OOB versus grouped OOF compares different validation conditions"
+    },
+    "same_outer_fold_seed2424": {
+      "fold_fitted_vocabulary": false,
+      "baseline_ndcg": 0.6251698211258734,
+      "candidate_ndcg": 0.6226550297292918,
+      "delta": -0.002514791396581713,
+      "user_ci95": [-0.004146247200641046, -0.0008525638001397041],
+      "prefix_cluster_ci95": [-0.004760212482405051, -0.000560436669538974],
+      "fold_deltas": [-0.005412525440620496, -0.0028726170284025243, -0.00394949963601108, -0.0031834807865187055, -0.00023758814179101372],
+      "passes_historical_002_floor": false
+    },
+    "same_outer_fold_seed20260905": {
+      "fold_fitted_vocabulary": true,
+      "baseline_ndcg": 0.6235806426578753,
+      "candidate_ndcg": 0.6231647672428394,
+      "delta": -0.00041587541503585926,
+      "user_ci95": [-0.0022649626158886384, 0.0013631149912511002],
+      "prefix_cluster_ci95": [-0.002414385245361892, 0.0018686979916949767],
+      "fold_deltas": [-0.003392762413150709, -0.00019013209655703467, 0.0019315071232355694, 0.002977773908965806, -0.0013650256604874108],
+      "passes_historical_002_floor": false
+    }
+  },
+  "ranker_one_fold_diagnostic": {
+    "scope": "Original V125 feature preprocessing, grades, parameters, and first fold; only module identity differs",
+    "n_train": 2880,
+    "n_val": 1120,
+    "original_user_only": {
+      "nonconstant_user_fraction": 0.0,
+      "mean_within_user_prediction_std": 0.0,
+      "ndcg": 0.30613747802561203
+    },
+    "module_onehot": {
+      "nonconstant_user_fraction": 1.0,
+      "mean_within_user_prediction_std": 0.4070329693808596,
+      "ndcg": 0.4043881160468367
+    },
+    "interpretation": "Missing module identity explains the constant ranking; the repaired diagnostic is still weak and is not a promotion candidate"
+  },
+  "v124_utility_identity": {
+    "scope": "Word Ridge incumbent; not champion; no selector trained",
+    "baseline_ndcg": 0.6253649489633997,
+    "old_mean_utility": -0.3266107220079912,
+    "old_positive_action_fraction": 0.103,
+    "old_users_with_different_action_labels": 0,
+    "correct_mean_utility": -0.08397816967967334,
+    "correct_positive_action_fraction": 0.211,
+    "correct_users_with_different_action_labels": 3959,
+    "correct_best_single_swap_oracle_delta": 0.042879273275098134,
+    "verified_exact_score_swap_cases": 12000,
+    "interpretation": "The old labels do not describe the proposed swaps; oracle uses true labels and is not an attainable-performance estimate"
+  },
+  "v126_artifacts": {
+    "results/v126/submission_v126_primary.csv": {
+      "changed_rows": 20,
+      "top1_changes": 10,
+      "file_sha256": "dacacfb9bd8cb0695110590bf36a047c6605d12b12668ac899c37cd9e1633cc1",
+      "top5_sha256": "351f044c79ddb14377538c12341f6ebaff391ae716f41bb83007f42c1739b536"
+    },
+    "results/v126/results/submission_v126_primary.csv": {
+      "changed_rows": 24,
+      "top1_changes": 8,
+      "file_sha256": "cc6f71aa1f6982b06f900986cf8127e4231241dccbc6acd413ee0888517c1f31",
+      "top5_sha256": "4c47afece025b68d4eae0a8890418d2160e90d2bec1abf2517d550996207de5f"
+    },
+    "interpretation": "Root CSV matches smoke geometry; nested CSV matches full-build geometry. Public score is only user-reported in the existing report, not independently verified here."
+  }
+}

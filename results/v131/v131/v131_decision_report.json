@@ -1,0 +1,99 @@
+{
+  "version": "V131",
+  "status": "BORDERLINE",
+  "recommend_submit": false,
+  "correctness_ok": true,
+  "support_fail": false,
+  "protected_base_public_lb": 0.66173,
+  "protected_base_sha256": "28dd2121c72e910be8a01b31cd43d022c7fdf080d8e628bd8f30abc3a24bc93e",
+  "coverage": 0.005,
+  "rank_family": "rank2_only",
+  "primary_incremental_gain": 0.00017091690376400947,
+  "positive_random_folds": 3,
+  "fold_gains": [
+    0.0005707342643290758,
+    -8.037043269723654e-05,
+    0.0001466307952068746,
+    -2.4606764782220125e-05,
+    0.0002421966567635536
+  ],
+  "primary_ci_user": [
+    -2.0601319090928883e-05,
+    0.00039729889018926765
+  ],
+  "primary_ci_cluster": [
+    -2.1571962822035472e-05,
+    0.0003577326042507131
+  ],
+  "ablations": {
+    "no_bm25": {
+      "gain": 7.435069046914577e-05,
+      "fold_gains": [
+        2.1343627013266085e-05,
+        -0.00022408293327316642,
+        0.00012474986724555492,
+        0.00033667281502857804,
+        0.00011307007633149625
+      ]
+    },
+    "bm25_full": {
+      "gain": 0.00017790576489642263,
+      "fold_gains": [
+        0.0003856860660016537,
+        9.576107608154416e-05,
+        0.00040133194997906687,
+        -0.0001063203439116478,
+        0.00011307007633149625
+      ]
+    },
+    "bm25_temporal": {
+      "gain": 4.632090358063579e-05,
+      "fold_gains": [
+        0.00017575974576175213,
+        9.164849296212197e-05,
+        -9.512433782219886e-05,
+        0.00030124901561066507,
+        -0.0002419283986091614
+      ]
+    },
+    "with_lgb_fusion": {
+      "gain": 3.3247672487050294e-05,
+      "fold_gains": [
+        0.0003071819245815277,
+        0.00016662436071783305,
+        -9.494183119386435e-05,
+        -0.00022289294749498368,
+        1.026685582473874e-05
+      ]
+    }
+  },
+  "severe_stress": false,
+  "catastrophic_stress_threshold": -0.0005,
+  "test_new_actions": 5,
+  "test_total_v130_plus_v131_actions": 75,
+  "support_diagnostics": {
+    "marginal_module_support_ok": true,
+    "unsupported_numeric_rows": [],
+    "pred_utility_smd": -1.4138616620721047,
+    "key_feature_smd": {
+      "tfidf_word_full_diff": -0.3441378864663098,
+      "e5_diff": 0.9455634372928385,
+      "nomic_diff": 0.5188610617861659,
+      "bm25_uni_full_diff": -0.672095358158388
+    },
+    "oof_selected_utility_mean": 0.047167643904685974,
+    "test_selected_utility_mean": 0.032850977033376694,
+    "pair_tv_descriptive": 0.9000000000000002,
+    "unseen_pair_rate_descriptive": 0.8
+  },
+  "immutable_v130_actions": true,
+  "locked_noneligible_exact": true,
+  "top5_membership_unchanged": true,
+  "rank5_unchanged": true,
+  "tail_unchanged": true,
+  "score_multiset_preserved": true,
+  "rank2_only": true,
+  "candidate_sha256": "837a3441de888dc0cc0761028b9afb6028e8ddedd67bf9e3c3815b9e5118c1b4",
+  "primary_sha256": "28dd2121c72e910be8a01b31cd43d022c7fdf080d8e628bd8f30abc3a24bc93e",
+  "submission_instruction": "BORDERLINE: primary remains exact V130; candidate_v131_DIAGNOSTIC.csv is preserved for manual slot decision."
+}

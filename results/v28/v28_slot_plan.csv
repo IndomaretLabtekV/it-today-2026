@@ -1,0 +1,3 @@
+slot,file,role
+1,submission_v28_primary.csv,strict gated population candidate; exact 0.65919 anchor if rejected
+2,submission_v28_DIAGNOSTIC_frozen_hmc.csv,analysis only unless manual review independently approves the frozen candidate

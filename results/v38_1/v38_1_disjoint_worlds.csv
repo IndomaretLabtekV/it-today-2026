@@ -1,0 +1,4 @@
+world,n_train,n_val,val_uid_min,val_uid_max
+AA,3600,400,U_0002,U_3999
+AB,3600,400,U_0011,U_3984
+AC,3600,400,U_0001,U_3996

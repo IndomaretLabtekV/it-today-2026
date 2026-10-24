@@ -1,0 +1,14 @@
+{
+  "tag": "chronology_U3001_U4000",
+  "model": "indobenchmark/indobert-base-p2",
+  "train_users": 3000,
+  "texts": 4601,
+  "steps": 144,
+  "mean_loss": 4.960901709066497,
+  "final50_loss": 3.28056254863739,
+  "uses_relevance_labels": false,
+  "uses_validation_chat": false,
+  "uses_test_chat": false,
+  "fold_pure": true,
+  "seed": 844252701
+}

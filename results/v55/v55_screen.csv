@@ -1,0 +1,7 @@
+view,oof,delta,ci_lo,ci_hi
+chat word-only,0.62247,0.0053,0.00296,0.00778
+chat word+bigram,0.61716,0.0,0.0,0.0
+content cosine (train-free),0.47448,-0.14268,-0.14983,-0.13595
+assessment + content,0.43918,-0.17798,-0.18511,-0.17091
+assessment decoded,0.42175,-0.19542,-0.20294,-0.18839
+popularity,0.39713,-0.22003,-0.22731,-0.21286

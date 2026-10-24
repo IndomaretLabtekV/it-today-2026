@@ -1,0 +1,14 @@
+{
+  "n_users": 5000,
+  "n_cells": 50000,
+  "string_cells": 748,
+  "rows_with_string_cells": 246,
+  "indonesian_word_cells": 383,
+  "numeric_string_cells": 365,
+  "invalid_out_of_range_cells": 251,
+  "rows_with_invalid_cells": 73,
+  "rows_with_zero_observed_non5_cells": 149,
+  "rows_with_one_observed_non5_cell": 1,
+  "expert_latent_candidate_count": 150,
+  "expert_candidate_note": "149 rows have every observed valid answer=5; exactly one additional row U_4876 has 9 observed-valid cells with only one non-5 plus one 99 sentinel, making a 150-user/3% expert override highly plausible."
+}

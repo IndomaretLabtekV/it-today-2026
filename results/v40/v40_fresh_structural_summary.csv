@@ -1,0 +1,4 @@
+world,all_cutoff_membership_actions,rule_selected_actions,rule_mean_delta,rule_beneficial_actions,rule_harmful_actions,rule_zero_actions,rule_precision_nonzero
+G,57,5,-0.10178197315920472,0,4,1,0.0
+H,57,9,0.006108178157633747,3,1,5,0.75
+I,47,3,-0.02244439380623553,0,1,2,0.0

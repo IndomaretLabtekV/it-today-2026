@@ -1,0 +1,14 @@
+{
+  "tag": "fresh_X",
+  "model": "indobenchmark/indobert-base-p2",
+  "train_users": 3200,
+  "texts": 4822,
+  "steps": 151,
+  "mean_loss": 4.969567144153923,
+  "final50_loss": 3.269654974937439,
+  "uses_relevance_labels": false,
+  "uses_validation_chat": false,
+  "uses_test_chat": false,
+  "fold_pure": true,
+  "seed": 443964131
+}

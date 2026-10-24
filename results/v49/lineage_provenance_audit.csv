@@ -1,0 +1,25 @@
+versions,status,reason
+v1-v2,eligible paired experts,Executed cross-fitted OOF and matching test matrices exist.
+v3,not executed,Cross-encoder training ended with an FP16 gradient-unscale error.
+v3_1-v8,eligible subset,Direct full OOF/test pairs exist; V7 mapping is omitted and V8 carries a public-transfer warning.
+v9-v10_1,excluded,Candidate test arrays are absent or mapping from saved OOF key to CSV is ambiguous.
+v11,excluded,Candidate OOF counterpart is absent; stored anchor is redundant.
+v12-v12_2,eligible subset,Direct paired calibration surfaces exist.
+v13,eligible,Strict router OOF and matching test surface exist.
+v13_1,invalid for stacking,Second-level dependencies were not fully nested.
+v14,eligible,Fully nested OOF and matching pairwise test surface exist.
+v15,excluded duplicate,Policy selected zero actions and test surfaces collapse to Consensus3.
+v16-v17,eligible subset,Full cross-fitted structural and semantic calibration pairs exist.
+v18-v19,excluded candidate surfaces,Selected OOF attacks have no explicit matching full test matrices in their NPZ files.
+v20-v22,excluded partial validation,"Candidate predictions cover DEV, CAL, or LOCK subsets rather than one full honest OOF/test pair."
+v23-v26,diagnostic or action-only,No honest full train analogue exists for public-adapted action packages.
+v27-v29_5,excluded,No saved full paired OOF/test prediction matrices for the deployed policies.
+v30,mandatory anchor proxy,V33 stores full V30 OOF and V32 stores the matching V30 test surface.
+v31-v32,excluded as experts,V31 and objective-diverse candidates have test surfaces but no matching full OOF matrix.
+v33-v34,diagnostic,V33 supplies V30 provenance; retrieval and BGE policy outputs are incomplete or zero-action.
+v35,invalid for efficacy,Initial TAPT crossed held-out text boundaries.
+v35_1-v40,excluded,Corrected branches failed gates or saved only partial/action surfaces.
+v41,invalid for efficacy,Nonnested stack reversed on untouched LOCK.
+v41_1-v45,excluded,Fail-close or action-only outputs lack honest full paired train predictions.
+v46-v47,not executed,Embedding failures prevented the scientific experiments.
+v48,anchor only,Semantic preflight failed before ensemble evaluation; LOCK remained unopened.

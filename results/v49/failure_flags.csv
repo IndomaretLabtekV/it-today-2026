@@ -1,0 +1,9 @@
+scope,passed,reasons
+anchor_hash,True,
+core_artifacts,True,
+validation_inventory,True,
+development_gate,False,nested_delta_floor
+lock_opening_contract,True,
+lock_gate,False,development_gate_failed
+final_gate,False,lock_gate_failed
+fail_close_exactness,True,

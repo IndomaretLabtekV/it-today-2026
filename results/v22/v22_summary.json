@@ -1,0 +1,121 @@
+{
+  "public_consensus3_lb": 0.65856,
+  "public_v21_1_lb": 0.65869,
+  "public_leader_lb": 0.66082,
+  "candidate_specs": {
+    "m014035": {
+      "modules": [
+        "M_014"
+      ],
+      "alpha": 0.035
+    },
+    "m003_m014035": {
+      "modules": [
+        "M_003",
+        "M_014"
+      ],
+      "alpha": 0.035
+    },
+    "m003_m014050": {
+      "modules": [
+        "M_003",
+        "M_014"
+      ],
+      "alpha": 0.05
+    }
+  },
+  "diagnostics": [
+    {
+      "candidate": "m014035",
+      "modules": "M_014",
+      "alpha": 0.035,
+      "cal_delta": 5.10977127515464e-05,
+      "cal_fold_wins": 2,
+      "cal_fold_std": 9.370720590321183e-05,
+      "cal_fold_deltas": [
+        0.0,
+        0.0001935977009189216,
+        -5.796646978934072e-05,
+        6.875961987660473e-05
+      ],
+      "cal_ci_low": -0.00011133863308486925,
+      "cal_ci_high": 0.00024316072872202133,
+      "lock_delta": -0.0003118334020166385,
+      "lock_ci_low": -0.0008193374450316036,
+      "lock_ci_high": 6.213424452755079e-06,
+      "cal_top1_reverted": 0,
+      "lock_top1_reverted": 0,
+      "test_top5_set_change": 0.004,
+      "test_order_change": 0.007,
+      "test_top1_change": 0.0,
+      "test_top1_reverted": 1,
+      "stability_score": -0.00034463092408276263,
+      "gate": false
+    },
+    {
+      "candidate": "m003_m014035",
+      "modules": "M_003+M_014",
+      "alpha": 0.035,
+      "cal_delta": -1.945326322859864e-05,
+      "cal_fold_wins": 2,
+      "cal_fold_std": 0.00029875094321148155,
+      "cal_fold_deltas": [
+        0.00035741827532869585,
+        0.00014814143554942217,
+        -0.00015264210325286197,
+        -0.0004307306605396506
+      ],
+      "cal_ci_low": -0.00040987528006108487,
+      "cal_ci_high": 0.0003458756977791386,
+      "lock_delta": -0.000544235120949973,
+      "lock_ci_low": -0.0014154693487585426,
+      "lock_ci_high": 0.00025838035354237376,
+      "cal_top1_reverted": 0,
+      "lock_top1_reverted": 0,
+      "test_top5_set_change": 0.008,
+      "test_order_change": 0.027,
+      "test_top1_change": 0.0,
+      "test_top1_reverted": 0,
+      "stability_score": -0.0006487979510739916,
+      "gate": false
+    },
+    {
+      "candidate": "m003_m014050",
+      "modules": "M_003+M_014",
+      "alpha": 0.05,
+      "cal_delta": 9.475215140138637e-05,
+      "cal_fold_wins": 2,
+      "cal_fold_std": 0.0006293967360014028,
+      "cal_fold_deltas": [
+        0.0008351882407569664,
+        0.0005943507804145219,
+        -0.0006197997550262921,
+        -0.0004307306605396506
+      ],
+      "cal_ci_low": -0.0004567660260039933,
+      "cal_ci_high": 0.0006573781703614403,
+      "lock_delta": -0.00023131763553768772,
+      "lock_ci_low": -0.0011998897054218782,
+      "lock_ci_high": 0.0006484837839753715,
+      "cal_top1_reverted": 0,
+      "lock_top1_reverted": 0,
+      "test_top5_set_change": 0.014,
+      "test_order_change": 0.039,
+      "test_top1_change": 0.0,
+      "test_top1_reverted": 0,
+      "stability_score": -0.0004516064931381787,
+      "gate": false
+    }
+  ],
+  "primary_label": "v21_1_reference_fallback",
+  "paths": {
+    "attack1": "/kaggle/working/submission_v22_attack1_m014035.csv",
+    "attack2": "/kaggle/working/submission_v22_attack2_m003_m014035.csv",
+    "attack3": "/kaggle/working/submission_v22_attack3_m003_m014050.csv",
+    "primary": "/kaggle/working/submission_v22_primary.csv",
+    "v21_1_reference": "/kaggle/working/submission_v22_v21_1_reference.csv",
+    "consensus3": "/kaggle/working/submission_v22_consensus3_reference.csv"
+  },
+  "validation_axis": "full Consensus3 OOF transport; exact same equation as test deployment",
+  "top1_policy": "hard row revert to Consensus3 whenever candidate would change Top-1"
+}

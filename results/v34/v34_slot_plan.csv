@@ -1,0 +1,5 @@
+file,role,eligible_to_submit,note
+submission_v34_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,Frozen None policy if all gates pass; otherwise exact V30.
+submission_v34_DIAGNOSTIC_safe_head12.csv,DIAGNOSTIC_ONLY,False,Never promote based on test geometry alone.
+submission_v34_DIAGNOSTIC_attack_head12.csv,DIAGNOSTIC_ONLY,False,Leader-scale attack surface only if preregistered ATTACK gate won.
+submission_v34_anchor_v30_reconstructed.csv,ANCHOR_REFERENCE,False,Exact public V30 reference.

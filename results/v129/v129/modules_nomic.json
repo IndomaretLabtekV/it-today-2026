@@ -1,0 +1,10 @@
+{
+  "key": "bffddfe77b3ea92f0869af2d25141144ce778a9bfc0fea20c4a84fc94fbc0af9",
+  "model": "nomic-ai/nomic-embed-text-v2-moe",
+  "resolved": "nomic-ai/nomic-embed-text-v2-moe",
+  "prefix": "search_document: ",
+  "shape": [
+    17,
+    768
+  ]
+}

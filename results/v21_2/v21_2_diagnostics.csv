@@ -1,0 +1,3 @@
+candidate,selected,cal_delta,cal_fold_wins,cal_fold_std,cal_stability_score,cal_seen_delta,cal_novel_delta,cal_set_change,cal_order_change,cal_top1_change,lock_delta,lock_ci_low,lock_ci_high,lock_seen_delta,lock_novel_delta,test_top5_set_change,test_order_change,test_top1_change,promoted
+rank_safe,False,-0.0003230839343543179,2,0.00044488038406416115,-0.0005455241263863984,-0.0008497938923148762,-0.0001421249406765579,0.0,0.0975,0.015,,,,,,0.0,0.13,0.019,False
+rank_boundary,True,0.0003605915538643645,2,0.0016705863174760554,-0.0004747016048736632,0.0006692721751098141,0.00026603909613087673,0.095,0.18125,0.015,,,,,,0.052,0.175,0.019,False

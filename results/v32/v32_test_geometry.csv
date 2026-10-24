@@ -1,0 +1,6 @@
+candidate,top5_order_changed_users,top5_order_change_rate,top5_membership_change_rate,top1_change_rate
+v31_intentstate,60,0.06,0.012,0.005
+yeti_residual,80,0.08,0.013,0.009
+xe_residual,84,0.084,0.017,0.007
+objective_median,49,0.049,0.008,0.005
+unanimous_top6,41,0.041,0.007,0.004

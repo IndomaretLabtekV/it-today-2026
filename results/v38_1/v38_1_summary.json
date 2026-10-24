@@ -1,0 +1,147 @@
+{
+  "version": "V38.1 Hybrid34-Locked Curriculum XLM-R Semantic Membership & Pairwise Judge",
+  "model": "FacebookAI/xlm-roberta-base",
+  "public_anchor": 0.66006,
+  "leader": 0.66142,
+  "leader_gap": 0.0013600000000000279,
+  "contract": {
+    "stage_a": "17-module relevance BCE + score regression",
+    "stage_b": "hard non-tie pair curriculum, upper 6 layers",
+    "stage_c": "frozen semantic grouped Logistic/Ridge residual calibration",
+    "state": "S0 only",
+    "positions": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "rank1_locked": true,
+    "semantic_seeds": [
+      271,
+      829
+    ],
+    "tapt": false,
+    "xe_used": false,
+    "large_model": false
+  },
+  "development_winner": null,
+  "development_gate": false,
+  "sealed_gate": false,
+  "test_geometry_auc": NaN,
+  "geometry_gate": false,
+  "final_gate": false,
+  "development": [
+    {
+      "world": "AA",
+      "policy": "SAFE",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0
+    },
+    {
+      "world": "AA",
+      "policy": "MEMBERSHIP",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0
+    },
+    {
+      "world": "AA",
+      "policy": "ATTACK",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0
+    },
+    {
+      "world": "AB",
+      "policy": "SAFE",
+      "increment_vs_hybrid34": 0.0002480840351684399,
+      "ci_low": 2.6308266404753976e-05,
+      "ci_high": 0.0005779273721643407,
+      "actions": 9,
+      "benefit": 5,
+      "harm": 2,
+      "tie": 2,
+      "precision": 0.7142857142857143
+    },
+    {
+      "world": "AB",
+      "policy": "MEMBERSHIP",
+      "increment_vs_hybrid34": -0.00034002184531908223,
+      "ci_low": -0.0018400257909541773,
+      "ci_high": 0.0009941082955424582,
+      "actions": 7,
+      "benefit": 2,
+      "harm": 3,
+      "tie": 2,
+      "precision": 0.4
+    },
+    {
+      "world": "AB",
+      "policy": "ATTACK",
+      "increment_vs_hybrid34": -9.193781015064233e-05,
+      "ci_low": -0.001531313789035337,
+      "ci_high": 0.0013323892356288064,
+      "actions": 16,
+      "benefit": 7,
+      "harm": 5,
+      "tie": 4,
+      "precision": 0.5833333333333334
+    },
+    {
+      "world": "AC",
+      "policy": "SAFE",
+      "increment_vs_hybrid34": 0.00025066791740475285,
+      "ci_low": -0.00017123289928349964,
+      "ci_high": 0.0007256221645811164,
+      "actions": 8,
+      "benefit": 5,
+      "harm": 2,
+      "tie": 1,
+      "precision": 0.7142857142857143
+    },
+    {
+      "world": "AC",
+      "policy": "MEMBERSHIP",
+      "increment_vs_hybrid34": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "actions": 0,
+      "benefit": 0,
+      "harm": 0,
+      "tie": 0,
+      "precision": 0.0
+    },
+    {
+      "world": "AC",
+      "policy": "ATTACK",
+      "increment_vs_hybrid34": 0.00025066791740475285,
+      "ci_low": -0.00017502267341217402,
+      "ci_high": 0.0007457268039738887,
+      "actions": 8,
+      "benefit": 5,
+      "harm": 2,
+      "tie": 1,
+      "precision": 0.7142857142857143
+    }
+  ],
+  "sealed": [],
+  "primary_sha256": "c240d036ad4042cb1cee95bdc42a908f4e1a6046f3d00a2a1ac24cc3c7cf1273",
+  "anchor_sha256": "c240d036ad4042cb1cee95bdc42a908f4e1a6046f3d00a2a1ac24cc3c7cf1273",
+  "submission_instruction": "NO NEW SUBMISSION. Primary is exact Hybrid34 0.66006; preserve the Kaggle slot."
+}

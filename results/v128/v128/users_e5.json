@@ -1,0 +1,10 @@
+{
+  "key": "c22229a2e5540dbb446bae39a06a901cb111412620647976299d35b112661b77",
+  "model": "intfloat/multilingual-e5-base",
+  "resolved": "intfloat/multilingual-e5-base",
+  "prefix": "query: ",
+  "shape": [
+    5000,
+    768
+  ]
+}

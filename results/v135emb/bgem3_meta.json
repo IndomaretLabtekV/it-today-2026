@@ -1,0 +1,10 @@
+{
+ "model": "BAAI/bge-m3",
+ "rev": "5617a9f61b02",
+ "qpre": "",
+ "dpre": "",
+ "pool": "cls",
+ "dtype": "fp16-infer/fp32-store",
+ "torch": "2.14.0+cu130",
+ "encode_sec": 42.6
+}

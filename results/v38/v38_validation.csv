@@ -1,0 +1,7 @@
+world,policy,increment_vs_hybrid34,ci_low,ci_high,actions,benefit,harm,tie,precision,eligible_pairs
+K,SAFE,0.0,0.0,0.0,0,0,0,0,0.0,1372
+K,ATTACK,0.0,0.0,0.0,0,0,0,0,0.0,1372
+L,SAFE,0.0,0.0,0.0,0,0,0,0,0.0,1304
+L,ATTACK,0.0,0.0,0.0,0,0,0,0,0.0,1304
+M,SAFE,0.0,0.0,0.0,0,0,0,0,0.0,1332
+M,ATTACK,0.0,0.0,0.0,0,0,0,0,0.0,1332

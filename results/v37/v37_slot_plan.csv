@@ -1,0 +1,5 @@
+file,role,eligible_to_submit,note
+submission_v37_primary.csv,PRIMARY_ONLY_IF_ALL_GATES_PASS,False,None if every gate passes; otherwise exact Hybrid34 0.66006 fail-close.
+submission_v37_DIAGNOSTIC_attack.csv,DIAGNOSTIC_ONLY,False,7.5% S0 crossing expected-utility attack. Never bypass the H/I/J + sealed gate.
+submission_v37_DIAGNOSTIC_safe.csv,DIAGNOSTIC_ONLY,False,3% S0 crossing expected-utility safe path.
+submission_v37_anchor_hybrid34_reconstructed.csv,CURRENT_PUBLIC_ANCHOR_REFERENCE,False,Exact deterministic public 0.66006 Hybrid34.

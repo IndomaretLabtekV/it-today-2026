@@ -1,0 +1,2 @@
+reproduction_ok,development_gate,fresh_selected_actions,fresh_mean_delta,fresh_harmful_actions,sealed_gate,sealed_selected_actions,sealed_mean_delta,sealed_harmful_actions,test_rule_selected_membership,final_gate
+True,False,17,-0.030662908458589794,6,False,0,,0,2,False

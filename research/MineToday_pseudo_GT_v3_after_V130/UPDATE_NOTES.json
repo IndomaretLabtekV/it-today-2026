@@ -1,0 +1,54 @@
+{
+  "version": "pseudo-GT-v3",
+  "observed_public_scores": {
+    "V129_base": 0.66075,
+    "V130_DIAGNOSTIC_user_reported": 0.66173,
+    "delta": 0.000980000000000092,
+    "delta_vs_V130_offline_primary_incremental_gain_ratio": 2.485463744026973
+  },
+  "V130_offline": {
+    "primary_incremental_gain": 0.00039429261535406113,
+    "positive_random_folds": 4,
+    "primary_ci_user": [
+      -4.447170021012424e-06,
+      0.0008654502301244064
+    ],
+    "primary_ci_cluster": [
+      -1.825775414347891e-05,
+      0.0008443052865080791
+    ],
+    "test_new_actions": 20
+  },
+  "V130_selected_action_structure": {
+    "total": 20,
+    "candidate_rank_2": 16,
+    "candidate_rank_3": 1,
+    "candidate_rank_4": 3
+  },
+  "v2_correction": {
+    "top1_differences_v2_vs_exact_V129_base": 8,
+    "top1_differences_v2_vs_V130_candidate": 28,
+    "note": "v3 uses the exact submitted V130 diagnostic ordering instead of a synthetic merge."
+  },
+  "target_geometry": {
+    "rank_means": {
+      "1": 1.0,
+      "2": 0.8491974999999999,
+      "3": 0.700015,
+      "4": 0.5490725,
+      "5": 0.39990523123578464,
+      "6": 0.25039911308203994
+    },
+    "p_k_ge_5": 0.6595,
+    "p_k_ge_6": 0.33825,
+    "posterior_rank_values": [
+      1.0,
+      0.8491974999999999,
+      0.700015,
+      0.5490725,
+      0.26373749999999996,
+      0.08469750000000001
+    ]
+  },
+  "important_limit": "The +0.00098 leaderboard uplift validates the 20-action V130 package in aggregate. It does not prove every one of the 20 individual promotions is correct."
+}

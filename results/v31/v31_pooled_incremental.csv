@@ -1,0 +1,2 @@
+candidate,salt_G_increment,salt_H_increment,salt_I_increment,positive_salts,worst_salt_increment,mean_salt_increment,fold_wins_total,pooled_user_increment,pooled_ci_low,pooled_ci_high
+v31_intentstate,0.0002554704390900273,3.1128352187214475e-05,0.0001712617871999045,3,3.1128352187214475e-05,0.0001526201928257154,11,0.00015262019282571542,-0.00014406808348748802,0.00045980267231337987

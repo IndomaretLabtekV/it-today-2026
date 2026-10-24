@@ -1,0 +1,3 @@
+policy,representation_gate,development_gate
+SAFE,False,False
+ATTACK,False,False

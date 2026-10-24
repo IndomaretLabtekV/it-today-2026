@@ -1,0 +1,21 @@
+{
+  "version": "V42.1 Champion-Anchored Support-Shrunk Generator-Exclusive Head Ranker",
+  "public_anchor": 0.66028,
+  "leader_reference": 0.66142,
+  "leader_gap": 0.0011400000000000299,
+  "design_gate": false,
+  "lock_evaluated": false,
+  "lock_gate": false,
+  "test_geometry_gate": true,
+  "final_gate": false,
+  "design_delta": 6.89800090726278e-05,
+  "design_fold_wins": 3,
+  "design_block_wins": 4,
+  "cold_template_delta": 0.0,
+  "test_changed_users": 0,
+  "test_top1_changes": 0,
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "candidate_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "primary_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "submission_instruction": "NO NEW V42.1 SUBMISSION: primary is exact 0.66028 fail-close anchor."
+}

@@ -1,0 +1,6 @@
+expert,family,version,train_surface,test_surface,participation_weight,outer_fold_selection_count,deployed_in_primary
+anchor_prior,champion_anchor,v30_oof__v48_test,v30_train_oof,results/v48/v48/submission_v48_anchor_066028_reference.csv,0.3333333333333333,5,False
+v1_final_blend,early_hybrid,v1,results/v1/minetoday_cache/oof_final_blend.npy,results/v1/submission_ultimate_baseline.csv,0.16666666666666666,5,False
+v5_primary,generator_yetirank,v5,results/v5/v5_oof_artifacts.npz,results/v5/v5_oof_artifacts.npz,0.16666666666666666,3,False
+v2_supervised_multimodal,supervised_multimodal,v2,results/v2/minetoday_v2_cache/v2_20260819_r4_peft_fix_final_oof.npy,results/v2/minetoday_v2_cache/v2_20260819_r4_peft_fix_final_test.npy,0.16666666666666666,3,False
+v4_lambdarank,structured_lambdarank,v4,results/v4/v4_oof_artifacts.npz,results/v4/v4_oof_artifacts.npz,0.16666666666666666,2,False

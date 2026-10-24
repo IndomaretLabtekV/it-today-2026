@@ -1,0 +1,3 @@
+candidate,selected,alpha,trusted_module_count,cal_delta,cal_fold_wins,cal_seen_delta,cal_novel_delta,lock_delta,lock_ci_low,lock_ci_high,lock_seen_delta,lock_novel_delta,test_top5_set_change,test_order_change,test_top1_change,promoted
+stable035,False,0.035,4,0.00043878046745327026,3,0.0006386581988947482,0.00038894750740559036,,,,,,0.009,0.032,0.001,False
+stable050,True,0.05,4,0.0007170416845091454,2,0.0010174558685384083,0.0006465246226668997,-0.0005313260439372414,-0.0013092575380693487,6.926555748845293e-05,-0.0012469846756508751,-0.00025872854614239493,0.015,0.049,0.002,False

@@ -1,0 +1,939 @@
+template_group,n,delta,positive
+no_chat,117,0.000853224163855442,True
+selamat siang admin mohon informasinya mengenai jadwal kelas <topic> beserta persyaratan pesertanya terima kasih,71,0.0,False
+siang min saya tiap hari pusing kerjaan manual ada ga sih kelas ai atau <topic> terkait <topic> yang gampang dipake gausah yg koding-koding puyeng yg penting kerjaan saya bisa <topic> aja pake ai,68,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> <topic> ada rekomendasi,61,0.0004802341989317974,True
+min tolongin dong minggu depan aku ada <topic> disuruh paham <topic> tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,57,0.0,False
+min urgent butuh kuasain <topic> secepatnya buat kerjaan ada kelas intensif ga,54,0.0004107716603471361,True
+min nanya dong kelas <topic> kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,51,0.0,False
+btw kelas yg cover <topic> ada ga min gw butuh buat production case di kantor,43,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar <topic>,37,0.0,False
+kak spill dong kelas <topic> yg paling worth it budget terbatas nih hehe,32,0.0,False
+eh ngomong-ngomong website lms-nya lagi down kah saya ga bisa login dari tadi,29,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada blajar <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,28,0.0,False
+kak mau nanya kalo blajar <topic> langsung dari nol worth it ga buat <topic> kedepannya,25,0.0,False
+kak spill dong kelas <topic> yang paling worth it budget terbatas nih hehe,18,0.010179070524882502,True
+oiya lanjut buat <topic> itu susah ga sih buat pemula kayak aku,18,0.0,False
+habis itu aku mikir lagi worth it ga sih ambil kelas <topic> buat <topic>,17,0.0,False
+halo admin saya mau reset password akun tapi email verifikasi ga masuk-masuk,17,0.0,False
+min maaf nanya saya udah nyoba belajar <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,15,0.0,False
+ok makasih infonya min ngomong-ngomong aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,15,0.0,False
+sori nanya mulu ya min tapi mohon informasinya mengenai jadwal kelas <topic>,15,0.0,False
+eh satu lagi deh min aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,14,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalau mau belajar <topic> aku harus mulai dari kelas apa ya,14,0.0,False
+oh gitu ya paham kalo boleh nanya lagi aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,14,0.0,False
+oiya lanjut aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,14,0.0,False
+website lms-nya lagi down kah saya ga bisa login dari tadi,14,-0.0006340410856103421,False
+eh satu lagi deh min kelas <topic> ada diskon ga kak budget lagi cekak nih,13,0.0,False
+eh satu lagi deh min kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,13,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada belajar <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,13,0.0,False
+min invoice buat reimbursement kantor saya bisa diterbitkan ga ya,13,0.0,False
+nah kalo udah itu aku jadi penasaran juga kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,13,0.0,False
+terus min ada req apa buat masuk kelas <topic>,13,0.0,False
+btw sekalian mau tanya juga kelas <topic> kapan buka lagi,12,0.0,False
+eh iya lanjut nanya lagi ya min aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,12,0.0,False
+eh iya lanjut nanya lagi ya min solusi <topic> buat <topic> pake ai ada ga ya,12,0.0,False
+eh satu lagi deh min apakah ada kelas yang membahas <topic> secara mendalam,12,0.0,False
+eh satu lagi deh min kelas <topic> kapan buka lagi,12,0.0,False
+eh satu lagi deh min kelas yg cover <topic> ada silabus lengkapnya ga,12,0.0,False
+habis itu aku mikir lagi kelas <topic> ada diskon ga kak budget lagi cekak nih,12,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,12,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat blajar <topic>,12,0.0,False
+oh gitu ya paham kalo boleh nanya lagi buat <topic> itu susah ga sih buat pemula kayak aku,12,0.0,False
+ok makasih infonya min ngomong-ngomong worth it ga sih ambil kelas <topic> buat <topic>,12,0.005570756052805284,True
+sori nanya mulu ya min tapi kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,12,0.0,False
+terus min buat <topic> itu susah ga sih buat pemula kayak aku,12,0.0,False
+btw sekalian mau tanya juga buat <topic> itu susah ga sih buat pemula kayak aku,11,0.0,False
+btw sekalian mau tanya juga kelas <topic> itu berapa lama durasinya,11,-0.003779108491519573,False
+btw sekalian mau tanya juga kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,11,0.0,False
+eh iya lanjut nanya lagi ya min worth it ga sih ambil kelas <topic> buat <topic>,11,0.0,False
+eh satu lagi deh min apa saja prasyarat untuk mengikuti kelas <topic>,11,0.0,False
+min kok sertifikat kelulusan saya bulan lalu belum masuk ke email ya,11,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,11,0.0,False
+ok makasih infonya min ngomong-ngomong apakah kelas <topic> tersedia dalam format online,11,0.0,False
+ok makasih infonya min ngomong-ngomong buat <topic> itu susah ga sih buat pemula kayak aku,11,0.0,False
+sori nanya mulu ya min tapi aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,11,0.0,False
+sori nanya mulu ya min tapi kelas yg cover <topic> ada silabus lengkapnya ga,11,0.0,False
+btw kelas yg cover <topic> buat laporan ke atasan ada ga min gw butuh buat production case di kantor,10,0.0,False
+btw sekalian mau tanya juga ada req apa buat masuk kelas <topic>,10,0.0,False
+eh iya lanjut nanya lagi ya min ada req apa buat masuk kelas <topic>,10,0.0027464575983406903,True
+eh iya lanjut nanya lagi ya min apakah ada kelas yang membahas <topic> secara mendalam,10,0.0,False
+eh iya lanjut nanya lagi ya min kelas yg cover <topic> ada silabus lengkapnya ga,10,0.0,False
+eh satu lagi deh min kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,10,0.0,False
+habis itu aku mikir lagi ada req apa buat masuk kelas <topic>,10,0.0,False
+habis itu aku mikir lagi kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,10,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada kelas ai yang gampang buat <topic> <topic>,10,0.0,False
+nah kalo udah itu aku jadi penasaran juga apa saja prasyarat untuk mengikuti kelas <topic>,10,0.0,False
+oh gitu ya paham kalo boleh nanya lagi apa saja prasyarat untuk mengikuti kelas <topic>,10,0.0,False
+oh gitu ya paham kalo boleh nanya lagi butuh kuasain <topic> secepatnya ada kelas intensif ga,10,0.0,False
+oh gitu ya paham kalo boleh nanya lagi solusi <topic> buat <topic> pake ai ada ga ya,10,0.0,False
+oiya lanjut ada req apa buat masuk kelas <topic>,10,0.0,False
+ok makasih infonya min ngomong-ngomong apa saja prasyarat untuk mengikuti kelas <topic>,10,0.0,False
+ok makasih infonya min ngomong-ngomong apakah ada kelas yang membahas <topic> secara mendalam,10,0.0,False
+ok makasih infonya min ngomong-ngomong kelas <topic> ada diskon ga kak budget lagi cekak nih,10,0.0,False
+sori nanya mulu ya min tapi apakah ada kelas yang membahas <topic> secara mendalam,10,0.0,False
+sori nanya mulu ya min tapi buat <topic> itu susah ga sih buat pemula kayak aku,10,0.0,False
+sori nanya mulu ya min tapi kalau mau belajar <topic> aku harus mulai dari kelas apa ya,10,0.0,False
+sori nanya mulu ya min tapi kelas <topic> kapan buka lagi,10,0.0,False
+sori nanya mulu ya min tapi worth it ga sih ambil kelas <topic> buat <topic>,10,0.0,False
+btw sekalian mau tanya juga apa saja prasyarat untuk mengikuti kelas <topic>,9,0.0,False
+btw sekalian mau tanya juga solusi <topic> buat <topic> pake ai ada ga ya,9,0.0,False
+eh iya lanjut nanya lagi ya min kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,9,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> itu berapa lama durasinya,9,0.0,False
+eh iya lanjut nanya lagi ya min kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,9,0.0,False
+eh satu lagi deh min apakah kelas <topic> tersedia dalam format online,9,0.0,False
+eh satu lagi deh min buat <topic> itu susah ga sih buat pemula kayak aku,9,0.0,False
+eh satu lagi deh min kalau mau belajar <topic> aku harus mulai dari kelas apa ya,9,0.0,False
+eh satu lagi deh min worth it ga sih ambil kelas <topic> buat <topic>,9,0.0,False
+habis itu aku mikir lagi kelas <topic> kapan buka lagi,9,0.0,False
+kak mau nanya kalo belajar <topic> langsung dari nol worth it ga buat <topic> kedepannya,9,0.0,False
+nah kalo udah itu aku jadi penasaran juga aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,9,0.0,False
+nah kalo udah itu aku jadi penasaran juga apakah kelas <topic> tersedia dalam format online,9,0.0,False
+nah kalo udah itu aku jadi penasaran juga butuh kuasain <topic> secepatnya ada kelas intensif ga,9,0.0037027412886284144,True
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar <topic> bisa <topic> pake ai tanpa ribet,9,0.0,False
+oh gitu ya paham kalo boleh nanya lagi mohon informasinya mengenai jadwal kelas <topic>,9,0.0,False
+oiya lanjut kelas <topic> ada diskon ga kak budget lagi cekak nih,9,0.0,False
+oiya lanjut kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,9,0.0,False
+ok makasih infonya min ngomong-ngomong ada req apa buat masuk kelas <topic>,9,0.0,False
+ok makasih infonya min ngomong-ngomong kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,9,0.0,False
+ok makasih infonya min ngomong-ngomong mohon informasinya mengenai jadwal kelas <topic>,9,0.0,False
+sori nanya mulu ya min tapi solusi <topic> buat <topic> pake ai ada ga ya,9,0.0,False
+terus min aku pengen kuasain <topic> juga ada rekomendasi kelasnya ga,9,0.0,False
+terus min apakah ada kelas yang membahas <topic> secara mendalam,9,0.0,False
+btw sekalian mau tanya juga butuh kuasain <topic> secepatnya ada kelas intensif ga,8,0.0,False
+btw sekalian mau tanya juga gimana caranya biar <topic> bisa <topic> pake ai tanpa ribet,8,0.0,False
+btw sekalian mau tanya juga kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,8,0.0,False
+btw sekalian mau tanya juga kelas <topic> ada diskon ga kak budget lagi cekak nih,8,0.0,False
+btw sekalian mau tanya juga worth it ga sih ambil kelas <topic> buat <topic>,8,0.0,False
+eh iya lanjut nanya lagi ya min butuh kuasain <topic> secepatnya ada kelas intensif ga,8,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> ada diskon ga kak budget lagi cekak nih,8,0.0,False
+habis itu aku mikir lagi apakah ada kelas yang membahas <topic> secara mendalam,8,0.0,False
+habis itu aku mikir lagi kelas yg cover <topic> ada silabus lengkapnya ga,8,0.0,False
+habis itu aku mikir lagi kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,8,0.0,False
+min maaf nanya sy udah nyoba belajar <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,8,0.0,False
+nah kalo udah itu aku jadi penasaran juga apakah ada kelas yang membahas <topic> secara mendalam,8,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas <topic> itu berapa lama durasinya,8,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas yg cover <topic> ada silabus lengkapnya ga,8,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,8,0.0,False
+oiya lanjut apa saja prasyarat untuk mengikuti kelas <topic>,8,0.0,False
+oiya lanjut apakah kelas <topic> tersedia dalam format online,8,0.0,False
+oiya lanjut gimana caranya biar cepet paham <topic>,8,0.0,False
+ok makasih infonya min ngomong-ngomong butuh kuasain <topic> secepatnya ada kelas intensif ga,8,0.0,False
+ok makasih infonya min ngomong-ngomong kelas <topic> itu berapa lama durasinya,8,0.0,False
+sori nanya mulu ya min tapi apakah kelas <topic> tersedia dalam format online,8,0.0,False
+sori nanya mulu ya min tapi kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,8,0.0,False
+terus min butuh kuasain <topic> secepatnya ada kelas intensif ga,8,0.0,False
+terus min kalau mau belajar <topic> aku harus mulai dari kelas apa ya,8,0.0,False
+terus min kelas <topic> kapan buka lagi,8,0.0,False
+terus min kira-kira <topic> itu perlu basic apa dulu ga sebelum diambil,8,0.0,False
+terus min min ada kelas <topic> yang mulai minggu ini ga,8,0.0,False
+eh satu lagi deh min gimana caranya biar <topic> bisa <topic> pake ai tanpa ribet,7,0.0,False
+habis itu aku mikir lagi apakah kelas <topic> tersedia dalam format online,7,0.0,False
+habis itu aku mikir lagi buat <topic> itu susah ga sih buat pemula kayak aku,7,0.0,False
+habis itu aku mikir lagi gimana caranya biar cepet paham <topic>,7,0.0,False
+habis itu aku mikir lagi kalau mau belajar <topic> aku harus mulai dari kelas apa ya,7,0.0,False
+habis itu aku mikir lagi kelas <topic> itu berapa lama durasinya,7,0.0,False
+habis itu aku mikir lagi mohon informasinya mengenai jadwal kelas <topic>,7,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> tanpa perlu learning coding ada rekomendasi,7,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada req apa buat masuk kelas <topic>,7,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada req apa buat masuk kelas <topic>,7,0.0,False
+oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas <topic> secara mendalam,7,0.0,False
+ok makasih infonya min ngomong-ngomong ada kelas ai yang gampang buat <topic> <topic>,7,0.0,False
+ok makasih infonya min ngomong-ngomong kalau mau belajar <topic> aku harus mulai dari kelas apa ya,7,0.0,False
+ok makasih infonya min ngomong-ngomong kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,7,0.0,False
+ok makasih infonya min ngomong-ngomong spill dong kelas <topic> yg paling worth it,7,0.0,False
+sori nanya mulu ya min tapi ada kelas <topic> yg bisa dipelajarin cepet ga,7,0.0,False
+sori nanya mulu ya min tapi apa saja prasyarat untuk mengikuti kelas <topic>,7,0.0,False
+terus min kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,7,0.0,False
+terus min kelas <topic> ada diskon ga kak budget lagi cekak nih,7,0.0,False
+btw sekalian mau tanya juga ada kelas <topic> yang bisa dipelajarin cepet ga,6,0.0,False
+btw sekalian mau tanya juga ada kelas <topic> yg bisa dipelajarin cepet ga,6,0.0,False
+btw sekalian mau tanya juga ada kelas ai yang gampang buat <topic> <topic>,6,0.0,False
+btw sekalian mau tanya juga apakah kelas <topic> tersedia dalam format online,6,0.0,False
+btw sekalian mau tanya juga min ada kelas <topic> yang mulai minggu ini ga,6,0.0,False
+btw sekalian mau tanya juga mohon informasinya mengenai jadwal kelas <topic>,6,0.0,False
+eh iya lanjut nanya lagi ya min apa saja prasyarat untuk mengikuti kelas <topic>,6,0.0,False
+eh iya lanjut nanya lagi ya min buat <topic> itu susah ga sih buat pemula kayak aku,6,0.0,False
+eh iya lanjut nanya lagi ya min gimana caranya biar <topic> bisa <topic> pake ai tanpa ribet,6,0.0,False
+eh iya lanjut nanya lagi ya min mohon informasinya mengenai jadwal kelas <topic>,6,0.0,False
+eh iya lanjut nanya lagi ya min spill dong kelas <topic> yang paling worth it,6,0.0,False
+eh iya lanjut nanya lagi ya min spill dong kelas <topic> yg paling worth it,6,0.0,False
+eh satu lagi deh min kelas <topic> itu berapa lama durasinya,6,0.0,False
+habis itu aku mikir lagi ada kelas <topic> yang bisa dipelajarin cepet ga,6,0.0,False
+habis itu aku mikir lagi spill dong kelas <topic> yang paling worth it,6,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,6,0.0,False
+min kelas bikin <topic> kayak <topic> ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,6,0.0,False
+min maaf nanya saya udah nyoba blajar <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,6,0.0,False
+min tolongin dong minggu depan aku ada <topic> disuruh paham <topic> buat laporan ke atasan tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga buat <topic> itu susah ga sih buat pemula kayak aku,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar cepet paham <topic>,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo buat <topic> timnya orang non-teknis semua tetep bisa ga,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga min ada kelas <topic> yang mulai minggu ini ga,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga mohon informasinya mengenai jadwal kelas <topic>,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga spill dong kelas <topic> yang paling worth it,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga spill dong kelas <topic> yg paling worth it,6,0.0,False
+nah kalo udah itu aku jadi penasaran juga worth it ga sih ambil kelas <topic> buat <topic>,6,0.0,False
+oh gitu ya paham kalo boleh nanya lagi gimana caranya biar cepet paham <topic>,6,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalau mau belajar <topic> aku harus mulai dari kelas apa ya,6,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> itu berapa lama durasinya,6,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> kapan buka lagi,6,-0.00794428785656929,False
+oiya lanjut ada kelas <topic> yang bisa dipelajarin cepet ga,6,0.0,False
+oiya lanjut kelas <topic> kapan buka lagi,6,0.0,False
+ok makasih infonya min ngomong-ngomong ada kelas <topic> yang bisa dipelajarin cepet ga,6,0.0,False
+ok makasih infonya min ngomong-ngomong kalo blajar <topic> prospek kerjanya gmn kak,6,0.0,False
+ok makasih infonya min ngomong-ngomong kelas <topic> kapan buka lagi,6,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas <topic> / <topic> apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,6,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas belajar <topic> dari nol apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,6,0.0,False
+sori nanya mulu ya min tapi gimana caranya biar <topic> bisa <topic> pake ai tanpa ribet,6,0.0,False
+sori nanya mulu ya min tapi kelas <topic> ada diskon ga kak budget lagi cekak nih,6,0.0,False
+sori nanya mulu ya min tapi spill dong kelas <topic> yg paling worth it,6,0.0,False
+terus min kelas yg cover <topic> ada silabus lengkapnya ga,6,0.0,False
+terus min min ada kelas <topic> yg mulai minggu ini ga,6,0.0,False
+terus min solusi <topic> buat <topic> pake ai ada ga ya,6,0.0,False
+terus min worth it ga sih ambil kelas <topic> buat <topic>,6,0.0,False
+btw sekalian mau tanya juga kalo belajar <topic> prospek kerjanya gimana kak,5,0.0,False
+btw sekalian mau tanya juga kelas yg cover <topic> ada silabus lengkapnya ga,5,0.0,False
+eh iya lanjut nanya lagi ya min apakah kelas <topic> tersedia dalam format online,5,0.0,False
+eh iya lanjut nanya lagi ya min kalau mau belajar <topic> aku harus mulai dari kelas apa ya,5,0.0,False
+eh iya lanjut nanya lagi ya min kalo blajar <topic> prospek kerjanya gmn kak,5,0.0,False
+eh satu lagi deh min butuh kuasain <topic> secepatnya ada kelas intensif ga,5,0.0,False
+eh satu lagi deh min mohon informasinya mengenai jadwal kelas <topic>,5,0.0,False
+eh satu lagi deh min solusi <topic> buat <topic> pake ai ada ga ya,5,0.0,False
+habis itu aku mikir lagi apa saja prasyarat untuk mengikuti kelas <topic>,5,0.0,False
+habis itu aku mikir lagi solusi <topic> buat <topic> pake ai ada ga ya,5,0.0,False
+nah kalo udah itu aku jadi penasaran juga solusi <topic> buat <topic> pake ai ada ga ya,5,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada kelas ai yang gampang buat <topic> <topic>,5,0.0,False
+oh gitu ya paham kalo boleh nanya lagi spill dong kelas <topic> yg paling worth it,5,0.0,False
+oiya lanjut butuh kuasain <topic> secepatnya ada kelas intensif ga,5,0.0,False
+oiya lanjut kalo blajar <topic> prospek kerjanya gmn kak,5,0.0,False
+oiya lanjut kelas <topic> itu berapa lama durasinya,5,0.0,False
+selamat siang admin mohon informasinya mengenai jadwal kelas bikin <topic> kayak <topic> beserta persyaratan pesertanya terima kasih,5,0.0,False
+sori nanya mulu ya min tapi ada kelas ai yang gampang buat <topic> <topic>,5,0.0,False
+sori nanya mulu ya min tapi ada req apa buat masuk kelas <topic>,5,0.0,False
+terus min apakah kelas <topic> tersedia dalam format online,5,0.0,False
+terus min mohon informasinya mengenai jadwal kelas <topic>,5,0.0,False
+btw sekalian mau tanya juga kalo blajar <topic> prospek kerjanya gmn kak,4,0.0,False
+eh iya lanjut nanya lagi ya min min ada kelas <topic> yg mulai minggu ini ga,4,0.0,False
+eh satu lagi deh min ada kelas <topic> yang bisa dipelajarin cepet ga,4,0.0,False
+eh satu lagi deh min gmn caranya biar cepet paham <topic>,4,0.0,False
+eh satu lagi deh min kalo blajar <topic> prospek kerjanya gmn kak,4,0.0,False
+eh satu lagi deh min spill dong kelas <topic> yg paling worth it,4,0.0,False
+habis itu aku mikir lagi kalo blajar <topic> prospek kerjanya gmn kak,4,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,4,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,4,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,4,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat learning <topic>,4,0.0,False
+kak mau nanya kalo belajar <topic> buat laporan ke atasan langsung dari nol worth it ga buat <topic> kedepannya,4,0.0,False
+min urgent butuh kuasain <topic> di <topic> secepatnya buat kerjaan ada kelas intensif ga,4,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> buat laporan ke atasan ada diskon ga kak budget lagi cekak nih,4,0.0,False
+oh gitu ya paham kalo boleh nanya lagi min ada kelas <topic> yang mulai minggu ini ga,4,0.0,False
+oiya lanjut ada kelas ai yang gampang buat <topic> <topic>,4,0.0,False
+oiya lanjut mohon informasinya mengenai jadwal kelas <topic>,4,0.0,False
+ok makasih infonya min ngomong-ngomong min ada kelas <topic> yang mulai minggu ini ga,4,0.0,False
+selamat siang admin mohon informasinya mengenai jadwal kelas belajar <topic> dari nol beserta persyaratan pesertanya terima kasih,4,0.0,False
+siang min saya tiap hari pusing kerjaan manual ada ga sih kelas ai atau <topic> terkait <topic> dasar yang gampang dipake gausah yg koding-koding puyeng yg penting kerjaan saya bisa <topic> aja pake ai,4,0.0,False
+siang min saya tiap hari pusing kerjaan manual ada ga sih kelas ai atau <topic> terkait <topic> di <topic> yang gampang dipake gausah yg koding-koding puyeng yg penting kerjaan saya bisa <topic> aja pake ai,4,0.0,False
+sori nanya mulu ya min tapi aku pengen kuasain bikin <topic> kayak <topic> juga ada rekomendasi kelasnya ga,4,0.0,False
+sori nanya mulu ya min tapi gimana caranya biar cepet paham <topic>,4,0.0,False
+terus min ada kelas ai yang gampang buat <topic> <topic>,4,0.0,False
+terus min gimana caranya biar <topic> bisa <topic> pake ai tanpa ribet,4,0.0,False
+btw kelas yg cover <topic> / <topic> ada ga min gw butuh buat production case di kantor,3,0.0,False
+btw kelas yg cover bikin <topic> kayak <topic> ada ga min gw butuh buat production case di kantor,3,0.0,False
+btw sekalian mau tanya juga kalau mau belajar <topic> aku harus mulai dari kelas apa ya,3,0.0,False
+btw sekalian mau tanya juga kalau mau blajar <topic> aku harus mulai dari kelas apa ya,3,0.0,False
+btw sekalian mau tanya juga kalo belajar <topic> prospek kerjanya gmn kak,3,0.0,False
+btw sekalian mau tanya juga min ada kelas <topic> yg mulai minggu ini ga,3,0.0,False
+btw sekalian mau tanya juga spill dong kelas <topic> yg paling worth it,3,0.0,False
+eh iya lanjut nanya lagi ya min ada kelas <topic> yg bisa dipelajarin cepet ga,3,0.0,False
+eh iya lanjut nanya lagi ya min ada req apa buat masuk kelas <topic> di <topic>,3,0.0,False
+eh iya lanjut nanya lagi ya min gmn caranya biar cepet paham <topic>,3,0.0,False
+eh iya lanjut nanya lagi ya min kalau mau blajar <topic> aku harus mulai dari kelas apa ya,3,0.0,False
+eh iya lanjut nanya lagi ya min kalo belajar <topic> prospek kerjanya gimana kak,3,0.0,False
+eh iya lanjut nanya lagi ya min min ada kelas <topic> yang mulai minggu ini ga,3,0.0,False
+eh satu lagi deh min butuh kuasain <topic> sefastnya ada kelas intensif ga,3,0.0,False
+habis itu aku mikir lagi kalo blajar <topic> prospek kerjanya gimana kak,3,0.0,False
+habis itu aku mikir lagi min ada kelas <topic> yang mulai minggu ini ga,3,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,3,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,3,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,3,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar <topic> / <topic>,3,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar bikin <topic> kayak <topic>,3,0.0,False
+kak mau nanya kalo belajar blajar <topic> dari nol langsung dari nol worth it ga buat <topic> kedepannya,3,0.0,False
+min kelas <topic> di <topic> ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,3,0.0,False
+min maaf nanya sy udah nyoba blajar <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,3,0.0,False
+min nanya dong kelas <topic> buat laporan ke atasan kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,3,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> buat laporan ke atasan <topic> ada rekomendasi,3,0.0,False
+min tim saya butuh solusi yang praktis buat belajar <topic> dari nol <topic> ada rekomendasi,3,0.0,False
+min tolongin dong minggu depan aku ada <topic> disuruh paham <topic> / <topic> tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,3,0.0,False
+min tolongin dong minggu depan aku ada <topic> disuruh paham <topic> di <topic> tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,3,0.0,False
+min urgent butuh kuasain <topic> / <topic> secepatnya buat kerjaan ada kelas intensif ga,3,0.0,False
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar belajar <topic> dari nol bisa <topic> pake ai tanpa ribet,3,0.0,False
+nah kalo udah itu aku jadi penasaran juga gmn caranya biar cepet paham <topic>,3,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalau mau blajar <topic> aku harus mulai dari kelas apa ya,3,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalau mau learning <topic> aku harus mulai dari kelas apa ya,3,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo blajar <topic> prospek kerjanya gmn kak,3,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> ada diskon ga kak budget lagi cekak nih,3,0.0,False
+oh gitu ya paham kalo boleh nanya lagi spill dong kelas <topic> yang paling worth it,3,0.0,False
+oiya lanjut gmn caranya biar cepet paham <topic>,3,0.0,False
+oiya lanjut kelas yg cover <topic> ada silabus lengkapnya ga,3,0.0,False
+ok makasih infonya min ngomong-ngomong gimana caranya biar cepet paham <topic>,3,0.0,False
+ok makasih infonya min ngomong-ngomong kira-kira <topic> di <topic> itu perlu basic apa dulu ga sebelum diambil,3,0.0,False
+ok makasih infonya min ngomong-ngomong min ada kelas <topic> yg mulai minggu ini ga,3,0.0,False
+selamat siang admin mohon informasinya mengenai jadwal kelas <topic> / <topic> beserta persyaratan pesertanya terima kasih,3,0.0,False
+selamat siang admin mohon informasinya mengenai jadwal kelas <topic> dasar beserta persyaratan pesertanya terima kasih,3,0.0,False
+selamat siang admin mohon informasinya mengenai jadwal kelas <topic> di <topic> beserta persyaratan pesertanya terima kasih,3,0.0,False
+siang min saya tiap hari pusing kerjaan manual ada ga sih kelas ai atau <topic> terkait <topic> buat laporan ke atasan yang gampang dipake gausah yg koding-koding puyeng yg penting kerjaan saya bisa <topic> aja pake ai,3,0.0,False
+sori nanya mulu ya min tapi ada kelas ai yang gampang buat <topic> di <topic> <topic>,3,0.0,False
+sori nanya mulu ya min tapi kalo belajar <topic> prospek kerjanya gimana kak,3,0.0,False
+sori nanya mulu ya min tapi spill dong kelas <topic> yang paling worth it,3,0.0,False
+terus min gmn caranya biar cepet paham <topic>,3,0.0,False
+terus min kalau mau blajar <topic> aku harus mulai dari kelas apa ya,3,0.0,False
+terus min kira-kira <topic> buat model itu perlu basic apa dulu ga sebelum diambil,3,0.0,False
+terus min spill dong kelas <topic> yang paling worth it,3,0.0,False
+terus min spill dong kelas <topic> yg paling worth it,3,0.0,False
+btw kelas yg cover <topic> dasar ada ga min gw butuh buat production case di kantor,2,0.0,False
+btw sekalian mau tanya juga gimana caranya biar cepet paham <topic>,2,0.0,False
+btw sekalian mau tanya juga gmn caranya biar cepet paham <topic>,2,0.0,False
+btw sekalian mau tanya juga gmn caranya biar cepet paham <topic> buat laporan ke atasan,2,0.0,False
+btw sekalian mau tanya juga kelas <topic> / <topic> ada diskon ga kak budget lagi cekak nih,2,0.0,False
+btw sekalian mau tanya juga kelas bikin <topic> kayak <topic> ada diskon ga kak budget lagi cekak nih,2,0.0,False
+btw sekalian mau tanya juga solusi <topic> buat <topic> buat laporan ke atasan pake ai ada ga ya,2,0.0,False
+btw sekalian mau tanya juga spill dong kelas <topic> yang paling worth it,2,0.0,False
+btw sekalian mau tanya juga worth it ga sih ambil kelas bikin <topic> kayak <topic> buat <topic>,2,0.0,False
+eh iya lanjut nanya lagi ya min butuh kuasain bikin <topic> kayak <topic> secepatnya ada kelas intensif ga,2,0.0,False
+eh iya lanjut nanya lagi ya min gmn caranya biar cepet paham <topic> dasar,2,0.0,False
+eh iya lanjut nanya lagi ya min kalo blajar <topic> prospek kerjanya gimana kak,2,0.0,False
+eh iya lanjut nanya lagi ya min kalo blajar bikin <topic> kayak <topic> prospek kerjanya gimana kak,2,0.0,False
+eh iya lanjut nanya lagi ya min kalo learning <topic> prospek kerjanya gmn kak,2,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> buat laporan ke atasan kapan buka lagi,2,0.0,False
+eh satu lagi deh min ada kelas <topic> yg bisa dipelajarin cepet ga,2,0.0,False
+eh satu lagi deh min ada kelas ai yang gampang buat <topic> buat laporan ke atasan <topic>,2,0.0,False
+eh satu lagi deh min ada req apa buat masuk kelas <topic> dasar,2,0.0,False
+eh satu lagi deh min aku pengen kuasain bikin <topic> kayak <topic> juga ada rekomendasi kelasnya ga,2,0.0,False
+eh satu lagi deh min kelas <topic> di <topic> ada diskon ga kak budget lagi cekak nih,2,0.0,False
+eh satu lagi deh min kira-kira <topic> di <topic> itu perlu basic apa dulu ga sebelum diambil,2,0.0,False
+eh satu lagi deh min kira-kira bikin <topic> kayak <topic> itu perlu basic apa dulu ga sebelum diambil,2,0.0,False
+eh satu lagi deh min min ada kelas <topic> yang mulai minggu ini ga,2,0.0,False
+eh satu lagi deh min min ada kelas <topic> yg mulai minggu ini ga,2,0.0,False
+eh satu lagi deh min mohon informasinya mengenai jadwal kelas belajar <topic> dari nol,2,0.0,False
+habis itu aku mikir lagi ada req apa buat masuk kelas blajar <topic> dari nol,2,0.0,False
+habis itu aku mikir lagi aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,2,0.0,False
+habis itu aku mikir lagi aku pengen kuasain bikin <topic> kayak <topic> juga ada rekomendasi kelasnya ga,2,0.0,False
+habis itu aku mikir lagi apa saja prasyarat untuk mengikuti kelas <topic> buat laporan ke atasan,2,0.0,False
+habis itu aku mikir lagi butuh kuasain <topic> secepatnya ada kelas intensif ga,2,0.0,False
+habis itu aku mikir lagi kelas <topic> di <topic> itu berapa lama durasinya,2,0.0,False
+habis itu aku mikir lagi kira-kira <topic> buat model itu perlu basic apa dulu ga sebelum diambil,2,0.0,False
+habis itu aku mikir lagi spill dong kelas <topic> / <topic> yg paling worth it,2,0.0,False
+habis itu aku mikir lagi worth it ga sih ambil kelas <topic> di <topic> buat <topic>,2,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,2,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,2,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,2,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,2,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,2,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,2,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar <topic> buat laporan ke atasan,2,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar belajar <topic> dari nol,2,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada belajar <topic> buat laporan ke atasan worth it ga sih ambil kelas itu buat nambahin <topic>,2,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada blajar blajar <topic> dari nol worth it ga sih ambil kelas itu buat nambahin <topic>,2,0.0,False
+kak mau nanya kalo belajar <topic> buat model langsung dari nol worth it ga buat <topic> kedepannya,2,0.0,False
+kak mau nanya kalo blajar <topic> dasar langsung dari nol worth it ga buat <topic> kedepannya,2,0.0,False
+kak mau nanya kalo blajar <topic> di <topic> langsung dari nol worth it ga buat <topic> kedepannya,2,0.0,False
+kak spill dong kelas <topic> buat model yg paling worth it budget terbatas nih hehe,2,0.0,False
+kak spill dong kelas belajar <topic> dari nol yg paling worth it budget terbatas nih hehe,2,0.0,False
+kak spill dong kelas bikin <topic> kayak <topic> yg paling worth it budget terbatas nih hehe,2,0.0,False
+min maaf nanya saya udah nyoba belajar <topic> otodidak tapi stuck terus ada rekomendasi kelas yg cocok buat pemula banget kah,2,0.0,False
+min maaf nanya saya udah nyoba belajar bikin <topic> kayak <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,2,0.0,False
+min maaf nanya saya udah nyoba blajar bikin <topic> kayak <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,2,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> dasar <topic> ada rekomendasi,2,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> di <topic> <topic> ada rekomendasi,2,0.0,False
+min tolongin dong minggu depan aku ada <topic> disuruh paham belajar <topic> dari nol tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,2,0.0,False
+min tolongin dong minggu depan aku ada <topic> disuruh paham blajar <topic> dari nol tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,2,0.0,False
+min urgent butuh kuasain <topic> buat laporan ke atasan secepatnya buat kerjaan ada kelas intensif ga,2,0.0,False
+min urgent butuh kuasain belajar <topic> dari nol secepatnya buat kerjaan ada kelas intensif ga,2,0.0,False
+min urgent butuh kuasain bikin <topic> kayak <topic> secepatnya buat kerjaan ada kelas intensif ga,2,0.0,False
+nah kalo udah itu aku jadi penasaran juga apakah ada kelas yang membahas bikin <topic> kayak <topic> secara mendalam,2,0.0,False
+nah kalo udah itu aku jadi penasaran juga butuh kuasain <topic> sefastnya ada kelas intensif ga,2,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo blajar <topic> prospek kerjanya gimana kak,2,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo buat <topic> buat laporan ke atasan timnya orang non-teknis semua tetep bisa ga,2,0.0,False
+nah kalo udah itu aku jadi penasaran juga kira-kira <topic> buat laporan ke atasan itu perlu basic apa dulu ga sebelum diambil,2,0.0,False
+nah kalo udah itu aku jadi penasaran juga mohon informasinya mengenai jadwal kelas <topic> buat model,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi aku pengen kuasain <topic> buat laporan ke atasan juga ada rekomendasi kelasnya ga,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi apa saja prasyarat untuk mengikuti kelas <topic> buat model,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi buat <topic> dasar itu susah ga sih buat pemula kayak aku,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi butuh kuasain <topic> sefastnya ada kelas intensif ga,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi gmn caranya biar cepet paham <topic>,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> / <topic> kapan buka lagi,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas yg cover <topic> di <topic> ada silabus lengkapnya ga,2,0.0,False
+oh gitu ya paham kalo boleh nanya lagi min ada kelas <topic> yg mulai minggu ini ga,2,0.0,False
+oiya lanjut ada kelas <topic> yg bisa dipelajarin cepet ga,2,0.0,False
+oiya lanjut ada kelas ai yang gampang buat <topic> di <topic> <topic>,2,0.0,False
+oiya lanjut apa saja prasyarat untuk mengikuti kelas <topic> di <topic>,2,0.0,False
+oiya lanjut gimana caranya biar <topic> buat laporan ke atasan bisa <topic> pake ai tanpa ribet,2,0.0,False
+oiya lanjut kalau mau belajar bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,2,0.0,False
+oiya lanjut kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,2,0.0,False
+oiya lanjut min ada kelas <topic> yg mulai minggu ini ga,2,0.0,False
+oiya lanjut spill dong kelas <topic> yang paling worth it,2,0.0,False
+ok makasih infonya min ngomong-ngomong ada req apa buat masuk kelas <topic> buat model,2,0.0,False
+ok makasih infonya min ngomong-ngomong aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,2,0.0,False
+ok makasih infonya min ngomong-ngomong apakah kelas <topic> buat laporan ke atasan tersedia dalam format online,2,0.0,False
+ok makasih infonya min ngomong-ngomong apakah kelas <topic> buat model tersedia dalam format online,2,0.0,False
+ok makasih infonya min ngomong-ngomong apakah kelas <topic> dasar tersedia dalam format online,2,0.0,False
+ok makasih infonya min ngomong-ngomong gmn caranya biar cepet paham <topic>,2,0.02452548025997936,True
+ok makasih infonya min ngomong-ngomong kalau mau belajar <topic> buat laporan ke atasan aku harus mulai dari kelas apa ya,2,0.0,False
+ok makasih infonya min ngomong-ngomong kalo belajar <topic> prospek kerjanya gimana kak,2,0.0,False
+ok makasih infonya min ngomong-ngomong kalo blajar <topic> prospek kerjanya gimana kak,2,0.0,False
+ok makasih infonya min ngomong-ngomong kelas bikin <topic> kayak <topic> kapan buka lagi,2,0.0,False
+ok makasih infonya min ngomong-ngomong kelas blajar <topic> dari nol kapan buka lagi,2,0.0,False
+ok makasih infonya min ngomong-ngomong mohon informasinya mengenai jadwal kelas <topic> / <topic>,2,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas <topic> buat laporan ke atasan apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,2,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas <topic> dasar apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,2,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas <topic> di <topic> apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,2,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas bikin <topic> kayak <topic> apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,2,0.0,False
+siang min saya tiap hari pusing kerjaan manual ada ga sih kelas ai atau <topic> terkait <topic> / <topic> yang gampang dipake gausah yg koding-koding puyeng yg penting kerjaan saya bisa <topic> aja pake ai,2,0.0,False
+siang min saya tiap hari pusing kerjaan manual ada ga sih kelas ai atau <topic> terkait belajar <topic> dari nol yang gampang dipake gausah yg koding-koding puyeng yg penting kerjaan saya bisa <topic> aja pake ai,2,0.047076097927827076,True
+sori nanya mulu ya min tapi ada kelas <topic> dasar yg bisa dipelajarin cepet ga,2,0.0,False
+sori nanya mulu ya min tapi ada req apa buat masuk kelas <topic> buat laporan ke atasan,2,0.0,False
+sori nanya mulu ya min tapi aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,2,0.0,False
+sori nanya mulu ya min tapi butuh kuasain <topic> sefastnya ada kelas intensif ga,2,0.0,False
+sori nanya mulu ya min tapi kalo belajar <topic> prospek kerjanya gmn kak,2,0.0,False
+sori nanya mulu ya min tapi kalo blajar <topic> prospek kerjanya gmn kak,2,0.0,False
+sori nanya mulu ya min tapi kelas <topic> buat laporan ke atasan itu berapa lama durasinya,2,0.0,False
+sori nanya mulu ya min tapi kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,2,0.0,False
+sori nanya mulu ya min tapi kelas belajar <topic> dari nol kapan buka lagi,2,0.0,False
+sori nanya mulu ya min tapi kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,2,0.0,False
+sori nanya mulu ya min tapi worth it ga sih ambil kelas <topic> buat laporan ke atasan buat <topic>,2,0.0,False
+terus min ada kelas ai yang gampang buat bikin <topic> kayak <topic> <topic>,2,0.0,False
+terus min aku pengen kuasain <topic> dasar juga ada rekomendasi kelasnya ga,2,0.0,False
+terus min apa saja prasyarat untuk mengikuti kelas belajar <topic> dari nol,2,0.0,False
+terus min apakah ada kelas yang membahas bikin <topic> kayak <topic> secara mendalam,2,0.0,False
+terus min apakah kelas <topic> di <topic> tersedia dalam format online,2,0.0,False
+terus min gimana caranya biar <topic> buat laporan ke atasan bisa <topic> pake ai tanpa ribet,2,0.0,False
+terus min kalo blajar <topic> prospek kerjanya gmn kak,2,0.0,False
+terus min kalo buat <topic> dasar timnya orang non-teknis semua tetep bisa ga,2,0.0,False
+terus min kelas yg cover <topic> di <topic> ada silabus lengkapnya ga,2,0.0,False
+terus min min ada kelas <topic> di <topic> yang mulai minggu ini ga,2,0.0,False
+btw kelas yg cover belajar <topic> dari nol ada ga min gw butuh buat production case di kantor,1,0.0,False
+btw min pembayaran cicilan kelas saya kok belum keupdate di sistem ya,1,0.0,False
+btw sekalian mau tanya juga ada kelas <topic> di <topic> yang bisa dipelajarin cepet ga,1,0.0,False
+btw sekalian mau tanya juga ada kelas bikin <topic> kayak <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+btw sekalian mau tanya juga ada req apa buat masuk kelas <topic> buat laporan ke atasan,1,0.0,False
+btw sekalian mau tanya juga ada req apa buat masuk kelas blajar <topic> dari nol,1,0.0,False
+btw sekalian mau tanya juga aku pengen kuasain <topic> dasar juga ada rekomendasi kelasnya ga,1,0.0,False
+btw sekalian mau tanya juga aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,1,0.0,False
+btw sekalian mau tanya juga aku pengen kuasain blajar <topic> dari nol juga ada rekomendasi kelasnya ga,1,0.0,False
+btw sekalian mau tanya juga apa saja prasyarat untuk mengikuti kelas <topic> buat laporan ke atasan,1,0.0,False
+btw sekalian mau tanya juga apa saja prasyarat untuk mengikuti kelas <topic> dasar,1,0.0,False
+btw sekalian mau tanya juga apa saja prasyarat untuk mengikuti kelas bikin <topic> kayak <topic>,1,0.0,False
+btw sekalian mau tanya juga apakah ada kelas yang membahas <topic> di <topic> secara mendalam,1,0.0,False
+btw sekalian mau tanya juga apakah kelas <topic> buat laporan ke atasan tersedia dalam format online,1,0.0,False
+btw sekalian mau tanya juga apakah kelas bikin <topic> kayak <topic> tersedia dalam format online,1,0.0,False
+btw sekalian mau tanya juga buat <topic> buat model itu susah ga sih buat pemula kayak aku,1,0.0,False
+btw sekalian mau tanya juga butuh kuasain <topic> / <topic> secepatnya ada kelas intensif ga,1,0.0,False
+btw sekalian mau tanya juga butuh kuasain <topic> buat laporan ke atasan secepatnya ada kelas intensif ga,1,0.0,False
+btw sekalian mau tanya juga butuh kuasain <topic> buat model secepatnya ada kelas intensif ga,1,0.0,False
+btw sekalian mau tanya juga butuh kuasain learning <topic> dari nol secepatnya ada kelas intensif ga,1,0.0,False
+btw sekalian mau tanya juga gimana caranya biar cepet paham <topic> dasar,1,0.0,False
+btw sekalian mau tanya juga gmn caranya biar cepet paham belajar <topic> dari nol,1,0.0,False
+btw sekalian mau tanya juga kalau mau belajar <topic> dasar aku harus mulai dari kelas apa ya,1,0.0,False
+btw sekalian mau tanya juga kalau mau belajar <topic> di <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+btw sekalian mau tanya juga kalau mau belajar bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+btw sekalian mau tanya juga kalo belajar <topic> / <topic> prospek kerjanya gimana kak,1,0.0,False
+btw sekalian mau tanya juga kalo blajar <topic> / <topic> prospek kerjanya gimana kak,1,0.0,False
+btw sekalian mau tanya juga kalo blajar <topic> buat laporan ke atasan prospek kerjanya gimana kak,1,0.0,False
+btw sekalian mau tanya juga kalo blajar <topic> buat model prospek kerjanya gimana kak,1,0.0,False
+btw sekalian mau tanya juga kalo blajar <topic> prospek kerjanya gimana kak,1,0.0,False
+btw sekalian mau tanya juga kalo buat <topic> buat laporan ke atasan timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+btw sekalian mau tanya juga kalo buat <topic> buat model timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+btw sekalian mau tanya juga kalo buat bikin <topic> kayak <topic> timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+btw sekalian mau tanya juga kelas <topic> / <topic> kapan buka lagi,1,0.0,False
+btw sekalian mau tanya juga kelas <topic> buat laporan ke atasan itu berapa lama durasinya,1,0.0,False
+btw sekalian mau tanya juga kelas <topic> buat laporan ke atasan kapan buka lagi,1,0.0,False
+btw sekalian mau tanya juga kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,1,0.0,False
+btw sekalian mau tanya juga kelas <topic> di <topic> itu berapa lama durasinya,1,0.0,False
+btw sekalian mau tanya juga kelas belajar <topic> dari nol ada diskon ga kak budget lagi cekak nih,1,0.0,False
+btw sekalian mau tanya juga kelas blajar <topic> dari nol kapan buka lagi,1,0.0,False
+btw sekalian mau tanya juga kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,1,0.0,False
+btw sekalian mau tanya juga kira-kira <topic> buat laporan ke atasan itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+btw sekalian mau tanya juga min ada kelas <topic> / <topic> yg mulai minggu ini ga,1,0.0,False
+btw sekalian mau tanya juga min ada kelas <topic> buat model yg mulai minggu ini ga,1,0.0,False
+btw sekalian mau tanya juga mohon informasinya mengenai jadwal kelas <topic> / <topic>,1,0.0,False
+btw sekalian mau tanya juga mohon informasinya mengenai jadwal kelas belajar <topic> dari nol,1,0.0,False
+btw sekalian mau tanya juga solusi <topic> buat <topic> / <topic> pake ai ada ga ya,1,0.0,False
+btw sekalian mau tanya juga spill dong kelas <topic> buat laporan ke atasan yg paling worth it,1,0.0,False
+btw sekalian mau tanya juga spill dong kelas <topic> dasar yang paling worth it,1,0.0,False
+btw sekalian mau tanya juga worth it ga sih ambil kelas <topic> di <topic> buat <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min ada kelas <topic> buat laporan ke atasan yang bisa dipelajarin cepet ga,1,0.0,False
+eh iya lanjut nanya lagi ya min ada kelas <topic> yang bisa dipelajarin cepet ga,1,0.0,False
+eh iya lanjut nanya lagi ya min ada kelas ai yang gampang buat <topic> buat laporan ke atasan <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min ada kelas ai yang gampang buat <topic> buat model <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min ada kelas bikin <topic> kayak <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+eh iya lanjut nanya lagi ya min ada req apa buat masuk kelas <topic> buat laporan ke atasan,1,0.0,False
+eh iya lanjut nanya lagi ya min aku pengen kuasain <topic> / <topic> juga ada rekomendasi kelasnya ga,1,0.0,False
+eh iya lanjut nanya lagi ya min aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,1,0.0,False
+eh iya lanjut nanya lagi ya min apa saja prasyarat untuk mengikuti kelas <topic> / <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min apa saja prasyarat untuk mengikuti kelas belajar <topic> dari nol,1,0.0,False
+eh iya lanjut nanya lagi ya min apakah ada kelas yang membahas <topic> / <topic> secara mendalam,1,0.0,False
+eh iya lanjut nanya lagi ya min apakah ada kelas yang membahas <topic> dasar secara mendalam,1,0.0,False
+eh iya lanjut nanya lagi ya min apakah kelas belajar <topic> dari nol tersedia dalam format online,1,0.0,False
+eh iya lanjut nanya lagi ya min apakah kelas bikin <topic> kayak <topic> tersedia dalam format online,1,0.0,False
+eh iya lanjut nanya lagi ya min buat blajar <topic> dari nol itu susah ga sih buat pemula kayak aku,1,0.0,False
+eh iya lanjut nanya lagi ya min butuh kuasain <topic> / <topic> sefastnya ada kelas intensif ga,1,0.0,False
+eh iya lanjut nanya lagi ya min butuh kuasain <topic> buat model secepatnya ada kelas intensif ga,1,0.0,False
+eh iya lanjut nanya lagi ya min gimana caranya biar <topic> dasar bisa <topic> pake ai tanpa ribet,1,0.0,False
+eh iya lanjut nanya lagi ya min gimana caranya biar bikin <topic> kayak <topic> bisa <topic> pake ai tanpa ribet,1,0.0,False
+eh iya lanjut nanya lagi ya min gmn caranya biar cepet paham <topic> buat laporan ke atasan,1,0.0,False
+eh iya lanjut nanya lagi ya min gmn caranya biar cepet paham <topic> di <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min kalau mau belajar <topic> buat laporan ke atasan aku harus mulai dari kelas apa ya,1,0.0,False
+eh iya lanjut nanya lagi ya min kalau mau belajar belajar <topic> dari nol aku harus mulai dari kelas apa ya,1,0.0,False
+eh iya lanjut nanya lagi ya min kalau mau belajar bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+eh iya lanjut nanya lagi ya min kalau mau learning <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+eh iya lanjut nanya lagi ya min kalo belajar <topic> buat laporan ke atasan prospek kerjanya gmn kak,1,0.0,False
+eh iya lanjut nanya lagi ya min kalo belajar <topic> buat model prospek kerjanya gimana kak,1,0.0,False
+eh iya lanjut nanya lagi ya min kalo blajar <topic> dasar prospek kerjanya gmn kak,1,0.0,False
+eh iya lanjut nanya lagi ya min kalo buat <topic> / <topic> timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+eh iya lanjut nanya lagi ya min kalo buat <topic> buat laporan ke atasan timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> / <topic> itu berapa lama durasinya,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> / <topic> kapan buka lagi,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> buat laporan ke atasan ada diskon ga kak budget lagi cekak nih,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> buat model itu berapa lama durasinya,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas <topic> buat model kapan buka lagi,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas bikin <topic> kayak <topic> kapan buka lagi,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,1,0.0,False
+eh iya lanjut nanya lagi ya min kelas yg cover <topic> di <topic> ada silabus lengkapnya ga,1,0.0,False
+eh iya lanjut nanya lagi ya min kira-kira <topic> buat laporan ke atasan itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+eh iya lanjut nanya lagi ya min kira-kira <topic> di <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+eh iya lanjut nanya lagi ya min kira-kira bikin <topic> kayak <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+eh iya lanjut nanya lagi ya min min ada kelas <topic> dasar yang mulai minggu ini ga,1,0.0,False
+eh iya lanjut nanya lagi ya min min ada kelas <topic> di <topic> yang mulai minggu ini ga,1,0.0,False
+eh iya lanjut nanya lagi ya min min ada kelas belajar <topic> dari nol yang mulai minggu ini ga,1,0.0,False
+eh iya lanjut nanya lagi ya min mohon informasinya mengenai jadwal kelas <topic> / <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min solusi <topic> buat bikin <topic> kayak <topic> pake ai ada ga ya,1,0.0,False
+eh iya lanjut nanya lagi ya min spill dong kelas <topic> buat laporan ke atasan yg paling worth it,1,0.0,False
+eh iya lanjut nanya lagi ya min spill dong kelas <topic> dasar yg paling worth it,1,0.0,False
+eh iya lanjut nanya lagi ya min spill dong kelas learning <topic> dari nol yg paling worth it,1,0.0,False
+eh iya lanjut nanya lagi ya min worth it ga sih ambil kelas <topic> / <topic> buat <topic>,1,0.0,False
+eh iya lanjut nanya lagi ya min worth it ga sih ambil kelas bikin <topic> kayak <topic> buat <topic>,1,0.0,False
+eh min gajadi deh bosku nyuruh pindah haluan bikin ai ada kelas <topic> nggak,1,0.0,False
+eh satu lagi deh min ada kelas ai yang gampang buat <topic> dasar <topic>,1,0.0,False
+eh satu lagi deh min ada kelas bikin <topic> kayak <topic> yang bisa dipelajarin cepet ga,1,0.0,False
+eh satu lagi deh min ada kelas blajar <topic> dari nol yang bisa dipelajarin cepet ga,1,0.0,False
+eh satu lagi deh min ada req apa buat masuk kelas <topic> buat laporan ke atasan,1,0.0,False
+eh satu lagi deh min ada req apa buat masuk kelas <topic> buat model,1,0.0,False
+eh satu lagi deh min aku pengen kuasain <topic> buat laporan ke atasan juga ada rekomendasi kelasnya ga,1,0.0,False
+eh satu lagi deh min apa saja prasyarat untuk mengikuti kelas <topic> / <topic>,1,0.0,False
+eh satu lagi deh min apa saja prasyarat untuk mengikuti kelas <topic> dasar,1,0.0,False
+eh satu lagi deh min apakah ada kelas yang membahas <topic> / <topic> secara mendalam,1,0.0,False
+eh satu lagi deh min apakah kelas <topic> dasar tersedia dalam format online,1,0.0,False
+eh satu lagi deh min buat <topic> dasar itu susah ga sih buat pemula kayak aku,1,0.0,False
+eh satu lagi deh min buat <topic> di <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+eh satu lagi deh min butuh kuasain <topic> buat laporan ke atasan secepatnya ada kelas intensif ga,1,0.0,False
+eh satu lagi deh min butuh kuasain <topic> buat model secepatnya ada kelas intensif ga,1,0.0,False
+eh satu lagi deh min butuh kuasain <topic> dasar sefastnya ada kelas intensif ga,1,0.0,False
+eh satu lagi deh min gimana caranya biar <topic> / <topic> bisa <topic> pake ai tanpa ribet,1,0.0,False
+eh satu lagi deh min gimana caranya biar <topic> buat laporan ke atasan bisa <topic> pake ai tanpa ribet,1,0.0,False
+eh satu lagi deh min gimana caranya biar <topic> buat model bisa <topic> pake ai tanpa ribet,1,0.0,False
+eh satu lagi deh min gimana caranya biar cepet paham bikin <topic> kayak <topic>,1,0.0,False
+eh satu lagi deh min gmn caranya biar cepet paham blajar <topic> dari nol,1,0.0,False
+eh satu lagi deh min kalau mau blajar <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+eh satu lagi deh min kalo belajar <topic> / <topic> prospek kerjanya gmn kak,1,0.0,False
+eh satu lagi deh min kalo blajar <topic> prospek kerjanya gimana kak,1,0.0,False
+eh satu lagi deh min kalo buat <topic> buat model timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+eh satu lagi deh min kalo buat <topic> dasar timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+eh satu lagi deh min kelas <topic> / <topic> ada diskon ga kak budget lagi cekak nih,1,0.0,False
+eh satu lagi deh min kelas <topic> buat laporan ke atasan itu berapa lama durasinya,1,0.0,False
+eh satu lagi deh min kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,1,0.0,False
+eh satu lagi deh min kelas <topic> di <topic> itu berapa lama durasinya,1,0.0,False
+eh satu lagi deh min kelas belajar <topic> dari nol itu berapa lama durasinya,1,0.0,False
+eh satu lagi deh min kelas bikin <topic> kayak <topic> itu berapa lama durasinya,1,0.0,False
+eh satu lagi deh min kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,1,0.0,False
+eh satu lagi deh min kira-kira <topic> / <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+eh satu lagi deh min kira-kira <topic> dasar itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+eh satu lagi deh min kira-kira blajar <topic> dari nol itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+eh satu lagi deh min min ada kelas <topic> buat laporan ke atasan yang mulai minggu ini ga,1,0.009792624430694064,True
+eh satu lagi deh min min ada kelas <topic> buat model yang mulai minggu ini ga,1,0.0,False
+eh satu lagi deh min min ada kelas belajar <topic> dari nol yang mulai minggu ini ga,1,0.0,False
+eh satu lagi deh min spill dong kelas belajar <topic> dari nol yang paling worth it,1,0.0,False
+eh satu lagi deh min worth it ga sih ambil kelas <topic> di <topic> buat <topic>,1,0.0,False
+habis itu aku mikir lagi ada kelas <topic> / <topic> yang bisa dipelajarin cepet ga,1,0.0,False
+habis itu aku mikir lagi ada kelas <topic> buat laporan ke atasan yg bisa dipelajarin cepet ga,1,0.0,False
+habis itu aku mikir lagi ada kelas <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+habis itu aku mikir lagi aku pengen kuasain <topic> buat model juga ada rekomendasi kelasnya ga,1,0.0,False
+habis itu aku mikir lagi apakah ada kelas yang membahas <topic> / <topic> secara mendalam,1,0.0,False
+habis itu aku mikir lagi apakah ada kelas yang membahas <topic> buat model secara mendalam,1,0.0,False
+habis itu aku mikir lagi apakah ada kelas yang membahas <topic> di <topic> secara mendalam,1,0.0,False
+habis itu aku mikir lagi apakah kelas <topic> / <topic> tersedia dalam format online,1,0.0,False
+habis itu aku mikir lagi buat <topic> buat model itu susah ga sih buat pemula kayak aku,1,0.0,False
+habis itu aku mikir lagi buat <topic> di <topic> itu susah ga sih buat pemula kayak aku,1,-0.03935483962656916,False
+habis itu aku mikir lagi buat blajar <topic> dari nol itu susah ga sih buat pemula kayak aku,1,0.0,False
+habis itu aku mikir lagi butuh kuasain <topic> / <topic> secepatnya ada kelas intensif ga,1,0.0,False
+habis itu aku mikir lagi gimana caranya biar <topic> buat laporan ke atasan bisa <topic> pake ai tanpa ribet,1,0.0,False
+habis itu aku mikir lagi gmn caranya biar cepet paham bikin <topic> kayak <topic>,1,0.0,False
+habis itu aku mikir lagi kalau mau belajar <topic> buat model aku harus mulai dari kelas apa ya,1,0.0,False
+habis itu aku mikir lagi kalau mau belajar belajar <topic> dari nol aku harus mulai dari kelas apa ya,1,0.0,False
+habis itu aku mikir lagi kalau mau blajar <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+habis itu aku mikir lagi kalau mau blajar <topic> buat model aku harus mulai dari kelas apa ya,1,0.17529142571938128,True
+habis itu aku mikir lagi kalo belajar <topic> prospek kerjanya gimana kak,1,0.0,False
+habis itu aku mikir lagi kalo blajar <topic> buat laporan ke atasan prospek kerjanya gmn kak,1,0.0,False
+habis itu aku mikir lagi kalo blajar <topic> buat model prospek kerjanya gimana kak,1,0.0,False
+habis itu aku mikir lagi kalo blajar belajar <topic> dari nol prospek kerjanya gmn kak,1,0.0,False
+habis itu aku mikir lagi kelas <topic> / <topic> ada diskon ga kak budget lagi cekak nih,1,0.0,False
+habis itu aku mikir lagi kelas <topic> / <topic> kapan buka lagi,1,0.0,False
+habis itu aku mikir lagi kelas <topic> buat laporan ke atasan kapan buka lagi,1,0.0,False
+habis itu aku mikir lagi kelas <topic> dasar itu berapa lama durasinya,1,0.0,False
+habis itu aku mikir lagi kelas bikin <topic> kayak <topic> ada diskon ga kak budget lagi cekak nih,1,0.0,False
+habis itu aku mikir lagi kelas bikin <topic> kayak <topic> itu berapa lama durasinya,1,0.0,False
+habis itu aku mikir lagi kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,1,0.0,False
+habis itu aku mikir lagi kelas yg cover <topic> buat laporan ke atasan ada silabus lengkapnya ga,1,0.0,False
+habis itu aku mikir lagi kelas yg cover bikin <topic> kayak <topic> ada silabus lengkapnya ga,1,0.0,False
+habis itu aku mikir lagi min ada kelas <topic> buat laporan ke atasan yang mulai minggu ini ga,1,0.0,False
+habis itu aku mikir lagi min ada kelas <topic> yg mulai minggu ini ga,1,0.0,False
+habis itu aku mikir lagi min ada kelas blajar <topic> dari nol yang mulai minggu ini ga,1,0.0,False
+habis itu aku mikir lagi spill dong kelas <topic> dasar yang paling worth it,1,0.0,False
+habis itu aku mikir lagi spill dong kelas bikin <topic> kayak <topic> yg paling worth it,1,0.0,False
+habis itu aku mikir lagi worth it ga sih ambil kelas <topic> / <topic> buat <topic>,1,0.0,False
+habis itu aku mikir lagi worth it ga sih ambil kelas <topic> dasar buat <topic>,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> buat laporan ke atasan saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> dasar saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> di <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> / <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> buat laporan ke atasan saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> buat model sy harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> di <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> di <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> sy harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> / <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar belajar <topic> dari nol saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> buat laporan ke atasan saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> sy harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya saya kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar belajar <topic> dari nol saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja bbrp tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> di <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> saya harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> buat model sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi saya gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai learning <topic> sy harus ambil kelas yg mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai belajar <topic> sy harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo admin selamat siang maaf mau tanya sy kan backgroundnya bukan it ya udah kerja beberapa tahun tapi ngerasa bosen jujur pengen banget banting setir ke data tapi sy gaptek banget belum pernah ngoding sama sekali kira-kira kalau mau mulai blajar <topic> saya harus ambil kelas yang mana ya min takut ga ngerti hehe,1,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat belajar <topic> buat model,1,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat blajar <topic> buat laporan ke atasan,1,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat blajar <topic> dasar,1,0.0,False
+halo min aku background bukan data sama sekali mau coba banting setir bingung nih mulai dari mana buat learning <topic> buat model,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada belajar <topic> buat model worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada belajar <topic> di <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada blajar <topic> / <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada blajar <topic> buat laporan ke atasan worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada blajar <topic> dasar worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada blajar bikin <topic> kayak <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada learning <topic> / <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurly aku lagi fomo banget nih liat temen pada learning <topic> buat laporan ke atasan worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurlyly aku lagi fomo banget nih liat temen pada belajar <topic> buat laporan ke atasan worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurlyly aku lagi fomo banget nih liat temen pada blajar <topic> buat model worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurlyly aku lagi fomo banget nih liat temen pada blajar <topic> dasar worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak jujurlyly aku lagi fomo banget nih liat temen pada blajar <topic> worth it ga sih ambil kelas itu buat nambahin <topic>,1,0.0,False
+kak mau nanya kalo belajar <topic> dasar langsung dari nol worth it ga buat <topic> kedepannya,1,0.0,False
+kak mau nanya kalo blajar <topic> / <topic> langsung dari nol worth it ga buat <topic> kedepannya,1,0.0,False
+kak mau nanya kalo blajar <topic> buat laporan ke atasan langsung dari nol worth it ga buat <topic> kedepannya,1,0.0,False
+kak mau nanya kalo blajar bikin <topic> kayak <topic> langsung dari nol worth it ga buat <topic> kedepannya,1,0.0,False
+kak spill dong kelas <topic> / <topic> yang paling worth it budget terbatas nih hehe,1,0.0,False
+kak spill dong kelas <topic> / <topic> yg paling worth it budget terbatas nih hehe,1,0.0,False
+kak spill dong kelas <topic> buat laporan ke atasan yang paling worth it budget terbatas nih hehe,1,0.0,False
+kak spill dong kelas <topic> buat laporan ke atasan yg paling worth it budget terbatas nih hehe,1,0.0,False
+kak spill dong kelas <topic> dasar yg paling worth it budget terbatas nih hehe,1,0.0,False
+kak spill dong kelas blajar <topic> dari nol yang paling worth it budget terbatas nih hehe,1,0.0,False
+min kelas <topic> dasar ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,1,0.0,False
+min kelas belajar <topic> dari nol ada silabus lengkapnya ga w mau compare sama kurikulum kompetitor,1,0.0,False
+min maaf nanya saya udah nyoba belajar <topic> / <topic> otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,1,0.0,False
+min maaf nanya saya udah nyoba belajar <topic> buat laporan ke atasan otodidak tapi stuck terus ada rekomendasi kelas yg cocok buat pemula banget kah,1,0.0,False
+min maaf nanya saya udah nyoba belajar belajar <topic> dari nol otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,1,0.0,False
+min maaf nanya saya udah nyoba belajar belajar <topic> dari nol otodidak tapi stuck terus ada rekomendasi kelas yg cocok buat pemula banget kah,1,0.0,False
+min maaf nanya saya udah nyoba belajar blajar <topic> dari nol otodidak tapi stuck terus ada rekomendasi kelas yang cocok buat pemula banget kah,1,0.0,False
+min maaf nanya saya udah nyoba blajar <topic> otodidak tapi stuck terus ada rekomendasi kelas yg cocok buat pemula banget kah,1,0.0,False
+min maaf nanya saya udah nyoba learning <topic> buat model otodidak tapi stuck terus ada rekomendasi kelas yg cocok buat pemula banget kah,1,0.0,False
+min maaf nanya sy udah nyoba belajar belajar <topic> dari nol otodidak tapi stuck terus ada rekomendasi kelas yg cocok buat pemula banget kah,1,0.0,False
+min nanya dong kelas <topic> buat model kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,1,0.0,False
+min nanya dong kelas <topic> dasar kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,1,0.0,False
+min nanya dong kelas <topic> di <topic> kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,1,0.0,False
+min nanya dong kelas belajar <topic> dari nol kapan buka lagi w udah lumayan paham dasarnya tp masih stuck pas mau lanjutin ada req apa ga buat masuk,1,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> / <topic> <topic> ada rekomendasi,1,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> buat model <topic> ada rekomendasi,1,0.0,False
+min tim saya butuh solusi yang praktis buat <topic> buat model tanpa perlu learning coding ada rekomendasi,1,0.0,False
+min tim saya butuh solusi yang praktis buat bikin <topic> kayak <topic> <topic> ada rekomendasi,1,0.0,False
+min tolongin dong minggu depan aku ada <topic> disuruh paham <topic> buat model tapi aku belum ngerti sama sekali ada kelas yg bisa dipelajarin cepet ga buat seminggu ini,1,0.0,False
+min urgent butuh kuasain <topic> buat model secepatnya buat kerjaan ada kelas intensif ga,1,0.0,False
+min urgent butuh kuasain <topic> buat model sefastnya buat kerjaan ada kelas intensif ga,1,0.0,False
+min urgent butuh kuasain <topic> dasar secepatnya buat kerjaan ada kelas intensif ga,1,0.0,False
+min urgent butuh kuasain blajar <topic> dari nol secepatnya buat kerjaan ada kelas intensif ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada kelas <topic> buat laporan ke atasan yang bisa dipelajarin cepet ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada kelas <topic> buat model yang bisa dipelajarin cepet ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada kelas ai yang gampang buat <topic> buat laporan ke atasan <topic>,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada kelas ai yang gampang buat <topic> buat model <topic>,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada kelas belajar <topic> dari nol yg bisa dipelajarin cepet ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga ada req apa buat masuk kelas <topic> / <topic>,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga aku pengen kuasain <topic> buat laporan ke atasan juga ada rekomendasi kelasnya ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga apa saja prasyarat untuk mengikuti kelas <topic> dasar,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga apakah ada kelas yang membahas <topic> buat laporan ke atasan secara mendalam,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga apakah ada kelas yang membahas <topic> buat model secara mendalam,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga apakah kelas bikin <topic> kayak <topic> tersedia dalam format online,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga buat <topic> dasar itu susah ga sih buat pemula kayak aku,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga butuh kuasain <topic> / <topic> secepatnya ada kelas intensif ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga butuh kuasain <topic> buat laporan ke atasan secepatnya ada kelas intensif ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar <topic> buat model bisa <topic> pake ai tanpa ribet,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar <topic> dasar bisa <topic> pake ai tanpa ribet,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar cepet paham <topic> buat laporan ke atasan,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga gimana caranya biar cepet paham belajar <topic> dari nol,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga gmn caranya biar cepet paham <topic> buat model,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalau mau blajar bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo belajar <topic> / <topic> prospek kerjanya gimana kak,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo belajar <topic> buat laporan ke atasan prospek kerjanya gimana kak,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo belajar <topic> prospek kerjanya gimana kak,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo buat <topic> / <topic> timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo buat bikin <topic> kayak <topic> timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo buat learning <topic> dari nol timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kalo learning bikin <topic> kayak <topic> prospek kerjanya gmn kak,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas <topic> / <topic> itu berapa lama durasinya,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas <topic> buat laporan ke atasan kapan buka lagi,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas <topic> di <topic> itu berapa lama durasinya,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas bikin <topic> kayak <topic> ada diskon ga kak budget lagi cekak nih,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga kelas yg cover <topic> buat laporan ke atasan ada silabus lengkapnya ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga min ada kelas <topic> / <topic> yang mulai minggu ini ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga min ada kelas <topic> yg mulai minggu ini ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga min ada kelas learning <topic> dari nol yg mulai minggu ini ga,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga mohon informasinya mengenai jadwal kelas <topic> dasar,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga mohon informasinya mengenai jadwal kelas <topic> di <topic>,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga solusi <topic> buat belajar <topic> dari nol pake ai ada ga ya,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga spill dong kelas <topic> dasar yg paling worth it,1,0.0,False
+nah kalo udah itu aku jadi penasaran juga spill dong kelas blajar <topic> dari nol yg paling worth it,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada kelas <topic> / <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada kelas <topic> di <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada kelas <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada req apa buat masuk kelas <topic> buat laporan ke atasan,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada req apa buat masuk kelas <topic> buat model,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi ada req apa buat masuk kelas bikin <topic> kayak <topic>,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi aku pengen kuasain <topic> di <topic> juga ada rekomendasi kelasnya ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi apa saja prasyarat untuk mengikuti kelas <topic> di <topic>,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas <topic> dasar secara mendalam,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi apakah ada kelas yang membahas belajar <topic> dari nol secara mendalam,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi buat <topic> / <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi buat <topic> di <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi buat blajar <topic> dari nol itu susah ga sih buat pemula kayak aku,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi butuh kuasain <topic> dasar sefastnya ada kelas intensif ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi butuh kuasain <topic> di <topic> secepatnya ada kelas intensif ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi gimana caranya biar <topic> / <topic> bisa <topic> pake ai tanpa ribet,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi gimana caranya biar <topic> buat laporan ke atasan bisa <topic> pake ai tanpa ribet,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi gimana caranya biar cepet paham <topic> / <topic>,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalau mau belajar <topic> dasar aku harus mulai dari kelas apa ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalau mau blajar <topic> / <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalau mau blajar bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalau mau learning <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo belajar <topic> / <topic> prospek kerjanya gmn kak,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo belajar <topic> prospek kerjanya gimana kak,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo belajar <topic> prospek kerjanya gmn kak,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo blajar <topic> di <topic> prospek kerjanya gimana kak,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo blajar <topic> prospek kerjanya gimana kak,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kalo blajar belajar <topic> dari nol prospek kerjanya gimana kak,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas <topic> buat model kapan buka lagi,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas bikin <topic> kayak <topic> ada diskon ga kak budget lagi cekak nih,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas bikin <topic> kayak <topic> kapan buka lagi,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kelas blajar <topic> dari nol itu berapa lama durasinya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi kira-kira <topic> / <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi min ada kelas <topic> dasar yg mulai minggu ini ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi min ada kelas <topic> di <topic> yang mulai minggu ini ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi min ada kelas belajar <topic> dari nol yang mulai minggu ini ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi min ada kelas bikin <topic> kayak <topic> yang mulai minggu ini ga,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi solusi <topic> buat <topic> / <topic> pake ai ada ga ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi solusi <topic> buat <topic> buat laporan ke atasan pake ai ada ga ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi solusi <topic> buat bikin <topic> kayak <topic> pake ai ada ga ya,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi spill dong kelas <topic> / <topic> yang paling worth it,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi spill dong kelas <topic> / <topic> yg paling worth it,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi spill dong kelas <topic> dasar yg paling worth it,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi spill dong kelas bikin <topic> kayak <topic> yg paling worth it,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi worth it ga sih ambil kelas <topic> buat model buat <topic>,1,0.0,False
+oh gitu ya paham kalo boleh nanya lagi worth it ga sih ambil kelas <topic> dasar buat <topic>,1,0.0,False
+oiya lanjut ada kelas <topic> / <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+oiya lanjut ada kelas <topic> buat laporan ke atasan yg bisa dipelajarin cepet ga,1,0.0,False
+oiya lanjut aku pengen kuasain <topic> / <topic> juga ada rekomendasi kelasnya ga,1,0.0,False
+oiya lanjut aku pengen kuasain <topic> buat laporan ke atasan juga ada rekomendasi kelasnya ga,1,0.0,False
+oiya lanjut aku pengen kuasain <topic> buat model juga ada rekomendasi kelasnya ga,1,0.0,False
+oiya lanjut aku pengen kuasain <topic> dasar juga ada rekomendasi kelasnya ga,1,0.0,False
+oiya lanjut apa saja prasyarat untuk mengikuti kelas <topic> buat model,1,0.0,False
+oiya lanjut apakah ada kelas yang membahas <topic> dasar secara mendalam,1,0.0,False
+oiya lanjut apakah kelas <topic> dasar tersedia dalam format online,1,0.0,False
+oiya lanjut apakah kelas belajar <topic> dari nol tersedia dalam format online,1,0.0,False
+oiya lanjut buat <topic> buat laporan ke atasan itu susah ga sih buat pemula kayak aku,1,0.0,False
+oiya lanjut buat <topic> di <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+oiya lanjut buat bikin <topic> kayak <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+oiya lanjut butuh kuasain <topic> dasar secepatnya ada kelas intensif ga,1,0.0,False
+oiya lanjut butuh kuasain <topic> sefastnya ada kelas intensif ga,1,0.0,False
+oiya lanjut gimana caranya biar cepet paham <topic> buat laporan ke atasan,1,0.0,False
+oiya lanjut gimana caranya biar cepet paham belajar <topic> dari nol,1,0.0,False
+oiya lanjut gmn caranya biar cepet paham <topic> buat laporan ke atasan,1,0.0,False
+oiya lanjut kalau mau belajar <topic> dasar aku harus mulai dari kelas apa ya,1,0.0,False
+oiya lanjut kalau mau learning <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+oiya lanjut kalau mau learning bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+oiya lanjut kalo belajar <topic> prospek kerjanya gimana kak,1,0.0,False
+oiya lanjut kalo buat <topic> buat laporan ke atasan timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+oiya lanjut kalo buat bikin <topic> kayak <topic> timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+oiya lanjut kalo learning <topic> prospek kerjanya gmn kak,1,0.0,False
+oiya lanjut kelas <topic> buat laporan ke atasan ada diskon ga kak budget lagi cekak nih,1,0.0,False
+oiya lanjut kelas <topic> buat laporan ke atasan itu berapa lama durasinya,1,0.0,False
+oiya lanjut kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,1,0.0,False
+oiya lanjut kelas <topic> buat model kapan buka lagi,1,0.0,False
+oiya lanjut kelas <topic> dasar ada diskon ga kak budget lagi cekak nih,1,0.0,False
+oiya lanjut kelas bikin <topic> kayak <topic> kapan buka lagi,1,0.0,False
+oiya lanjut kelas yg cover <topic> buat model ada silabus lengkapnya ga,1,0.0,False
+oiya lanjut kira-kira <topic> / <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+oiya lanjut mohon informasinya mengenai jadwal kelas bikin <topic> kayak <topic>,1,0.0,False
+oiya lanjut solusi <topic> buat <topic> buat model pake ai ada ga ya,1,0.0,False
+oiya lanjut solusi <topic> buat belajar <topic> dari nol pake ai ada ga ya,1,0.0,False
+oiya lanjut spill dong kelas <topic> buat model yg paling worth it,1,0.0,False
+oiya lanjut spill dong kelas <topic> yg paling worth it,1,0.0,False
+oiya lanjut spill dong kelas bikin <topic> kayak <topic> yg paling worth it,1,0.0,False
+oiya lanjut worth it ga sih ambil kelas <topic> buat model buat <topic>,1,0.0,False
+oiya lanjut worth it ga sih ambil kelas bikin <topic> kayak <topic> buat <topic>,1,0.0,False
+oiya lanjut worth it ga sih ambil kelas blajar <topic> dari nol buat <topic>,1,0.0,False
+ok makasih infonya min ngomong-ngomong ada kelas <topic> / <topic> yang bisa dipelajarin cepet ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong ada kelas <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong ada req apa buat masuk kelas belajar <topic> dari nol,1,0.0,False
+ok makasih infonya min ngomong-ngomong aku pengen kuasain belajar <topic> dari nol juga ada rekomendasi kelasnya ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong apa saja prasyarat untuk mengikuti kelas <topic> buat laporan ke atasan,1,0.0,False
+ok makasih infonya min ngomong-ngomong apa saja prasyarat untuk mengikuti kelas <topic> di <topic>,1,0.0,False
+ok makasih infonya min ngomong-ngomong apa saja prasyarat untuk mengikuti kelas learning <topic> dari nol,1,0.0,False
+ok makasih infonya min ngomong-ngomong apakah ada kelas yang membahas <topic> buat model secara mendalam,1,0.0,False
+ok makasih infonya min ngomong-ngomong buat <topic> / <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+ok makasih infonya min ngomong-ngomong buat belajar <topic> dari nol itu susah ga sih buat pemula kayak aku,1,0.0,False
+ok makasih infonya min ngomong-ngomong butuh kuasain <topic> / <topic> sefastnya ada kelas intensif ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong butuh kuasain <topic> buat laporan ke atasan secepatnya ada kelas intensif ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong butuh kuasain bikin <topic> kayak <topic> secepatnya ada kelas intensif ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong gimana caranya biar <topic> buat laporan ke atasan bisa <topic> pake ai tanpa ribet,1,0.0,False
+ok makasih infonya min ngomong-ngomong gmn caranya biar cepet paham belajar <topic> dari nol,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalau mau blajar <topic> / <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalau mau blajar <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalau mau blajar bikin <topic> kayak <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalau mau learning <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalau mau learning <topic> di <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalo belajar <topic> di <topic> prospek kerjanya gmn kak,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalo blajar <topic> di <topic> prospek kerjanya gmn kak,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalo buat <topic> buat laporan ke atasan timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong kalo buat bikin <topic> kayak <topic> timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas <topic> buat model ada diskon ga kak budget lagi cekak nih,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas bikin <topic> kayak <topic> itu berapa lama durasinya,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas blajar <topic> dari nol ada diskon ga kak budget lagi cekak nih,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas yg cover <topic> / <topic> ada silabus lengkapnya ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas yg cover <topic> buat laporan ke atasan ada silabus lengkapnya ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas yg cover <topic> di <topic> ada silabus lengkapnya ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong kelas yg cover learning <topic> dari nol ada silabus lengkapnya ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong kira-kira <topic> buat laporan ke atasan itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+ok makasih infonya min ngomong-ngomong kira-kira belajar <topic> dari nol itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+ok makasih infonya min ngomong-ngomong kira-kira bikin <topic> kayak <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+ok makasih infonya min ngomong-ngomong min ada kelas <topic> buat laporan ke atasan yang mulai minggu ini ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong min ada kelas <topic> di <topic> yang mulai minggu ini ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong min ada kelas <topic> di <topic> yg mulai minggu ini ga,1,0.0,False
+ok makasih infonya min ngomong-ngomong mohon informasinya mengenai jadwal kelas <topic> buat laporan ke atasan,1,0.0,False
+ok makasih infonya min ngomong-ngomong mohon informasinya mengenai jadwal kelas <topic> di <topic>,1,0.0,False
+ok makasih infonya min ngomong-ngomong mohon informasinya mengenai jadwal kelas belajar <topic> dari nol,1,0.0,False
+ok makasih infonya min ngomong-ngomong mohon informasinya mengenai jadwal kelas bikin <topic> kayak <topic>,1,0.0,False
+ok makasih infonya min ngomong-ngomong solusi <topic> buat belajar <topic> dari nol pake ai ada ga ya,1,0.0,False
+ok makasih infonya min ngomong-ngomong spill dong kelas <topic> buat laporan ke atasan yang paling worth it,1,0.0,False
+ok makasih infonya min ngomong-ngomong spill dong kelas <topic> dasar yg paling worth it,1,0.0,False
+ok makasih infonya min ngomong-ngomong spill dong kelas <topic> yang paling worth it,1,0.0,False
+ok makasih infonya min ngomong-ngomong worth it ga sih ambil kelas <topic> dasar buat <topic>,1,0.0,False
+ok makasih infonya min ngomong-ngomong worth it ga sih ambil kelas blajar <topic> dari nol buat <topic>,1,0.0,False
+selamat pagi admin intelligo perkenalkan saya ingin menanyakan terkait silabus kelas learning <topic> dari nol apakah di dalam materi tersebut diajarkan secara mendalam terima kasih atas informasinya,1,0.0,False
+selamat siang admin mohon informasinya mengenai jadwal kelas <topic> buat laporan ke atasan beserta persyaratan pesertanya terima kasih,1,0.0,False
+sori nanya mulu ya min tapi ada kelas <topic> dasar yang bisa dipelajarin cepet ga,1,0.0,False
+sori nanya mulu ya min tapi ada kelas <topic> di <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+sori nanya mulu ya min tapi ada kelas ai yang gampang buat bikin <topic> kayak <topic> <topic>,1,0.0,False
+sori nanya mulu ya min tapi ada req apa buat masuk kelas <topic> buat model,1,0.0,False
+sori nanya mulu ya min tapi apa saja prasyarat untuk mengikuti kelas <topic> dasar,1,0.0,False
+sori nanya mulu ya min tapi apa saja prasyarat untuk mengikuti kelas belajar <topic> dari nol,1,0.0,False
+sori nanya mulu ya min tapi apakah ada kelas yang membahas <topic> / <topic> secara mendalam,1,0.0,False
+sori nanya mulu ya min tapi apakah ada kelas yang membahas <topic> buat laporan ke atasan secara mendalam,1,0.03140101568354359,True
+sori nanya mulu ya min tapi apakah ada kelas yang membahas <topic> dasar secara mendalam,1,0.0,False
+sori nanya mulu ya min tapi apakah kelas <topic> buat laporan ke atasan tersedia dalam format online,1,0.0,False
+sori nanya mulu ya min tapi apakah kelas bikin <topic> kayak <topic> tersedia dalam format online,1,0.0,False
+sori nanya mulu ya min tapi buat <topic> buat laporan ke atasan itu susah ga sih buat pemula kayak aku,1,0.0,False
+sori nanya mulu ya min tapi buat belajar <topic> dari nol itu susah ga sih buat pemula kayak aku,1,0.0,False
+sori nanya mulu ya min tapi buat bikin <topic> kayak <topic> itu susah ga sih buat pemula kayak aku,1,0.0,False
+sori nanya mulu ya min tapi butuh kuasain <topic> / <topic> secepatnya ada kelas intensif ga,1,0.0,False
+sori nanya mulu ya min tapi butuh kuasain <topic> di <topic> sefastnya ada kelas intensif ga,1,0.0,False
+sori nanya mulu ya min tapi gimana caranya biar cepet paham <topic> dasar,1,0.0,False
+sori nanya mulu ya min tapi gmn caranya biar cepet paham <topic>,1,0.0,False
+sori nanya mulu ya min tapi gmn caranya biar cepet paham <topic> / <topic>,1,0.0,False
+sori nanya mulu ya min tapi kalau mau belajar <topic> / <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+sori nanya mulu ya min tapi kalau mau belajar <topic> buat laporan ke atasan aku harus mulai dari kelas apa ya,1,0.0,False
+sori nanya mulu ya min tapi kalau mau belajar <topic> buat model aku harus mulai dari kelas apa ya,1,0.0,False
+sori nanya mulu ya min tapi kalau mau blajar <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+sori nanya mulu ya min tapi kalau mau blajar <topic> buat laporan ke atasan aku harus mulai dari kelas apa ya,1,0.0,False
+sori nanya mulu ya min tapi kalau mau learning <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+sori nanya mulu ya min tapi kalo belajar <topic> / <topic> prospek kerjanya gimana kak,1,0.0,False
+sori nanya mulu ya min tapi kalo blajar <topic> / <topic> prospek kerjanya gmn kak,1,0.0,False
+sori nanya mulu ya min tapi kalo blajar <topic> dasar prospek kerjanya gimana kak,1,0.0,False
+sori nanya mulu ya min tapi kalo blajar belajar <topic> dari nol prospek kerjanya gimana kak,1,0.0,False
+sori nanya mulu ya min tapi kalo blajar bikin <topic> kayak <topic> prospek kerjanya gimana kak,1,0.0,False
+sori nanya mulu ya min tapi kalo buat <topic> buat laporan ke atasan timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+sori nanya mulu ya min tapi kalo buat <topic> dasar timnya orang non-teknis semua tetep bisa ga,1,0.0,False
+sori nanya mulu ya min tapi kelas belajar <topic> dari nol itu berapa lama durasinya,1,-0.006285913077310079,False
+sori nanya mulu ya min tapi kelas bikin <topic> kayak <topic> itu berapa lama durasinya,1,0.0,False
+sori nanya mulu ya min tapi kelas blajar <topic> dari nol itu berapa lama durasinya,1,0.0,False
+sori nanya mulu ya min tapi kelas yg cover <topic> buat laporan ke atasan ada silabus lengkapnya ga,1,0.0,False
+sori nanya mulu ya min tapi kelas yg cover belajar <topic> dari nol ada silabus lengkapnya ga,1,0.0,False
+sori nanya mulu ya min tapi kelas yg cover bikin <topic> kayak <topic> ada silabus lengkapnya ga,1,0.0,False
+sori nanya mulu ya min tapi kira-kira <topic> / <topic> itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+sori nanya mulu ya min tapi min ada kelas <topic> / <topic> yg mulai minggu ini ga,1,0.0,False
+sori nanya mulu ya min tapi min ada kelas <topic> dasar yg mulai minggu ini ga,1,0.0,False
+sori nanya mulu ya min tapi min ada kelas <topic> di <topic> yang mulai minggu ini ga,1,0.0,False
+sori nanya mulu ya min tapi min ada kelas bikin <topic> kayak <topic> yg mulai minggu ini ga,1,0.0,False
+sori nanya mulu ya min tapi mohon informasinya mengenai jadwal kelas bikin <topic> kayak <topic>,1,0.0,False
+sori nanya mulu ya min tapi solusi <topic> buat <topic> buat laporan ke atasan pake ai ada ga ya,1,0.0,False
+sori nanya mulu ya min tapi spill dong kelas <topic> buat laporan ke atasan yg paling worth it,1,0.0,False
+sori nanya mulu ya min tapi spill dong kelas <topic> di <topic> yang paling worth it,1,0.0,False
+sori nanya mulu ya min tapi spill dong kelas <topic> di <topic> yg paling worth it,1,0.0,False
+sori nanya mulu ya min tapi worth it ga sih ambil kelas belajar <topic> dari nol buat <topic>,1,0.0,False
+terus min ada kelas <topic> dasar yg bisa dipelajarin cepet ga,1,0.0,False
+terus min ada kelas <topic> yang bisa dipelajarin cepet ga,1,0.0,False
+terus min ada kelas ai yang gampang buat <topic> buat model <topic>,1,0.0,False
+terus min ada kelas ai yang gampang buat belajar <topic> dari nol <topic>,1,0.0,False
+terus min ada kelas bikin <topic> kayak <topic> yg bisa dipelajarin cepet ga,1,0.0,False
+terus min ada req apa buat masuk kelas <topic> dasar,1,0.0,False
+terus min ada req apa buat masuk kelas <topic> di <topic>,1,0.0,False
+terus min aku pengen kuasain <topic> buat laporan ke atasan juga ada rekomendasi kelasnya ga,1,0.0,False
+terus min apa saja prasyarat untuk mengikuti kelas <topic> buat model,1,0.0,False
+terus min apa saja prasyarat untuk mengikuti kelas <topic> di <topic>,1,0.0,False
+terus min apakah kelas <topic> buat laporan ke atasan tersedia dalam format online,1,0.0,False
+terus min apakah kelas <topic> buat model tersedia dalam format online,1,0.0,False
+terus min buat blajar <topic> dari nol itu susah ga sih buat pemula kayak aku,1,0.0,False
+terus min butuh kuasain <topic> sefastnya ada kelas intensif ga,1,0.0,False
+terus min gimana caranya biar <topic> / <topic> bisa <topic> pake ai tanpa ribet,1,0.0,False
+terus min gmn caranya biar cepet paham <topic> / <topic>,1,0.0,False
+terus min gmn caranya biar cepet paham blajar <topic> dari nol,1,0.0,False
+terus min kalau mau blajar <topic> di <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+terus min kalau mau learning <topic> aku harus mulai dari kelas apa ya,1,0.0,False
+terus min kalo belajar <topic> prospek kerjanya gmn kak,1,0.0,False
+terus min kalo learning <topic> prospek kerjanya gimana kak,1,0.0,False
+terus min kelas <topic> buat laporan ke atasan itu berapa lama durasinya,1,0.0,False
+terus min kelas <topic> buat model itu berapa lama durasinya,1,0.0,False
+terus min kelas <topic> di <topic> ada diskon ga kak budget lagi cekak nih,1,0.0,False
+terus min kelas belajar <topic> dari nol itu berapa lama durasinya,1,0.0,False
+terus min kira-kira <topic> buat laporan ke atasan itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+terus min kira-kira learning <topic> dari nol itu perlu basic apa dulu ga sebelum diambil,1,0.0,False
+terus min min ada kelas <topic> buat laporan ke atasan yang mulai minggu ini ga,1,0.0,False
+terus min min ada kelas belajar <topic> dari nol yg mulai minggu ini ga,1,0.0,False
+terus min mohon informasinya mengenai jadwal kelas <topic> / <topic>,1,0.0,False
+terus min mohon informasinya mengenai jadwal kelas <topic> buat laporan ke atasan,1,0.0,False
+terus min mohon informasinya mengenai jadwal kelas learning <topic> dari nol,1,0.0,False
+terus min solusi <topic> buat <topic> / <topic> pake ai ada ga ya,1,0.0,False
+terus min solusi <topic> buat <topic> buat laporan ke atasan pake ai ada ga ya,1,0.0,False
+terus min solusi <topic> buat <topic> di <topic> pake ai ada ga ya,1,0.0,False
+terus min solusi <topic> buat belajar <topic> dari nol pake ai ada ga ya,1,0.0,False
+terus min worth it ga sih ambil kelas <topic> buat laporan ke atasan buat <topic>,1,0.0,False
+terus min worth it ga sih ambil kelas <topic> buat model buat <topic>,1,0.0,False
+terus min worth it ga sih ambil kelas <topic> di <topic> buat <topic>,1,0.0,False

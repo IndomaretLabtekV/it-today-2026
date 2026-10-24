@@ -1,0 +1,2 @@
+cal_anchor_ndcg,eligible_users,eligible_wrong_top1,recoverable_top1_errors,true_top1_inside_anchor_top4_rate_given_wrong,top1_within_top4_oracle_delta,full_top4_permutation_oracle_delta
+0.6645585714769878,865,441,275,0.6235827664399093,0.02693209837234478,0.052692206862235635

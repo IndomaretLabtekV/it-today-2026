@@ -1,0 +1,15 @@
+{
+  "train_users": 3000,
+  "validation_users": 1000,
+  "champion": 0.6627019575043209,
+  "pairwise": 0.6630364091842537,
+  "future_block_delta": 0.0003344516799327346,
+  "bootstrap_ci": [
+    -0.0007673388374632997,
+    0.0014434861511353262
+  ],
+  "best_iteration": 216,
+  "rows": 35583,
+  "positive_rate": 0.8144790496196334,
+  "weight_mean": 0.11631518602371216
+}

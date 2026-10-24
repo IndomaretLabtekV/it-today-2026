@@ -1,0 +1,22 @@
+{
+  "version": "V43 Joint User-Level Anchor-Residual TabM + Partial PL",
+  "public_anchor": 0.66028,
+  "leader_reference": 0.66142,
+  "leader_gap": 0.0011400000000000299,
+  "selected_backbone": "tabm",
+  "design_gate": false,
+  "lock_evaluated": false,
+  "lock_gate": false,
+  "test_geometry_gate": true,
+  "final_gate": false,
+  "selected_design_delta": -0.0037183148772039765,
+  "selected_design_fold_wins": 0,
+  "selected_design_block_wins": 0,
+  "test_changed_users": 0,
+  "test_top1_changes": 0,
+  "theoretical_max_public_gain": 0.0,
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "candidate_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "primary_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "submission_instruction": "NO V43 SUBMISSION: primary is exact 0.66028 fail-close anchor."
+}

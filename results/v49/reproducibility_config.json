@@ -1,0 +1,120 @@
+{
+  "algorithm": "nested family-balanced greedy rank voting with champion shrinkage",
+  "anchor": {
+    "expected_file_sha256": "443785fb534df9820ce57bfe450a2768881625bf7ae37aa849dd0d9f2afc957d",
+    "expected_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+    "file_sha256": "443785fb534df9820ce57bfe450a2768881625bf7ae37aa849dd0d9f2afc957d",
+    "prior_votes": 2,
+    "public_score_audit_only": 0.66028,
+    "source_relative": "results/v48/v48/submission_v48_anchor_066028_reference.csv",
+    "top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+    "train_proxy": "V30 full cross-fitted OOF from V33"
+  },
+  "data_audit": {
+    "chat_features_used_by_v49": false,
+    "unused_out_of_cohort_chat_users": 90
+  },
+  "expected_core_file_sha256": {
+    "results/v12_2/v12_2_oof_artifacts.npz": "4a070b640abf12103f8ae5717b8d78a7ebb5afc667f3517956ec744ba09718e7",
+    "results/v30/submission_v30_primary.csv": "8bb5631d9384d0b1b2147dfd683850905d1311139fe973bcd8ee2c67b0b289ad",
+    "results/v32/v32_test_score_artifacts.npz": "0148c55f93719464af4dbf85783a0a915e1fa3708793e57618887a64c9f13142",
+    "results/v33/v33_stage1_oof_artifacts.npz": "5b4326a21b50563c21ff0956634a025e93c8657bee4449f4a0b3e61d83be50c6",
+    "results/v48/v48/v48_split_manifest.csv": "0be4b5697c3833b4d06b9887629321d93865a58eece42a787702c05fbfc43cce"
+  },
+  "final_policy": {
+    "anchor_prior_votes": 2,
+    "coverage": 0.03,
+    "experts": [
+      "v1_final_blend",
+      "v5_primary",
+      "v2_supervised_multimodal",
+      "v4_lambdarank"
+    ],
+    "families": [
+      "early_hybrid",
+      "generator_yetirank",
+      "supervised_multimodal",
+      "structured_lambdarank"
+    ],
+    "meta_delta": 0.0002762205616147034,
+    "meta_top1_delta": 0.0008818342151675207,
+    "mode": "head4"
+  },
+  "frozen_policy_sha256": "4590e05b8c341b8446359915af337a8014f2ae7569bcca2bc372f3e573572cd5",
+  "gate_status": {
+    "core_ready": true,
+    "development_gate": false,
+    "final_gate": false,
+    "lock_gate": false,
+    "lock_opened": false,
+    "validation_ready": true
+  },
+  "gates": {
+    "development_benefit_harm": 1.5,
+    "development_delta": 0.00045,
+    "development_edge_vs_single": 1e-05,
+    "development_family_stability": 0.25,
+    "development_id_block_wins": 4,
+    "development_outer_wins": 4,
+    "development_worst_fold": -0.0002,
+    "lock_benefit_harm": 1.25,
+    "lock_block_floor": -0.00025,
+    "pooled_delta": 0.0004,
+    "test_action_range": [
+      3,
+      50
+    ]
+  },
+  "libraries": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "python": "3.14.7",
+    "scikit_learn": "1.9.0"
+  },
+  "metric": "mean user-level NDCG@5",
+  "paths": {
+    "artifact_root": "/home/rian/Projects/intelligo-course-recommender",
+    "data_dir": "/home/rian/Projects/intelligo-course-recommender/data",
+    "output_dir": "/home/rian/Projects/intelligo-course-recommender/results/v49"
+  },
+  "primary_kind": "exact_anchor_fail_close",
+  "provenance_contract": {
+    "genuine_cross_fitted_oof_required_for_learned_selection": true,
+    "hard_coded_test_actions": false,
+    "organizer_data_only": true,
+    "participant_owned_historical_predictions_only": true,
+    "test_predictions_never_used_for_selection": true,
+    "test_user_ids_never_used_for_policy": true
+  },
+  "search_space": {
+    "authority_modes": [
+      "preserve_top1",
+      "head4"
+    ],
+    "coverage_grid": [
+      0.005,
+      0.01,
+      0.015,
+      0.02,
+      0.03
+    ],
+    "maximum_distinct_families": 4,
+    "nonnegative_rank_votes": true,
+    "public_scores_used_for_selection": false,
+    "quality_floor_below_anchor": 0.03,
+    "test_specific_weights": false
+  },
+  "seed": 20260905,
+  "smoke_mode": false,
+  "validation": {
+    "bootstrap_replicates": 2500,
+    "development_rows": 3402,
+    "group": "v48 latest-template group",
+    "id_blocks": 5,
+    "lock_opened_only_after_development_gate": true,
+    "lock_rows": 598,
+    "outer_folds": 5,
+    "stratification": "highest-relevance module"
+  },
+  "version": "v49"
+}

@@ -1,0 +1,3 @@
+policy,pooled_increment,worst_world,all_worlds_positive,min_precision,min_actions,oracle_worst,development_pass
+SAFE,-0.00018306896413437703,-0.000530346860978828,False,0.0,0,0.0032129070904978164,False
+ATTACK,-0.00037348629310322124,-0.0005607631798520558,False,0.0,0,0.0032129070904978164,False

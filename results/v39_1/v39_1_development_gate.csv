@@ -1,0 +1,3 @@
+action_type,positive_worlds,worst_world_delta,mean_world_delta,min_actions_per_world,mean_action_precision,pooled_user_delta,pooled_ci_low,pooled_ci_high,required_precision,required_ci_floor,development_gate_passed
+top1_12,3,6.555663914300125e-06,1.2136935752930492e-05,1,0.8888888888888888,1.2136935752930492e-05,-9.454932247710254e-07,3.321802830389586e-05,0.6,-2e-05,False
+membership_56,0,-1.7315855359125193e-05,-5.771951786375065e-06,0,0.0,-5.771951786375064e-06,-1.872060377673432e-05,0.0,0.6,-2e-05,False

@@ -1,0 +1,33 @@
+{
+  "reproduction_ok": true,
+  "v30_changed_vs_v25": 77,
+  "expected_v30_changed": 77,
+  "v30_top1_changes": 8,
+  "expected_v30_top1_changes": 8,
+  "v30_membership_changes": 7,
+  "expected_v30_membership_changes": 7,
+  "v31_changed_vs_v30": 60,
+  "expected_v31_changed": 60,
+  "state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "expected_state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "s3_top1_kept": 3,
+  "expected_s3_top1": 3,
+  "s3_membership_kept": 4,
+  "expected_s3_membership": 4,
+  "s3_order_only_rejected": 27,
+  "expected_s3_order_only": 27,
+  "hybrid34_top5_sha256": "47f7db52ce8f782b8b393fd120140f1b6f51aeac452a9fabb5794cc9d8ba5e6e",
+  "expected_hybrid34_top5_sha256": "47f7db52ce8f782b8b393fd120140f1b6f51aeac452a9fabb5794cc9d8ba5e6e",
+  "current_anchor_top5_sha256": "c70ce570ec311e3f7391cec324e566a3a0e27da99ffc210afc3a8f102daf0191",
+  "expected_current_anchor_top5_sha256": "c70ce570ec311e3f7391cec324e566a3a0e27da99ffc210afc3a8f102daf0191"
+}

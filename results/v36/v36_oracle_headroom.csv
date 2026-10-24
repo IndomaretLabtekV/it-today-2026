@@ -1,0 +1,7 @@
+world,scope,stable_proposals,oracle_gain,oracle_top1pct_gain
+A,CORRIDOR,0,0.0,0.0
+A,ATTACK,0,0.0,0.0
+B,CORRIDOR,0,0.0,0.0
+B,ATTACK,0,0.0,0.0
+C,CORRIDOR,0,0.0,0.0
+C,ATTACK,0,0.0,0.0

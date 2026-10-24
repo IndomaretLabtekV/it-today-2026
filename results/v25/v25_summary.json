@@ -1,0 +1,9 @@
+{
+  "version": "V25",
+  "canonical_base": "results/v24/submission_v24_consensus3_reference.csv",
+  "public_anchor": 0.65912,
+  "leader": 0.66083,
+  "first_submission": "submission_v25_primary_distilled6_pb.csv",
+  "second_submission": "submission_v25_lastshot_distilled9_pb.csv",
+  "warning": "High-variance public-action attacks; leaderboard improvement is not guaranteed."
+}

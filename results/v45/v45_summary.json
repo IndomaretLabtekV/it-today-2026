@@ -1,0 +1,20 @@
+{
+  "version": "v45",
+  "public_anchor": 0.66028,
+  "public_top5_cutoff": 0.66076,
+  "public_leader": 0.66142,
+  "primary_family": "CORE_REPEAT_M002_M003_B45",
+  "fresh_split_seed": 20260904,
+  "design_pass": false,
+  "lock_pass": false,
+  "final_gate": false,
+  "changed_users_if_candidate": [
+    "U_4491",
+    "U_4836",
+    "U_4929"
+  ],
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "candidate_top5_sha256": "514753d9a27ad4ace04017bf1a2883d95a9008f186b9668a4afe8a2eddb472f2",
+  "primary_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "submission_instruction": "DO NOT spend a leaderboard slot on V45: primary fail-closed exactly to the 0.66028 champion. Inspect audits before choosing the next experiment."
+}

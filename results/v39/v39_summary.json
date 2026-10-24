@@ -1,0 +1,38 @@
+{
+  "version": "V39 Direct Intent Trajectory Residual LTR",
+  "public_anchor": 0.6602,
+  "top4_reference": 0.6608,
+  "leader_reference": 0.66142,
+  "fixed_alpha": 0.16,
+  "fresh_worlds": {
+    "AD": 880069306,
+    "AE": 1418998747,
+    "AF": 1816396575
+  },
+  "trajectory_views": {
+    "R": [
+      "traj_last_recency",
+      "traj_count_capped"
+    ],
+    "U": [
+      "traj_unique_inv_rank",
+      "traj_unique_rank_norm"
+    ]
+  },
+  "attack_surface": "S0 only; V25/V30/S1/S2/current-S3 locked",
+  "action_geometry": [
+    "pure 1<->2 Top1",
+    "pure 5<->6 membership"
+  ],
+  "development_approved_types": [],
+  "final_approved_types": [],
+  "reproduction_ok": true,
+  "final_gate_passed": false,
+  "selected_test_actions": 0,
+  "test_action_counts": {
+    "top1_12": 1
+  },
+  "current_anchor_top5_sha256": "c70ce570ec311e3f7391cec324e566a3a0e27da99ffc210afc3a8f102daf0191",
+  "primary_top5_sha256": "c70ce570ec311e3f7391cec324e566a3a0e27da99ffc210afc3a8f102daf0191",
+  "submission_instruction": "NO NEW V39 SUBMISSION: primary is the exact 0.66020 fail-close anchor."
+}

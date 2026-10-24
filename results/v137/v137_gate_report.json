@@ -1,0 +1,62 @@
+{
+  "decision": "HOLD",
+  "primary": {
+    "anchor_mean": 0.6647798208961772,
+    "candidate_mean": 0.6657185881992806,
+    "gain": 0.0009387673031036111,
+    "positive_folds": 4,
+    "worst_fold": -0.0005487460168082378,
+    "user_ci": [
+      9.711817534021926e-05,
+      0.0017832279343439888
+    ],
+    "cluster_ci": [
+      0.00010583843027348397,
+      0.001768341906662937
+    ],
+    "positive_mass": 17.747858347689757,
+    "negative_mass": 13.992789135275316,
+    "mass_ratio": 1.2683574501203656,
+    "membership_change_rate": 0.1015,
+    "selected_alphas": [
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ],
+    "deploy_alpha": 0.05
+  },
+  "primary_gates": {
+    "primary_gain_ge_00100": false,
+    "positive_folds_ge4": true,
+    "worst_fold_ge_minus00050": false,
+    "user_ci_lower_gt_minus00020": true,
+    "cluster_ci_lower_gt_minus00020": true,
+    "positive_mass_ratio_ge_1p25": true,
+    "nonzero_alpha_ge4": true,
+    "median_alpha_le_002": false,
+    "membership_rate_1_to_15pct": true
+  },
+  "stress_gates": {
+    "forward_gain_ge_00040": false,
+    "contiguous_mean_ge_00050": false,
+    "contiguous_nonnegative_ge3": false,
+    "contiguous_min_ge_minus00100": false,
+    "template_group_min_ge_minus00100": false,
+    "template_group_mean_positive": false
+  },
+  "second_seed_gates": {
+    "second_seed_mean_ge_00075": false,
+    "second_seed_nonnegative_ge4": false,
+    "second_seed_worst_ge_minus00075": false
+  },
+  "test_geometry": {},
+  "test_gates": {
+    "test_core_smd_lt_1p5": false,
+    "no_unseen_template_bucket_controls_predictions": false,
+    "test_top1_immutable": false
+  },
+  "candidate_file": null,
+  "submit_instruction": "DO NOT SPEND A SUBMISSION SLOT"
+}

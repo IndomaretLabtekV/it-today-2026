@@ -1,0 +1,3 @@
+slot,candidate,rule,purpose
+2,submission_v271_primary.csv,Submit only if STRICT_GATE=True and primary differs from anchor.,Generalization-gated Head12 population correction.
+3,conditional after public result,Do not pre-commit slot 3; inspect the public response and diagnostics first.,Avoid another blind expansion cycle.

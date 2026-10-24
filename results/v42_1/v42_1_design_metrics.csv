@@ -1,0 +1,2 @@
+anchor_ndcg,candidate_ndcg,delta,top1_delta,ci_low,ci_high,block_ci_low,block_ci_high,fold_wins,block_wins,worst_block_delta,cold_template_n,cold_template_delta,low_support_n,low_support_delta,geom_changed_users,geom_top1_changes,geom_top4_membership_changes,geom_top5_membership_changes,geom_rank5_changes,geom_rank5_to_17_changes
+0.6596778019827846,0.6597467819918572,6.89800090726278e-05,-0.0002941176470587781,1.4468220438955881e-07,0.00014881377491416493,1.0590952416706232e-05,0.00013066584857937454,3,4,-2.720174282699883e-05,595,0.0,237,0.0,21,1,0,0,0,0

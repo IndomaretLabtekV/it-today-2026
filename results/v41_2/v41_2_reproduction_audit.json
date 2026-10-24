@@ -1,0 +1,31 @@
+{
+  "exact_v30_v31_current_reproduction": true,
+  "current_anchor_hash": "c70ce570ec311e3f7391cec324e566a3a0e27da99ffc210afc3a8f102daf0191",
+  "expected_current_anchor_hash": "c70ce570ec311e3f7391cec324e566a3a0e27da99ffc210afc3a8f102daf0191",
+  "b34_hash": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "expected_b34_hash": "a235d00a05cb32573ba79565d05d70e3b65928cdb413d354acb5f9b1e039730c",
+  "b34_rows": 10,
+  "expected_boundary_counts": {
+    "B23": 9,
+    "B34": 10,
+    "B45": 8
+  },
+  "state_counts": {
+    "S0": 897,
+    "S1": 26,
+    "S2": 43,
+    "S3": 34
+  },
+  "test_eligible_s0_s2": 940,
+  "test_locked_s1_s3": 60,
+  "no_historical_submission_csv_input": true,
+  "external_labeled_data_used": false,
+  "open_source_pretrained_qwen_only": true,
+  "no_direct_genai_test_relevance": true,
+  "no_user_id_predictive_feature": true,
+  "no_post_lock_retraining": true,
+  "outer_cal_validation_label_isolation": true,
+  "top5_membership_frozen": true,
+  "s1_s3_immutable": true,
+  "final_score_blending_removed": true
+}

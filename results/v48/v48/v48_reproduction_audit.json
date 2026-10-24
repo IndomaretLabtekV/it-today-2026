@@ -1,0 +1,87 @@
+{
+  "version": "V48 Protected Cross-Fitted Multi-View Ensemble Selection",
+  "organizer_data_only": true,
+  "external_labeled_data": false,
+  "champion_frozen": true,
+  "meta_model": "10-slot nonnegative discrete ensemble selection with replacement",
+  "experts": [
+    "consensus3",
+    "v30",
+    "v31",
+    "qwen"
+  ],
+  "semantic_model_id": "Qwen/Qwen3-Embedding-0.6B",
+  "semantic_revision": "d43997c8a1046d1734f8d519effbb424a832a0a2",
+  "semantic_label_free": true,
+  "s0_only": true,
+  "top4_score_permutation_only": true,
+  "top5_membership_frozen": true,
+  "ranks5_to17_frozen": true,
+  "public_probe_users_protected": [
+    "U_4030",
+    "U_4047",
+    "U_4074",
+    "U_4144",
+    "U_4176",
+    "U_4491",
+    "U_4498",
+    "U_4567",
+    "U_4650",
+    "U_4731",
+    "U_4836",
+    "U_4876",
+    "U_4929",
+    "U_4953"
+  ],
+  "v25_protected_users": [
+    "U_4047",
+    "U_4074",
+    "U_4176",
+    "U_4491",
+    "U_4567",
+    "U_4836",
+    "U_4929",
+    "U_4953"
+  ],
+  "split_seed": 2026090470,
+  "struct_seed": 2026090481,
+  "meta_seed": 2026090482,
+  "coverage_grid": [
+    0.005,
+    0.01,
+    0.015,
+    0.02,
+    0.03
+  ],
+  "outer_folds": 5,
+  "inner_struct_folds": 3,
+  "ensemble_slots": 10,
+  "anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "expected_anchor_top5_sha256": "7c0d29a7309b7283a043b7d37ca5556ba7c0ca2270b0137a6e1e0878a69a5fe7",
+  "semantic_ready": false,
+  "semantic_error": "ValueError: Backend should be defined in the BACKENDS_MAPPING. Offending backend: keras_nlp",
+  "dev_gate": false,
+  "lock_evaluated": false,
+  "lock_gate": false,
+  "test_semantic_ready": false,
+  "test_semantic_error": "",
+  "final_gate": false,
+  "final_policy": {
+    "counts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "weights": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "coverage": 0.0,
+    "meta_delta": 0.0,
+    "meta_top1_delta": 0.0,
+    "slots": 0
+  }
+}

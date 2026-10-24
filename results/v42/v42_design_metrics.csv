@@ -1,0 +1,2 @@
+anchor_ndcg,control_ndcg,gencat_ndcg,gencat_delta,gencat_minus_control,top1_delta,fold_wins,block_wins,user_ci_low,user_ci_high,block_ci_low,block_ci_high,template_stress_mean_delta,geom_changed_users,geom_top1_changes,geom_top4_membership_changes,geom_top5_membership_changes,geom_rank5_changes,geom_rank5_to_17_changes,design_gate
+0.6596122003519937,0.6596397803889288,0.6597332743000666,0.00012107394807281402,9.349391113777639e-05,0.0,4,4,7.509045884651438e-06,0.000256567486788614,6.37701230182509e-06,0.00029064959611402915,0.00012130628210516026,27,2,0,0,0,0,False

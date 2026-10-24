@@ -1,0 +1,12 @@
+probe,rng_family,search_range,hypothesis,result,status
+K_direct,numpy.default_rng,seed 0..999999,"rng.integers(4,7,size=20)",0 exact seeds,ELIMINATED
+K_direct,python.random.Random,seed 0..999999,"randrange(3) / choice([4,5,6]) first 20",0 exact seeds,ELIMINATED
+K_direct,numpy.RandomState,seed 0..99999,"randint(4,7,size=20)",0 exact seeds,ELIMINATED
+chat_count_hierarchical,numpy.default_rng,seed 0..999999,3% zero + 60/30/10 tier + uniform count; first 15 users,0 exact seeds,ELIMINATED
+chat_count_hierarchical,python.random.Random,seed 0..999999,same hierarchical mechanism; first 15 users,0 exact seeds,ELIMINATED
+no_chat_exact_set,numpy.default_rng,seed 0..999999,"choice(5000,150,replace=False)",0 exact seeds,ELIMINATED
+no_chat_exact_set,python.random.Random,seed 0..199999,"sample(range(5000),150)",0 exact seeds,ELIMINATED
+expert_all5_mask,numpy.default_rng,seed 0..499999,independent random()<0.03 mask,0 exact seeds,ELIMINATED
+expert_all5_mask,python.random.Random,seed 0..499999,independent random()<0.03 mask,0 exact seeds,ELIMINATED
+expert_all5_mask,numpy.RandomState,seed 0..99999,independent rand()<0.03 mask,0 exact seeds,ELIMINATED
+rank2_jitter_direct,numpy.default_rng / RandomState / python.random,small/common seed ranges + stream-offset scans,"direct rounded Uniform(.8,.9) stream",no credible exact stream match,ELIMINATED_SIMPLE_STREAM

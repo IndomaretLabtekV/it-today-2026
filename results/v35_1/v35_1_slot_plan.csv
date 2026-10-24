@@ -1,0 +1,4 @@
+file,role,eligible_to_submit,note
+submission_v35_1_primary.csv,PRIMARY,False,Submit ONLY when final_gate=True. Otherwise this file is exact V30 fail-close.
+submission_v35_1_DIAGNOSTIC_attack_indobert.csv,DIAGNOSTIC_ONLY,False,Never promote from test geometry if confirmation failed.
+submission_v35_1_anchor_v30_reconstructed.csv,ANCHOR_REFERENCE,False,Exact public V30 reference.

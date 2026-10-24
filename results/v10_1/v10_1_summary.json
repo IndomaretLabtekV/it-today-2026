@@ -1,0 +1,84 @@
+{
+  "public_anchor_lb": 0.65639,
+  "leader_lb_at_design_time": 0.65805,
+  "required_public_delta": 0.0016599999999999948,
+  "nested_anchor": 0.6633160831472176,
+  "nested_candidate": 0.6630740172276729,
+  "nested_delta": -0.00024206591954467616,
+  "expected_lb_if_1to1_transfer": 0.6561479340804554,
+  "bootstrap_ci": [
+    -0.0008717882862577374,
+    0.00040565611852946755
+  ],
+  "outer_deltas": [
+    -0.0007935131773978421,
+    3.698872057211755e-05,
+    -0.00043741564833499336,
+    -1.1829443276822893e-05,
+    -4.560049285839973e-06
+  ],
+  "outer_wins": 1,
+  "worst_outer_delta": -0.0007935131773978421,
+  "outer_rules": [
+    {
+      "score": 0.6559070568704553,
+      "variant": "classifier",
+      "q": 0.05999999865889549,
+      "swap_rate": 0.0596875,
+      "best_score": 0.6559070568704553
+    },
+    {
+      "score": 0.6591349106656824,
+      "variant": "classifier",
+      "q": 0.07999999821186066,
+      "swap_rate": 0.0796875,
+      "best_score": 0.6591349106656824
+    },
+    {
+      "score": 0.6569455438948233,
+      "variant": "classifier",
+      "q": 0.019999999552965164,
+      "swap_rate": 0.0196875,
+      "best_score": 0.6569455438948233
+    },
+    {
+      "score": 0.6580341456230251,
+      "variant": "classifier",
+      "q": 0.029999999329447746,
+      "swap_rate": 0.0296875,
+      "best_score": 0.6580662779417819
+    },
+    {
+      "score": 0.6609198640730614,
+      "variant": "classifier",
+      "q": 0.07999999821186066,
+      "swap_rate": 0.0796875,
+      "best_score": 0.6609198640730614
+    }
+  ],
+  "outer_swap_rates": [
+    0.05875,
+    0.07875,
+    0.01875,
+    0.02875,
+    0.07875
+  ],
+  "strict_swap_rate": 0.05275,
+  "strict_swap_precision": 0.2938388625592417,
+  "strict_harmful_swap_rate": 0.33175355450236965,
+  "strict_mean_true_swap_delta": -0.0045889271423220634,
+  "final_rule": {
+    "score": 0.6633685429191047,
+    "variant": "classifier",
+    "q": 0.029999999329447746,
+    "swap_rate": 0.02975,
+    "best_score": 0.6633685429191047
+  },
+  "test_swap_rate": 0.029,
+  "test_top5_change": 0.029,
+  "test_top1_change": 0.0,
+  "test_top4_unchanged_rate": 1.0,
+  "promotion_gate": false,
+  "primary": "submission_v10_1_primary.csv",
+  "candidate_file": "submission_v10_1_candidate.csv"
+}

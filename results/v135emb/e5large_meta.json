@@ -1,0 +1,10 @@
+{
+ "model": "intfloat/multilingual-e5-large",
+ "rev": "3d7cfbdacd47",
+ "qpre": "query: ",
+ "dpre": "passage: ",
+ "pool": "st",
+ "dtype": "fp16-infer/fp32-store",
+ "torch": "2.14.0+cu130",
+ "encode_sec": 29.6
+}

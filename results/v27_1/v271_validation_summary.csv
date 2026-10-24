@@ -1,0 +1,5 @@
+world,policy,coverage,margin_cap,pair_support,pmin,max_neg,selected,eligible,positive,harmful,ties,precision,mean_delta,ci_low,ci_high,independent_groups,fold_wins,fold_count,worst_fold
+group_selection,ultra005,0.005,0.01,10,0.6,0,7,7,7,0,0,1.0,0.0001890491257654503,3.1743838527901585e-05,0.00038009492685978124,5,4,5,0.0
+ordinary,ultra005,0.005,0.01,10,0.6,0,6,6,6,0,0,1.0,0.00012843847798649222,1.0764373957178489e-05,0.0002848952310528644,5,4,5,0.0
+fresh_lock,ultra005,0.005,0.01,10,0.6,0,1,1,0,1,0,0.0,-0.00012722730753012002,-0.0004004412268169105,0.0,1,0,0,
+chronological,ultra005,0.005,0.01,10,0.6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,

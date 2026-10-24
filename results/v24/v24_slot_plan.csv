@@ -1,0 +1,4 @@
+slot,file,measurement,decision
+1,submission_v24_probe3_pb_plus_u4498.csv,c = LB - 0.65912,Keep U4498 only if its isolated LB exceeds 0.65912.
+2,submission_v24_probe4_pb_plus_u4876.csv,d = LB - 0.65912,Keep U4876 only if its isolated LB exceeds 0.65912.
+3,submission_v24_probe1_u4047_only.csv,a = LB - 0.65856; b = 0.65912 - LB,Tests whether removing U4953 beats the combined current PB.

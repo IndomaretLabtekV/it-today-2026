@@ -1,0 +1,2 @@
+row_local,global_row,user_id,action_type,promoted_module,demoted_module,trajectory_recency_adv,trajectory_unique_adv,trajectory_confidence,model_margin_r,model_margin_u,model_agreement_margin,approved_by_validation
+507,4507,U_4508,top1_12,M_012,M_017,0.5034146904945374,0.5,0.5017073452472687,0.00034677982330322266,0.0005834698677062988,0.00034677982330322266,False

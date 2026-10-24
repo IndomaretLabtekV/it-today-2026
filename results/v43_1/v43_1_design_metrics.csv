@@ -1,0 +1,2 @@
+anchor_ndcg,candidate_ndcg,delta,epoch,beta,top1_delta,ci_low,ci_high,fold_wins,block_wins,high_id_delta,geom_changed_users,geom_top1_changes,geom_top5_membership_changes,geom_rank5_changes,geom_rank5_to_17_changes
+0.6623833135573729,0.6623358454222954,-4.746813507743429e-05,8,0.03125,-0.0002941176470587781,-0.00013150058038669703,2.8027710627436013e-05,1,1,-0.00014458381552007182,17,3,0,0,0

@@ -1,0 +1,1 @@
+row_local,global_row,user_id,action_type,promoted_module,demoted_module,trajectory_recency_adv,trajectory_unique_adv,trajectory_confidence,model_agreement_margin,world,true_delta_if_applied,beneficial_if_applied

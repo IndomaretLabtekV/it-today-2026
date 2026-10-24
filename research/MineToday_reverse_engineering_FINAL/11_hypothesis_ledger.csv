@@ -1,0 +1,21 @@
+id,component,hypothesis,confidence,support,remaining_uncertainty
+H01,No-chat selection,Exactly 150/5000 valid users are no-chat; likely exact 3% sample,VERY_HIGH,150 exact; extras all have chats,Exact selection API/seed unknown
+H02,Engagement tiers,Nonzero users split approximately 60/30/10 into LOW/MEDIUM/HIGH,HIGH,Count marginal chi-square p=0.3956 on 5090 mechanism,Tier probabilities could be close variants
+H03,LOW chat count,Uniform integer 1..2,VERY_HIGH,1435 vs 1434 valid users; internal uniform p~0.93,None material
+H04,MEDIUM chat count,Uniform integer 3..5,VERY_HIGH,482/502/464 valid counts; uniform plausible,"Pivot branch changes timestamps, not count range"
+H05,HIGH chat count,Uniform integer 6..10,HIGH,90/111/107/116/109; uniform plausible,Small deviations compatible with RNG
+H06,LOW timestamps,"Generate independent Uniform(0,5d) then sort",VERY_HIGH,KS p=0.174; order-stat windows ~4.9d,Exact endpoint convention unknown
+H07,MEDIUM timestamps regular,"Uniform(0,45d) then sort",VERY_HIGH,KS p=0.322; order-stat estimates ~44.6-45.6d,Exact endpoint convention unknown
+H08,HIGH timestamps regular,"Approximately Uniform(0,90d) then sort",HIGH,Order-stat estimates ~89-91d; seconds-of-day uniform,Pooled KS p=0.012 suggests slight deviation/mixture
+H09,Pivot branch,240 medium users; pivot always second chat,EXACT,Observed directly,Selection probability/seed unknown
+H10,Pivot timing,"t1~U(0,21d), t2=t1+integer U{25..60}d, later~sorted U(t2+3,t2+48d)",VERY_HIGH,"p_first=0.450, p_gap=0.652, p_post=0.729",Exact random API unknown
+H11,Orphan dirty users,Append U_5001..U_5090 chat-only users,VERY_HIGH,"Exactly 90 extras, counts 1..3, 60d window",Purpose unknown
+H12,Support/noise messages,~5% chat messages are transactional/support noise,HIGH,682/14573=4.68%; first/followup template families uniform-like,Branch may be per-message with conditional exclusions
+H13,Followup prefix choice,10 approximately uniform prefix families,HIGH,All 8933 normal followups covered; chi-square p=0.055,Weights could be weakly nonuniform
+H14,Expert assessment override,Likely 150 users (3%) with latent all-5 assessment before corruption,HIGH,149 rows have no observed valid non-5; U_4876 uniquely completes plausible 150,One row inference not directly observable
+H15,Assessment archetypes,Profiles generated around integer prototype vectors with independent noise,HIGH for advanced; MEDIUM overall,"Advanced center near [4,3,3,3,4,3,2,2,2,3], sigma~0.83",Low/intermediate are multi-archetype
+H16,Assessment corruption,"Separate post-generation row/cell corruption: words, numeric strings, sentinels",VERY_HIGH,748 string cells; 251 out-of-range cells; obvious all-5 corruption cases,Exact corruption probabilities/API unknown
+H17,K,"Independent Uniform{4,5,6}",VERY_HIGH,counts 1362/1285/1353; chi-square p=0.265,Exact RNG/call order unknown
+H18,Relevance jitter,"After ranking, assign rank-specific rounded continuous uniform bands",VERY_HIGH,All 5 bands pass rounded-uniform GOF; endpoint half-bin signature,Exact RNG/call order unknown
+H19,Module ordering,Depends on visible assessment/chat plus hidden latent randomness,"VERY_HIGH existence, LOW exact formula",Exact duplicate observables frequently have conflicting labels,Literal scoring formula not identifiable from released columns alone
+H20,Single small global seed,Simple direct small-seed streams,ELIMINATED,Multiple brute-force probes return zero exact seed,Could still be global RNG after many prior calls or large seed

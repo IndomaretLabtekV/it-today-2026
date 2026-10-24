@@ -1,0 +1,58 @@
+{
+  "public_consensus3_lb": 0.65856,
+  "public_top2_lb": 0.65966,
+  "public_leader_lb": 0.66082,
+  "selected": "stable050",
+  "selected_alpha": 0.05,
+  "trusted_modules": [
+    "M_003",
+    "M_009",
+    "M_014",
+    "M_016"
+  ],
+  "cal_row": {
+    "candidate": "stable050",
+    "alpha": 0.05,
+    "cal_delta": 0.0007170416845091454,
+    "fold_wins": 2,
+    "fold_deltas": [
+      -0.0003660064275101682,
+      0.0019320592594831432,
+      0.00134683181980777,
+      -4.471791374427436e-05
+    ],
+    "seen_delta": 0.0010174558685384083,
+    "novel_delta": 0.0006465246226668997
+  },
+  "trust_gate": true,
+  "cal_gate": false,
+  "lock_delta": -0.0005313260439372414,
+  "lock_ci": [
+    -0.0013092575380693487,
+    6.926555748845293e-05
+  ],
+  "lock_seen_delta": -0.0012469846756508751,
+  "lock_novel_delta": -0.00025872854614239493,
+  "lock_gate": false,
+  "perturb_gate": true,
+  "promote": false,
+  "primary_label": "consensus3_fallback",
+  "test_set_change": 0.015,
+  "test_order_change": 0.049,
+  "test_top1_change": 0.002,
+  "split_sizes": {
+    "adapt": 2400,
+    "cal": 1000,
+    "lock": 600
+  },
+  "dims": [
+    512,
+    1024,
+    4096
+  ],
+  "bag_seeds": [
+    0,
+    911,
+    1823
+  ]
+}

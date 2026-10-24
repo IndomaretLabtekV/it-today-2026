@@ -1,0 +1,2 @@
+candidate,actions,unique_users,top1_changed_users,top5_order_changed_users,top5_membership_changed_users,positions_valid,model_gate,geometry_gate,final_gate
+ATTACK,0,0,0,0,0,True,False,False,False

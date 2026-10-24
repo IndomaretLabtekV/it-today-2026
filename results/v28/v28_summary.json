@@ -1,0 +1,37 @@
+{
+  "version": "V28 Hierarchical Top-K Graded Module Calibration",
+  "seed": 42,
+  "public_anchor": 0.65919,
+  "leader_reference": 0.66112,
+  "selected_variant": null,
+  "diagnostic_variant": "hmc_plain20",
+  "primary_policy": "anchor_fail_closed",
+  "strict_gate": false,
+  "selection_ok": false,
+  "lock_ok": false,
+  "chrono_ok": true,
+  "pseudo_ok": false,
+  "geometry_ok": true,
+  "lock_delta": -0.002248419685186363,
+  "chrono_delta": 0.0012294163242806255,
+  "test_changed_users": 251,
+  "test_top5_membership_change": 0.048,
+  "test_order_change": 0.251,
+  "test_top1_change": 0.022,
+  "protected_users": [
+    "U_4047",
+    "U_4074",
+    "U_4176",
+    "U_4491",
+    "U_4567",
+    "U_4836",
+    "U_4929",
+    "U_4953"
+  ],
+  "variant_paths": {
+    "hmc_topk35": "/kaggle/working/submission_v28_DIAGNOSTIC_hmc_topk35.csv",
+    "hmc_topk20": "/kaggle/working/submission_v28_DIAGNOSTIC_hmc_topk20.csv",
+    "hmc_plain35": "/kaggle/working/submission_v28_DIAGNOSTIC_hmc_plain35.csv",
+    "hmc_plain20": "/kaggle/working/submission_v28_DIAGNOSTIC_hmc_plain20.csv"
+  }
+}

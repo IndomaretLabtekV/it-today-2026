@@ -1,0 +1,15 @@
+{
+  "model": "nomic-ai/nomic-embed-text-v2-moe",
+  "revision": "1066b6599d099fbb93dfcb64f9c37a7c9e503e85",
+  "code_revision": "7710840340a098cfb869c4f65e87cf2b1b70caca",
+  "user_key": "23683aa55620ab6e5431e3f61f4877a4a6fedc4cf26af9b274bc317fbdc6f548",
+  "module_key": "bffddfe77b3ea92f0869af2d25141144ce778a9bfc0fea20c4a84fc94fbc0af9",
+  "shape_users": [
+    5000,
+    768
+  ],
+  "shape_modules": [
+    17,
+    768
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "status": "final forensic reconstruction from released artifacts",
+  "high_confidence_recovered": [
+    "exact 150/5000 valid no-chat users",
+    "chat engagement count regimes",
+    "LOW 5-day and MEDIUM 45-day sorted-uniform timestamp windows",
+    "240-user position-2 pivot trajectory and timing law",
+    "90 orphan chat-only users with 1..3 chats over 60-day window",
+    "assessment post-generation corruption layer",
+    "K approximately Uniform{4,5,6}",
+    "rank-specific rounded continuous-uniform relevance jitter"
+  ],
+  "non_identifiable": [
+    "literal seed",
+    "exact RNG call order",
+    "exact hidden module ranker"
+  ],
+  "key_pvalues": {
+    "chat_count_full_model": 0.3956235987892162,
+    "pivot_first_U0_21": 0.4496125908018328,
+    "pivot_gap_integer_U25_60": 0.6521829977684332,
+    "pivot_post_U3_48": 0.7291680848291039,
+    "orphan_count_U1_3": 0.4965853037914095,
+    "orphan_time_U0_60": 0.930017973091355,
+    "K_uniform": 0.2646756936486281
+  }
+}

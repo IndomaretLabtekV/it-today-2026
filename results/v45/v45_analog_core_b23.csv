@@ -1,0 +1,19 @@
+family,row,user_id,margin,action_delta,prune_delta,kernel_weight,local,template_group,intent
+CORE_B23,4,U_0005,0.08090537786483765,-0.05128267508186457,0.05128267508186457,9.564830457692104e-15,False,btw sekalian mau tanya juga butuh kuasain learning <topic> dari nol secepatnya ada kelas intensif ga,intent:python
+CORE_B23,371,U_0372,0.41711267828941345,-0.020817490353453705,0.020817490353453705,3.762592074031491e-73,False,nah kalo udah itu aku jadi penasaran juga kalau mau belajar <topic> aku harus mulai dari kelas apa ya,intent:mlops
+CORE_B23,593,U_0594,0.18243569135665894,0.05033526944898614,-0.05033526944898614,2.2032070780835982e-32,False,oiya lanjut kalo belajar <topic> prospek kerjanya gimana kak,intent:business
+CORE_B23,1616,U_1617,0.36727237701416016,0.01690367222765088,-0.01690367222765088,1.7125145276779736e-64,False,habis itu aku mikir lagi kelas yg cover bikin <topic> kayak <topic> ada silabus lengkapnya ga,intent:genai
+CORE_B23,1632,U_1633,0.14473527669906616,0.006737048974750026,-0.006737048974750026,7.803476712028283e-26,False,ok makasih infonya min ngomong-ngomong worth it ga sih ambil kelas <topic> buat <topic>,intent:career+statistics
+CORE_B23,1904,U_1905,0.18139493465423584,-0.015026119500043955,0.015026119500043955,3.3408215259395383e-32,False,habis itu aku mikir lagi min ada kelas bikin <topic> kayak <topic> yang mulai minggu ini ga,intent:genai
+CORE_B23,2107,U_2108,0.20825088024139404,-0.0587540814754095,0.0587540814754095,7.219343152810089e-37,False,sori nanya mulu ya min tapi min ada kelas <topic> yang mulai minggu ini ga,intent:cv
+CORE_B23,2110,U_2111,0.025675058364868164,-0.03595200720622138,0.03595200720622138,3.759814975329175e-05,False,min kok sertifikat kelulusan saya bulan lalu belum masuk ke email ya,intent:none
+CORE_B23,2213,U_2214,0.01355820894241333,0.02032750903052527,-0.02032750903052527,0.004787169558951865,False,terus min worth it ga sih ambil kelas <topic> buat <topic>,intent:career+sql
+CORE_B23,2273,U_2274,0.09272202849388123,0.0177685973237397,-0.0177685973237397,8.470612429916485e-17,False,oiya lanjut spill dong kelas <topic> buat model yg paling worth it,intent:mlops
+CORE_B23,2697,U_2698,0.13719993829727173,-0.02692069930617247,0.02692069930617247,1.5896828666915812e-24,False,ok makasih infonya min ngomong-ngomong min ada kelas <topic> yang mulai minggu ini ga,intent:sql
+CORE_B23,2735,U_2736,0.19607096910476685,0.010507631459623523,-0.010507631459623523,9.426814562834126e-35,False,terus min gmn caranya biar cepet paham blajar <topic> dari nol,intent:python
+CORE_B23,2947,U_2948,0.4948098063468933,0.02179754066055506,-0.02179754066055506,1.1970534599723949e-86,False,habis itu aku mikir lagi kelas yg cover <topic> ada silabus lengkapnya ga,intent:mlops
+CORE_B23,3383,U_3384,0.06186944246292114,0.05055818701534326,-0.05055818701534326,1.9389113703056606e-11,False,terus min worth it ga sih ambil kelas <topic> buat model buat <topic>,intent:career+mlops
+CORE_B23,3389,U_3390,0.010807543992996216,0.0,-0.0,0.014385277823915611,False,halo admin saya mau reset password akun tapi email verifikasi ga masuk-masuk,intent:none
+CORE_B23,3415,U_3416,0.05064547061920166,0.013967319805701983,-0.013967319805701983,1.727275337834422e-09,False,nah kalo udah itu aku jadi penasaran juga kalo blajar <topic> prospek kerjanya gmn kak,intent:sql
+CORE_B23,3469,U_3470,0.03991323709487915,-0.0437220760684216,0.0437220760684216,1.263983752346327e-07,False,oh gitu ya paham kalo boleh nanya lagi min ada kelas bikin <topic> kayak <topic> yang mulai minggu ini ga,intent:genai
+CORE_B23,3518,U_3519,0.10093235969543457,-0.029960707811533704,0.029960707811533704,3.1741993401050827e-18,False,btw sekalian mau tanya juga kalo blajar <topic> prospek kerjanya gmn kak,intent:eda

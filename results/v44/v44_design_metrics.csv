@@ -1,0 +1,2 @@
+anchor_ndcg,candidate_ndcg,delta,fold_wins,block_wins,bootstrap_median,ci_low,ci_high,changed_users,beneficial_rate,harmful_rate,top1_delta,selected_classes,design_gate
+0.66102769165888,0.66102769165888,0.0,0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,,False

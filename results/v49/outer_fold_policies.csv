@@ -1,0 +1,6 @@
+outer_fold,context,experts,families,expert_count,mode,coverage,anchor_prior_votes,meta_delta,meta_top1_delta,best_single_experts
+0,outer_0,v1_final_blend|v5_primary,early_hybrid|generator_yetirank,2,head4,0.03,2,0.0002968009134495264,0.0018368846436443986,v1_final_blend
+1,outer_1,v1_final_blend|v5_primary,early_hybrid|generator_yetirank,2,head4,0.03,2,0.0003411504227100372,0.0014700477765527409,v1_final_blend
+2,outer_2,v1_final_blend|v2_supervised_multimodal|v4_lambdarank|v13_router,early_hybrid|supervised_multimodal|structured_lambdarank|utility_router,4,head4,0.03,2,0.00019628738006998692,0.0007350238882763427,v1_final_blend
+3,outer_3,v2_supervised_multimodal|v4_lambdarank|v1_final_blend,supervised_multimodal|structured_lambdarank|early_hybrid,3,head4,0.03,2,0.0002646457390721146,0.00036737692872890193,v2_supervised_multimodal
+4,outer_4,v2_supervised_multimodal|v1_final_blend|v5_primary,supervised_multimodal|early_hybrid|generator_yetirank,3,head4,0.03,2,0.00033856222328650717,0.0014695077149154967,v2_supervised_multimodal

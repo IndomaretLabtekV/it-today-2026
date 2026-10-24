@@ -1,0 +1,61 @@
+{
+  "version": "V26",
+  "strategy": "core attribution + cluster-safe counterfactual pruning",
+  "public_scores": {
+    "consensus3": 0.65856,
+    "pre_v25_pb": 0.65912,
+    "v25_core6": 0.65919,
+    "leader": 0.66083
+  },
+  "canonical_v25_expected_sha256": "2e9d9553db483d68d98a2a97cc421bc9c996a22e77be755c2b652e7d3f481d4a",
+  "rebuilt_anchor_sha256": "5eb18d291b04c827c3e703a3bfb30264a181b606c921609c8cfd97789a2ef82b",
+  "rebuilt_anchor_exact_hash_match": false,
+  "strict_geometry": true,
+  "auto_prunes": [
+    "U_4491"
+  ],
+  "max_auto_prunes": 2,
+  "probe_specs": {
+    "remove_u4567": [
+      "U_4567"
+    ],
+    "remove_u4929": [
+      "U_4929"
+    ],
+    "remove_u4491": [
+      "U_4491"
+    ],
+    "remove_u4567_u4929": [
+      "U_4567",
+      "U_4929"
+    ]
+  },
+  "primary_policy": "V25 anchor minus strict train-only veto actions; fail closed to anchor",
+  "recommended_public_slots": [
+    {
+      "slot": 1,
+      "file": "submission_v26_probe_remove_u4567.csv",
+      "hypothesis": "The U4567 M012>M014 core action is net harmful despite positive V25 package evidence.",
+      "measurement": "LB - 0.65919",
+      "next_if_up": "Keep U4567 reverted and continue to slot 2.",
+      "next_if_down": "Restore U4567; slot 2 still tests an independent U4929 hypothesis."
+    },
+    {
+      "slot": 2,
+      "file": "submission_v26_probe_remove_u4929.csv",
+      "hypothesis": "The U4929 M002>M003 core action is net harmful.",
+      "measurement": "LB - 0.65919",
+      "next_if_up": "If slot 1 also improved, use combined removal for slot 3.",
+      "next_if_down": "Do not generalize the M002>M003 prune from this user."
+    },
+    {
+      "slot": 3,
+      "file": "CONDITIONAL: submission_v26_probe_remove_u4567_u4929.csv OR submission_v26_probe_remove_u4491.csv",
+      "hypothesis": "Combine independently positive removals; otherwise test the next M002>M003 attribution question.",
+      "measurement": "candidate LB versus the best observed anchor of the day",
+      "next_if_up": "Promote as new canonical anchor.",
+      "next_if_down": "Keep the best earlier public candidate."
+    }
+  ],
+  "warning": "Core-6 has only package-level public validation. Individual probes are causal experiments, not ground-truth claims."
+}
